@@ -1,0 +1,18 @@
+---------- Forwarded message ---------
+From: Digital Bible Library <support@thedigitalbiblelibrary.org>
+Date: Mon, Mar 31, 2025 at 5:22 PM
+Subject: Re: add E2T version to DBL?
+To: Robin Rempel <robinrempel61@gmail.com>
+
+
+Hello Robin,
+
+Thank you for contacting us and we're encouraged to hear of your team's work to develop the E2T version, and how it can help Bible translators.
+
+The E2T resources would be a welcomed addition to the DBL (Digital Bible Library). In order to contribute the content into DBL so that it is most useful to other translators, the Bible text will need to be formatted in the USX format with a tool like Paratext. This free tool comes with many training resources to serve multilingual translators around the world.
+
+When the E2T version is ready to be archived (and uploaded) to DBL, please apply to be an IPC (Intellectual Property Contributor) at https://thedigitalbiblelibrary.org/get-involved/ as the next step.
+
+Feel free to email support@thedigitalbiblelibrary.org if we might be of further assistance.
+
+Regards,
