@@ -13,7 +13,7 @@ const argv = yargs(hideBin(process.argv))
   .help().argv;
 
 function convertDocxToMarkdown(inputPath, outputPath) {
-  const cmd = `pandoc "${inputPath}" -f docx -t markdown -o "${outputPath}"`;
+  const cmd = `pandoc "${inputPath}" -f docx -t markdown  --wrap=none --track-changes=accept --preserve-tabs   -o "${outputPath}"`;
 
   exec(cmd, (error, stdout, stderr) => {
     if (error) {
