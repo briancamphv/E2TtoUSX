@@ -1,7 +1,7 @@
-const fs = require("fs");
-const readline = require("readline");
-const yargs = require("yargs/yargs");
-const { hideBin } = require("yargs/helpers");
+import { createReadStream, createWriteStream, readFile } from "fs";
+import { createInterface } from "readline";
+import yargs from "yargs/yargs";
+import { hideBin } from "yargs/helpers";
 
 const argv = yargs(hideBin(process.argv))
   .version("1.0.1")
@@ -18,10 +18,21 @@ const argv = yargs(hideBin(process.argv))
 
 const filePath = argv._[0]; // change this to your file
 
-const readStream = fs.createReadStream(filePath, "utf8");
-const writeStream = fs.createWriteStream(argv.out, { flags: "w" });
+const readStream = createReadStream(filePath, "utf8");
+const writeStream = createWriteStream(argv.out, { flags: "w" });
 
-const rl = readline.createInterface({
+const noteMap = new Map();
+const bookNotes = [];
+
+const templates = String(argv.templates).split(",");
+
+templates.map(async (template) => {
+  await loadTemplateData(template);
+});
+
+await new Promise((res) => setTimeout(res, 2000)); // 2 second
+
+const rl = createInterface({
   input: readStream,
   crlfDelay: Infinity, // handles \r\n and \n correctly
 });
@@ -29,10 +40,6 @@ const rl = readline.createInterface({
 var ndx = 0;
 
 //logic to load notes datastore
-
-const templates = String(argv.templates).split(",");
-
-console.log("template: " + templates[1]);
 
 writeStream.write(`<?xml version="1.0" encoding="UTF-8"?>\n`);
 writeStream.write(`<usx>\n`);
@@ -49,7 +56,6 @@ var passage = "";
 var chapter = "";
 var chapterEnd = "";
 var cNum = 0;
-
 
 rl.on("line", (line) => {
   if (line.startsWith("**")) {
@@ -99,13 +105,12 @@ rl.on("line", (line) => {
     passage = line;
   }
 
-  //console.log("line " + ndx + ": " + line);
-  //writeStream.write(line + '\n');
   ndx++;
 });
 
 rl.on("close", () => {
   if (passage !== "") {
+    writeStream.write('<para style="p">\n');
     passageParaMarkUp(passage);
     writeStream.write("</para>\n");
   }
@@ -113,6 +118,10 @@ rl.on("close", () => {
   if (chapterEnd != "") {
     writeStream.write(chapterEnd);
   }
+
+  bookNotes.map((note) => {
+    writeStream.write(note);
+  });
 
   writeStream.write("\n</usx>");
   console.log("Done reading file.");
@@ -124,6 +133,95 @@ function isNumeric(str) {
     !isNaN(str) && // use type coercion to parse the _entirety_ of the string (`parseFloat` alone does not do this)...
     !isNaN(parseFloat(str))
   ); // ...and ensure strings of whitespace fail
+}
+
+function loadTemplateData(templateFile) {
+  return new Promise((resolve, reject) => {
+    readFile(templateFile, "utf8", (err, data) => {
+      if (err) {
+        console.error("Error reading file:", err);
+        return reject(err);
+      }
+
+      try {
+        const jsonData = JSON.parse(data);
+
+        jsonData.sections.map((section) => {
+          section.parts.map((part) => {
+            const splitVerse = part.verse.split("-");
+            const noteMapKey = `${part.chapter}:${
+              splitVerse[splitVerse.length - 1]
+            }`;
+            noteMap.set(noteMapKey, part.commentaries);
+          });
+        });
+
+        console.log("po", jsonData.passageOverview.overview);
+
+        bookNotes.push(
+          `<note caller="+" style="ef" category="overview"><char style="no">${jsonData.passageOverview.overview} </char></note>\n`
+        );
+
+        jsonData.passageOverview.notes.map((note) => {
+          const category = String(note.title)
+            .toLocaleLowerCase()
+            .replace(" ", "_");
+
+          bookNotes.push(
+            `<note caller="+" style="ef" category="${category}"><char style="no">${note.content} </char></note>\n`
+          );
+        });
+
+        resolve(); // ✅ Signals completion
+      } catch (parseError) {
+        console.error("Invalid JSON format:", parseError);
+        reject(parseError); // ⚠ Reject if JSON fails
+      }
+    });
+  });
+}
+
+//<note caller="text" style="ef" category=""><char style="no">3.18 </char></note>
+
+function insertExegeticalNotes(key) {
+  const commentaries = noteMap.get(key);
+
+  if (!commentaries) {
+    return;
+  }
+
+  noteMap.get(key).map((commentary) => {
+    commentary.content.trim() !== "" &&
+      writeStream.write(
+        `\n<note caller="${commentary.title.replace(
+          /<\/?i>/g,
+          "*"
+        )}" style="ef" category="content"><char style="no">${commentary.content.replace(
+          /<\/?i>/g,
+          "*"
+        )} </char></note>`
+      );
+    commentary.parrallelRef.trim() !== "" &&
+      writeStream.write(
+        `\n<note caller="${commentary.title.replace(
+          /<\/?i>/g,
+          "*"
+        )}" style="ef" category="parrallelRef"><char style="no">${commentary.parrallelRef.replace(
+          /<\/?i>/g,
+          "*"
+        )} </char></note>`
+      );
+    commentary.extra.trim() !== "" &&
+      writeStream.write(
+        `\n<note caller="${commentary.title.replace(
+          /<\/?i>/g,
+          "*"
+        )}" style="ef" category="extra"><char style="no">${commentary.extra.replace(
+          /<\/?i>/g,
+          "*"
+        )} </char></note>`
+      );
+  });
 }
 
 function passageParaMarkUp(str) {
@@ -144,6 +242,12 @@ function passageParaMarkUp(str) {
     const char = passage[index];
     if (char === "^") {
       if (endVerseBlock !== "") {
+        const key = endVerseBlock
+          .match(/\d+:\d+/)[0]
+          .toString()
+          .trim();
+
+        insertExegeticalNotes(key);
         writeStream.write(endVerseBlock);
       }
       closePos = passage.indexOf("^", index + 1);
@@ -186,6 +290,13 @@ function passageParaMarkUp(str) {
   }
 
   if (endVerseBlock !== "") {
+    const key = endVerseBlock
+      .match(/\d+:\d+/)[0]
+      .toString()
+      .trim();
+
+    insertExegeticalNotes(key);
+
     writeStream.write(endVerseBlock);
   }
 }

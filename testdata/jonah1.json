@@ -1,0 +1,621 @@
+{
+    "__typename": "Template",
+    "bookInfo": {
+        "__typename": "BookInfo",
+        "notes": [
+            {
+                "__typename": "Note",
+                "content": "OR An event in Jonah\u2019s life\nOR The book about JONAH\nOR Jonah",
+                "title": "We call this book JONAH",
+                "parrallelRef": null,
+                "extra": null,
+                "resources": []
+            }
+        ],
+        "summary": "This book is the account about Jonah, when he disobeyed God, was three days in a big fish's belly, and finally went to warn the wicked people in Nineveh city that God was going to destroy them. We call this book JONAH."
+    },
+    "id": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT5",
+    "language": "bwx3BIMdIm7OrlYPpIBK",
+    "originalFileName": "Jonah 1 rev3+Px+Au.docx",
+    "parentFolderID": "1ABvf_I5LQ2y1PXboS-uTouPQ23HtNclG",
+    "parsed": true,
+    "textTitle": {
+        "__typename": "TextTitle",
+        "title": "jonah 1",
+        "bookID": 32,
+        "bookName": "Jonah",
+        "chapter1": 1,
+        "verse1": 1,
+        "chapter2": -1,
+        "verse2": -1
+    },
+    "sections": [
+        {
+            "__typename": "PassageSection",
+            "title": "Jonah refuses to obey Yahweh",
+            "comment": "OR Jonah rebels against Yahweh",
+            "resources": [],
+            "parts": [
+                {
+                    "__typename": "Part",
+                    "text": "<i>1 One day</i> Yahweh said to the <i>prophet </i>Jonah, Amittai\u2019s son, 2 \u201cI have seen how wicked are <i>the people who live in</i> the great city called Nineveh. Therefore, go there and warn the people that I am planning to destroy their city because they have  sinned.\u201d",
+                    "canDelete": false,
+                    "picture": {
+                        "__typename": "SavedResource",
+                        "id": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51p3-J2jG1gmMzE0LZcZW5Bor4nWBV5QLN",
+                        "fileName": "1.jpg",
+                        "errors": null,
+                        "templateId": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT5",
+                        "storageFilePath": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT5/1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51p3-J2jG1gmMzE0LZcZW5Bor4nWBV5QLN.jpg",
+                        "storageFileName": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51p3-J2jG1gmMzE0LZcZW5Bor4nWBV5QLN.jpg",
+                        "uploaded": true,
+                        "mimeType": "image/jpeg"
+                    },
+                    "slideNumber": 1,
+                    "audio": {
+                        "__typename": "SavedResource",
+                        "id": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT510KUzpyq2_IFmwlbKazgxo5uvlkFn5QtT",
+                        "fileName": "Jon 1 1-2.mp3",
+                        "errors": null,
+                        "templateId": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT5",
+                        "storageFilePath": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT5/1DKmkpns0ew4BCfbPVYC5WbWw986_yRT510KUzpyq2_IFmwlbKazgxo5uvlkFn5QtT.mp3",
+                        "storageFileName": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT510KUzpyq2_IFmwlbKazgxo5uvlkFn5QtT.mp3",
+                        "uploaded": true,
+                        "mimeType": "audio/mpeg"
+                    },
+                    "chapter": "1",
+                    "alternateChapter": null,
+                    "verse": "1-2",
+                    "alternateVerse": null,
+                    "resources": [],
+                    "commentaries": [
+                        {
+                            "__typename": "Note",
+                            "title": "<i>One day</i> Yahweh said to the <i>prophet </i>Jonah, Amittai\u2019s son\n",
+                            "content": "OR <i>There was a prophet in Israel named</i> Jonah who was Amittai's son. <i>One day</i> Yahweh said to him:",
+                            "parrallelRef": "",
+                            "extra": "Use words that will indicate that this is a real, historical story. Do not use words that might communicate that this is a folk tale, a fake story or a myth.",
+                            "resources": []
+                        },
+                        {
+                            "__typename": "Note",
+                            "title": "the great city called Nineveh",
+                            "content": "OR the large/important city called Nineveh<i> in the Assyria kingdom</i>",
+                            "parrallelRef": "Jonah 3:1",
+                            "extra": "",
+                            "resources": []
+                        }
+                    ]
+                },
+                {
+                    "__typename": "Part",
+                    "text": "<i>3</i> But <i>Jonah </i>did not go <i>to Nineveh</i>. <i>Instead, he</i> went in the direction opposite to where Yahweh told him to go. He went (down) to Joppa <i>city</i>. There he paid the fare to travel on a ship that was going to Tarshish <i>city</i>. Jonah wanted to escape from Yahweh and avoid doing what Yahweh had told him to do. He got on the ship, <i>and then he went down to a lower deck inside the ship. He lay down, and went to sleep.</i>",
+                    "canDelete": false,
+                    "picture": {
+                        "__typename": "SavedResource",
+                        "id": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51IWFRvmR_f6ZnpiiDbK66HnYjzK352QRm",
+                        "fileName": "2.jpg",
+                        "errors": null,
+                        "templateId": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT5",
+                        "storageFilePath": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT5/1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51IWFRvmR_f6ZnpiiDbK66HnYjzK352QRm.jpg",
+                        "storageFileName": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51IWFRvmR_f6ZnpiiDbK66HnYjzK352QRm.jpg",
+                        "uploaded": true,
+                        "mimeType": "image/jpeg"
+                    },
+                    "slideNumber": 2,
+                    "audio": {
+                        "__typename": "UnprocessedResource",
+                        "fileName": "TEL Jon 1 3.mp3",
+                        "errors": [
+                            "Error saving resource( TEL Jon 1 3.mp3 ) to firestore: File not found"
+                        ]
+                    },
+                    "chapter": "1",
+                    "alternateChapter": null,
+                    "verse": "3",
+                    "alternateVerse": null,
+                    "resources": [],
+                    "commentaries": [
+                        {
+                            "__typename": "Note",
+                            "title": "went (down)\n",
+                            "content": "OR went  \nOR traveled\n",
+                            "parrallelRef": "",
+                            "extra": "Jonah had to travel from a high elevation (Jerusalem city) down to Joppa city which was a low elevation. Joppa was at sea level where a ship could be docked.The repeated \u201cdown\u201d communicates that Jonah is going down from Yahweh\u2019s exalted/\u201dup\u201d position.",
+                            "resources": []
+                        }
+                    ]
+                },
+                {
+                    "__typename": "Part",
+                    "text": "4 Then Yahweh caused a very strong wind to blow. There was such a violent storm that <i>the sailors thought </i>the ship would break apart. 5 The sailors were very frightened. So, they each started to pray to their own gods <i>to save them</i>. Then they threw the cargo into the sea to make the ship lighter <i>in order that it would not sink easily</i>.",
+                    "canDelete": false,
+                    "picture": {
+                        "__typename": "SavedResource",
+                        "id": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51MSFC9AMhKna3C_inkoGdz_Wxc0FlXDRI",
+                        "fileName": "4.jpg",
+                        "errors": null,
+                        "templateId": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT5",
+                        "storageFilePath": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT5/1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51MSFC9AMhKna3C_inkoGdz_Wxc0FlXDRI.jpg",
+                        "storageFileName": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51MSFC9AMhKna3C_inkoGdz_Wxc0FlXDRI.jpg",
+                        "uploaded": true,
+                        "mimeType": "image/jpeg"
+                    },
+                    "slideNumber": 3,
+                    "audio": {
+                        "__typename": "SavedResource",
+                        "id": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51zA5NdrknsncI5WOYvLOUYoWJ2VtmCj6e",
+                        "fileName": "Jona 1 4-5.mp3",
+                        "errors": null,
+                        "templateId": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT5",
+                        "storageFilePath": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT5/1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51zA5NdrknsncI5WOYvLOUYoWJ2VtmCj6e.mp3",
+                        "storageFileName": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51zA5NdrknsncI5WOYvLOUYoWJ2VtmCj6e.mp3",
+                        "uploaded": true,
+                        "mimeType": "audio/mpeg"
+                    },
+                    "chapter": "1",
+                    "alternateChapter": null,
+                    "verse": "4-5",
+                    "alternateVerse": null,
+                    "resources": [],
+                    "commentaries": [
+                        {
+                            "__typename": "Note",
+                            "title": "they each started to pray to their own gods",
+                            "content": "OR each one started to pray to his own god",
+                            "parrallelRef": "",
+                            "extra": "",
+                            "resources": []
+                        }
+                    ]
+                },
+                {
+                    "__typename": "Part",
+                    "text": "6 Then the captain went <i>down </i>to where Jonah was sleeping deeply. He<i> awoke him and</i> said to him. \u201cYou should not be sleeping <i>during a storm like this one! </i>Get up and pray to your god! Perhaps he will pity us and save us, so that we will not drown!\u201d \n<i>But Jonah refused to do so.</i>",
+                    "canDelete": false,
+                    "picture": {
+                        "__typename": "SavedResource",
+                        "id": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51h2FMzy4fo-A6P52pzDARyJjWzyY6zxAN",
+                        "fileName": "3.jpg",
+                        "errors": null,
+                        "templateId": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT5",
+                        "storageFilePath": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT5/1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51h2FMzy4fo-A6P52pzDARyJjWzyY6zxAN.jpg",
+                        "storageFileName": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51h2FMzy4fo-A6P52pzDARyJjWzyY6zxAN.jpg",
+                        "uploaded": true,
+                        "mimeType": "image/jpeg"
+                    },
+                    "slideNumber": 4,
+                    "audio": {
+                        "__typename": "SavedResource",
+                        "id": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51C4A4TfcBE6Li5lS9OpnfT8Jg7QmKk6Dp",
+                        "fileName": "Jona 1 6.mp3",
+                        "errors": null,
+                        "templateId": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT5",
+                        "storageFilePath": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT5/1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51C4A4TfcBE6Li5lS9OpnfT8Jg7QmKk6Dp.mp3",
+                        "storageFileName": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51C4A4TfcBE6Li5lS9OpnfT8Jg7QmKk6Dp.mp3",
+                        "uploaded": true,
+                        "mimeType": "audio/mpeg"
+                    },
+                    "chapter": "1",
+                    "alternateChapter": null,
+                    "verse": "6",
+                    "alternateVerse": null,
+                    "resources": [],
+                    "commentaries": []
+                },
+                {
+                    "__typename": "Part",
+                    "text": "7 Then the sailors said to each other, \u201cWe must cast lots to determine who has caused all this trouble!\u201d So they did that, and the lots showed that Jonah had caused the storm. \n8 So <i>various ones among </i>them asked Jonah, \u201cAre you the one who has caused all this trouble  for us?\u201d \u201cWhat work do you do?\u201d \u201cWhere are you coming from?\u201d \u201cWhat country and what people-group do you belong to?\u201d",
+                    "canDelete": false,
+                    "picture": {
+                        "__typename": "SavedResource",
+                        "id": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51uDSmHMQe04XrZsey8RsrFQ1Jqv9O3XHE",
+                        "fileName": "5.jpg",
+                        "errors": null,
+                        "templateId": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT5",
+                        "storageFilePath": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT5/1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51uDSmHMQe04XrZsey8RsrFQ1Jqv9O3XHE.jpg",
+                        "storageFileName": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51uDSmHMQe04XrZsey8RsrFQ1Jqv9O3XHE.jpg",
+                        "uploaded": true,
+                        "mimeType": "image/jpeg"
+                    },
+                    "slideNumber": 5,
+                    "audio": {
+                        "__typename": "SavedResource",
+                        "id": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51A-tfrrPYTDJx-cfeNjScpqJs3NdwvgHB",
+                        "fileName": "Jona 1 7-8.mp3",
+                        "errors": null,
+                        "templateId": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT5",
+                        "storageFilePath": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT5/1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51A-tfrrPYTDJx-cfeNjScpqJs3NdwvgHB.mp3",
+                        "storageFileName": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51A-tfrrPYTDJx-cfeNjScpqJs3NdwvgHB.mp3",
+                        "uploaded": true,
+                        "mimeType": "audio/mpeg"
+                    },
+                    "chapter": "1",
+                    "alternateChapter": null,
+                    "verse": "7-8",
+                    "alternateVerse": null,
+                    "resources": [],
+                    "commentaries": [
+                        {
+                            "__typename": "Note",
+                            "title": "cast lots",
+                            "content": "OR throw objects/lots/dice\nOR shake in a container small objects that we have all marked and then let one fall out",
+                            "parrallelRef": "Proverbs 16.33; Acts 1:26",
+                            "extra": "",
+                            "resources": [
+                                {
+                                    "__typename": "SavedResource",
+                                    "id": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT513CQ2-56xW82OmoSPvg089BQwpnGT-Vov",
+                                    "fileName": "casting lots pic.jpg",
+                                    "errors": null,
+                                    "templateId": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT5",
+                                    "storageFilePath": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT5/1DKmkpns0ew4BCfbPVYC5WbWw986_yRT513CQ2-56xW82OmoSPvg089BQwpnGT-Vov.jpg",
+                                    "storageFileName": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT513CQ2-56xW82OmoSPvg089BQwpnGT-Vov.jpg",
+                                    "uploaded": true,
+                                    "mimeType": "image/jpeg"
+                                }
+                            ]
+                        },
+                        {
+                            "__typename": "Note",
+                            "title": "caused all this trouble",
+                            "content": "OR offended the god that caused the storm",
+                            "parrallelRef": "",
+                            "extra": "",
+                            "resources": []
+                        },
+                        {
+                            "__typename": "Note",
+                            "title": "the lots showed that Jonah had caused the storm",
+                            "content": "OR the dice identified Jonah\nOR  the <i>object </i>with Jonah\u2019s mark <i>fell out from the bag/container</i>",
+                            "parrallelRef": "",
+                            "extra": "",
+                            "resources": []
+                        }
+                    ]
+                },
+                {
+                    "__typename": "Part",
+                    "text": "9 Jonah replied, \u201cI am a Hebrew. I worship Yahweh, who lives in heaven. He is the God who made the sea and the land. I am trying to escape from <i>doing what</i> Yahweh <i>told me to do</i>.\u201d",
+                    "canDelete": false,
+                    "picture": {
+                        "__typename": "SavedResource",
+                        "id": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51uDSmHMQe04XrZsey8RsrFQ1Jqv9O3XHE",
+                        "fileName": "5.jpg",
+                        "errors": null,
+                        "templateId": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT5",
+                        "storageFilePath": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT5/1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51uDSmHMQe04XrZsey8RsrFQ1Jqv9O3XHE.jpg",
+                        "storageFileName": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51uDSmHMQe04XrZsey8RsrFQ1Jqv9O3XHE.jpg",
+                        "uploaded": true,
+                        "mimeType": "image/jpeg"
+                    },
+                    "slideNumber": 6,
+                    "audio": {
+                        "__typename": "SavedResource",
+                        "id": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51KFb1WZmFApOoRUxGGRuFNb3cbKr21iqn",
+                        "fileName": "Jona 1 9.mp3",
+                        "errors": null,
+                        "templateId": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT5",
+                        "storageFilePath": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT5/1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51KFb1WZmFApOoRUxGGRuFNb3cbKr21iqn.mp3",
+                        "storageFileName": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51KFb1WZmFApOoRUxGGRuFNb3cbKr21iqn.mp3",
+                        "uploaded": true,
+                        "mimeType": "audio/mpeg"
+                    },
+                    "chapter": "1",
+                    "alternateChapter": null,
+                    "verse": "9",
+                    "alternateVerse": null,
+                    "resources": [],
+                    "commentaries": [
+                        {
+                            "__typename": "Note",
+                            "title": "I am a Hebrew",
+                            "content": "OR I am from the Hebrew people-group.",
+                            "parrallelRef": "",
+                            "extra": "",
+                            "resources": []
+                        }
+                    ]
+                },
+                {
+                    "__typename": "Part",
+                    "text": "10 After/When the sailors heard that, they were <i>more</i> terrified. So, they asked him, \u201cDo you realize what trouble you have caused?\u201d\n11 The storm kept getting worse, and the waves kept getting bigger. So, one sailor among them asked Jonah, \u201cWhat must we do <i>to you, so that your god</i> will make the sea become calm?\u201d",
+                    "canDelete": false,
+                    "picture": {
+                        "__typename": "SavedResource",
+                        "id": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51h2FMzy4fo-A6P52pzDARyJjWzyY6zxAN",
+                        "fileName": "3.jpg",
+                        "errors": null,
+                        "templateId": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT5",
+                        "storageFilePath": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT5/1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51h2FMzy4fo-A6P52pzDARyJjWzyY6zxAN.jpg",
+                        "storageFileName": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51h2FMzy4fo-A6P52pzDARyJjWzyY6zxAN.jpg",
+                        "uploaded": true,
+                        "mimeType": "image/jpeg"
+                    },
+                    "slideNumber": 7,
+                    "audio": {
+                        "__typename": "SavedResource",
+                        "id": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51KOEE9mXw8dPgGp9Uak3_vKE3fdHjh0OY",
+                        "fileName": "Jona 1 10-11.mp3",
+                        "errors": null,
+                        "templateId": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT5",
+                        "storageFilePath": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT5/1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51KOEE9mXw8dPgGp9Uak3_vKE3fdHjh0OY.mp3",
+                        "storageFileName": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51KOEE9mXw8dPgGp9Uak3_vKE3fdHjh0OY.mp3",
+                        "uploaded": true,
+                        "mimeType": "audio/mpeg"
+                    },
+                    "chapter": "1",
+                    "alternateChapter": null,
+                    "verse": "10- 11",
+                    "alternateVerse": null,
+                    "resources": [],
+                    "commentaries": [
+                        {
+                            "__typename": "Note",
+                            "title": "they asked him, \u201cDo you realize what trouble you have caused?\u201d",
+                            "content": "OR they told him, \u201cWhat you have done is very bad!\u201d\nOR  they told him, \u201cWhat you are doing is very bad!\u201d",
+                            "parrallelRef": "",
+                            "extra": "In the Hebrew language, we call this a \u201crhetorical question\u201d. It is not a real question (and nobody provides an answer).  Rather, it is a statement with emphasis. However your language says something with force/emphasis, use that form. ",
+                            "resources": []
+                        }
+                    ]
+                },
+                {
+                    "__typename": "Part",
+                    "text": "12 Jonah replied to them, \u201cPick me up and throw me into the sea. <i>If you do that,</i> then the sea will become calm. I know that this terrible storm is caused by my <i>not doing what Yahweh told me to do</i>.\u201d\n13 But the sailors <i>did not want to do that. Instead,</i> they tried hard to row the ship back to land. But <i>they could not do so, because</i> the storm continued to get worse.",
+                    "canDelete": false,
+                    "picture": {
+                        "__typename": "SavedResource",
+                        "id": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51h2FMzy4fo-A6P52pzDARyJjWzyY6zxAN",
+                        "fileName": "3.jpg",
+                        "errors": null,
+                        "templateId": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT5",
+                        "storageFilePath": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT5/1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51h2FMzy4fo-A6P52pzDARyJjWzyY6zxAN.jpg",
+                        "storageFileName": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51h2FMzy4fo-A6P52pzDARyJjWzyY6zxAN.jpg",
+                        "uploaded": true,
+                        "mimeType": "image/jpeg"
+                    },
+                    "slideNumber": 8,
+                    "audio": {
+                        "__typename": "SavedResource",
+                        "id": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51o1mj1hhl8e4rgYgq9Um89ZDYl1FVydes",
+                        "fileName": "Jona 1 12-13.mp3",
+                        "errors": null,
+                        "templateId": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT5",
+                        "storageFilePath": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT5/1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51o1mj1hhl8e4rgYgq9Um89ZDYl1FVydes.mp3",
+                        "storageFileName": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51o1mj1hhl8e4rgYgq9Um89ZDYl1FVydes.mp3",
+                        "uploaded": true,
+                        "mimeType": "audio/mpeg"
+                    },
+                    "chapter": "1",
+                    "alternateChapter": null,
+                    "verse": "12-13",
+                    "alternateVerse": null,
+                    "resources": [],
+                    "commentaries": [
+                        {
+                            "__typename": "Note",
+                            "title": "<i>did not want to do that</i>",
+                            "content": "OR did not want to throw Jonah into the sea",
+                            "parrallelRef": "",
+                            "extra": "",
+                            "resources": []
+                        },
+                        {
+                            "__typename": "Note",
+                            "title": "row the ship",
+                            "content": "OR pull the ship\nOR paddle the ship\nOR get the ship",
+                            "parrallelRef": "",
+                            "extra": "",
+                            "resources": []
+                        }
+                    ]
+                },
+                {
+                    "__typename": "Part",
+                    "text": "14 Therefore, the sailors prayed to Yahweh, \u201cO Yahweh, please do not cause us to drown after we cause this man to die. O Yahweh, we beg you, do not consider us to be guilty when we cause this man to die. We know that you have sent this storm for your own good reasons.\u201d",
+                    "canDelete": false,
+                    "picture": {
+                        "__typename": "SavedResource",
+                        "id": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51fUS54-TDLnAr16FHsOylhhYYJfF231HH",
+                        "fileName": "6.jpg",
+                        "errors": null,
+                        "templateId": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT5",
+                        "storageFilePath": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT5/1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51fUS54-TDLnAr16FHsOylhhYYJfF231HH.jpg",
+                        "storageFileName": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51fUS54-TDLnAr16FHsOylhhYYJfF231HH.jpg",
+                        "uploaded": true,
+                        "mimeType": "image/jpeg"
+                    },
+                    "slideNumber": 9,
+                    "audio": {
+                        "__typename": "SavedResource",
+                        "id": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51ZzozS5l0OI9SPUCcYHhaYZoxY5oNsYFv",
+                        "fileName": "Jona 1 14.mp3",
+                        "errors": null,
+                        "templateId": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT5",
+                        "storageFilePath": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT5/1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51ZzozS5l0OI9SPUCcYHhaYZoxY5oNsYFv.mp3",
+                        "storageFileName": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51ZzozS5l0OI9SPUCcYHhaYZoxY5oNsYFv.mp3",
+                        "uploaded": true,
+                        "mimeType": "audio/mpeg"
+                    },
+                    "chapter": "1",
+                    "alternateChapter": null,
+                    "verse": "14",
+                    "alternateVerse": null,
+                    "resources": [],
+                    "commentaries": [
+                        {
+                            "__typename": "Note",
+                            "title": "you have sent this storm for your own good reasons",
+                            "content": "OR you have done what you wanted to do",
+                            "parrallelRef": "",
+                            "extra": "",
+                            "resources": []
+                        }
+                    ]
+                },
+                {
+                    "__typename": "Part",
+                    "text": "15 Then they picked Jonah up and threw him into the sea. Then the sea became calm. \n16 When that happened, the sailors became greatly awed at/respected Yahweh\u2019s power. So, they offered a sacrifice to Yahweh. They also vowed to him that they would do things that would please him.",
+                    "canDelete": false,
+                    "picture": {
+                        "__typename": "SavedResource",
+                        "id": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51X9jXLRShghFTg-joHquVv1xGujWYr-Ej",
+                        "fileName": "7.jpg",
+                        "errors": null,
+                        "templateId": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT5",
+                        "storageFilePath": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT5/1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51X9jXLRShghFTg-joHquVv1xGujWYr-Ej.jpg",
+                        "storageFileName": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51X9jXLRShghFTg-joHquVv1xGujWYr-Ej.jpg",
+                        "uploaded": true,
+                        "mimeType": "image/jpeg"
+                    },
+                    "slideNumber": 10,
+                    "audio": {
+                        "__typename": "SavedResource",
+                        "id": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51Wtkus4wzDdWFfuo7jT0r_fld3NwdyHKe",
+                        "fileName": "Jona 1 15-16.mp3",
+                        "errors": null,
+                        "templateId": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT5",
+                        "storageFilePath": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT5/1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51Wtkus4wzDdWFfuo7jT0r_fld3NwdyHKe.mp3",
+                        "storageFileName": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51Wtkus4wzDdWFfuo7jT0r_fld3NwdyHKe.mp3",
+                        "uploaded": true,
+                        "mimeType": "audio/mpeg"
+                    },
+                    "chapter": "1",
+                    "alternateChapter": null,
+                    "verse": "15-16",
+                    "alternateVerse": null,
+                    "resources": [],
+                    "commentaries": [
+                        {
+                            "__typename": "Note",
+                            "title": "became greatly awed at Yahweh\u2019s power",
+                            "content": "OR greatly respected Yahweh\u2019s power",
+                            "parrallelRef": "",
+                            "extra": "",
+                            "resources": []
+                        }
+                    ]
+                },
+                {
+                    "__typename": "Part",
+                    "text": "<i>17 While they were doing that, </i>Yahweh sent a huge fish that swallowed Jonah. Then Jonah was inside the fish\u2019s belly for three days and three nights.",
+                    "canDelete": true,
+                    "picture": {
+                        "__typename": "SavedResource",
+                        "id": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51vDMZCi4gg5vEQ21qeMwaNuKS8gXM3Qml",
+                        "fileName": "8.jpg",
+                        "errors": null,
+                        "templateId": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT5",
+                        "storageFilePath": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT5/1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51vDMZCi4gg5vEQ21qeMwaNuKS8gXM3Qml.jpg",
+                        "storageFileName": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51vDMZCi4gg5vEQ21qeMwaNuKS8gXM3Qml.jpg",
+                        "uploaded": true,
+                        "mimeType": "image/jpeg"
+                    },
+                    "slideNumber": 11,
+                    "audio": {
+                        "__typename": "SavedResource",
+                        "id": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51vCS79i3iMnHEvK84mvGQ4qUYUt7_yKcY",
+                        "fileName": "Jona 1 17.mp3",
+                        "errors": null,
+                        "templateId": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT5",
+                        "storageFilePath": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT5/1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51vCS79i3iMnHEvK84mvGQ4qUYUt7_yKcY.mp3",
+                        "storageFileName": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51vCS79i3iMnHEvK84mvGQ4qUYUt7_yKcY.mp3",
+                        "uploaded": true,
+                        "mimeType": "audio/mpeg"
+                    },
+                    "chapter": "1",
+                    "alternateChapter": "2",
+                    "verse": "17",
+                    "alternateVerse": "1",
+                    "resources": [],
+                    "commentaries": [
+                        {
+                            "__typename": "Note",
+                            "title": "that swallowed Jonah",
+                            "content": "<i>OR that swallowed Jonah alive\nOR who put Jonah in his mouth and downed him</i>",
+                            "parrallelRef": "",
+                            "extra": "The fish swallowed Jonah without chewing or biting him. The fish did not eat Jonah.",
+                            "resources": []
+                        },
+                        {
+                            "__typename": "Note",
+                            "title": "for three days and three nights",
+                            "content": "OR three days",
+                            "parrallelRef": "Matthew 12:40",
+                            "extra": "",
+                            "resources": []
+                        }
+                    ]
+                }
+            ],
+            "picture": {
+                "__typename": "SavedResource",
+                "id": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51ObDH3liS-gBFWq9HqCj1P5ozPmX1IZTW",
+                "fileName": "0.jpg",
+                "errors": null,
+                "templateId": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT5",
+                "storageFilePath": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT5/1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51ObDH3liS-gBFWq9HqCj1P5ozPmX1IZTW.jpg",
+                "storageFileName": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51ObDH3liS-gBFWq9HqCj1P5ozPmX1IZTW.jpg",
+                "uploaded": true,
+                "mimeType": "image/jpeg"
+            }
+        }
+    ],
+    "errors": [],
+    "passageOverview": {
+        "__typename": "PassageOverview",
+        "chapter": "1-2",
+        "notes": [
+            {
+                "__typename": "Note",
+                "content": "\u25cf The pagan kingdom of Assyria, for which Nineveh was the capitol, was an enemy nation to Israel. Assyria raided and abused other nations. Nineveh was directly north of Israel, accessible by land travel. \n\u25cf Tarshish was far to the west of Israel, accessible only by boat travel, across the Mediterranean Sea.",
+                "extra": "",
+                "parrallelRef": "",
+                "resources": [
+                    {
+                        "__typename": "SavedResource",
+                        "id": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51XPwHTstpV9KibfTIipMueAjls_XrG5Q3",
+                        "fileName": "Eng Jonah Overview SQ TBP.mp4",
+                        "errors": null,
+                        "templateId": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT5",
+                        "storageFilePath": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT5/1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51XPwHTstpV9KibfTIipMueAjls_XrG5Q3.mp4",
+                        "storageFileName": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51XPwHTstpV9KibfTIipMueAjls_XrG5Q3.mp4",
+                        "uploaded": true,
+                        "mimeType": "video/mp4"
+                    },
+                    {
+                        "__typename": "SavedResource",
+                        "id": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51I_LHvZTRqiLNZbcNFHhW2dl21y6RrBcR",
+                        "fileName": "map.jpg",
+                        "errors": null,
+                        "templateId": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT5",
+                        "storageFilePath": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT5/1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51I_LHvZTRqiLNZbcNFHhW2dl21y6RrBcR.jpg",
+                        "storageFileName": "1DKmkpns0ew4BCfbPVYC5WbWw986_yRT51I_LHvZTRqiLNZbcNFHhW2dl21y6RrBcR.jpg",
+                        "uploaded": true,
+                        "mimeType": "image/jpeg"
+                    }
+                ],
+                "title": "Background info"
+            },
+            {
+                "__typename": "Note",
+                "content": "\u25cf (2Kings 14:25) Jonah, a Jewish prophet of Yahweh, was alive during the reign of Jeroboam II, king of Israel, about 700 years before Jesus' birth.\n\u25cf Sometime after Jonah's story, about 615 B.C., the prophet Nahum prophesied the downfall of Assyria and Nineveh (Nahum 1-3).. \n\u25cf In 612 B.C. God destroyed Nineveh for their wicked ways. (Their repentance did not last long.)",
+                "extra": "",
+                "parrallelRef": "",
+                "resources": [],
+                "title": "Historical context"
+            },
+            {
+                "__typename": "Note",
+                "content": "\u25cf down versus up; the chaotic sea versus the \u201csafe\u201d dry land\n\u25cf God wants people in all nations to repent and so to be saved.\n\u25cf God is compassionate and patient. \n\u25cf God spoke through Jonah's words, and he also used Jonah's life as a prophetic message to signal the identity of the promised Messiah (Matt. 12:40).\n\u25cf Psalm 135:6 shows God\u2019s sovereign power by using/commanding, for his purposes, big and small creatures, plants and human devices for discerning (i.e., casting lots), the sea and wind, wicked people, to teach people about himself.\n\u25cf Jeremiah 18:7-10 shows how God can and does change his mind (repent) about doing what he said he would do depending on people\u2019s actions, responses and prayers. ",
+                "extra": "",
+                "parrallelRef": "",
+                "resources": [],
+                "title": "Prominent Themes:"
+            }
+        ],
+        "overview": "Passage Overview:\nYahweh commands his prophet Jonah to go to Israel\u2019s enemies In Nineveh city. He was supposed to preach to them to repent so that God  would not destroy them. \nJonah refuses Yahweh\u2019s command and tries to run away, going in the opposite direction. \nYahweh sends storms, people and animals to redirect Jonah, causing him to repent and obey. \nBackground Info:\nHistorical context:\nProminent Themes:",
+        "resources": []
+    }
+}
