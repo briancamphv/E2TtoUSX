@@ -3,6 +3,8 @@ import { createInterface } from "readline";
 import yargs from "yargs/yargs";
 import { hideBin } from "yargs/helpers";
 
+//validate with https://github.com/ubsicap/usx/blob/master/schema/usx.rng
+
 const argv = yargs(hideBin(process.argv))
   .version("1.0.1")
   .usage(
@@ -42,13 +44,13 @@ var ndx = 0;
 //logic to load notes datastore
 
 writeStream.write(`<?xml version="1.0" encoding="UTF-8"?>\n`);
-writeStream.write(`<usx>\n`);
+writeStream.write(`<usx version="3.0">\n`);
 writeStream.write(
   `<book code="${argv.book}" style="id">E2T (Easy to Translate Bible)</book>\n`
 );
 
 var section = 0;
-var sectionPara = `<para style="s${section}">`;
+var sectionPara = `<para style="mt1">`;
 var endOfPara = false;
 var passageStarted = false;
 var para = "";
@@ -159,7 +161,7 @@ function loadTemplateData(templateFile) {
         console.log("po", jsonData.passageOverview.overview);
 
         bookNotes.push(
-          `<note caller="+" style="ef" category="overview"><char style="no">${jsonData.passageOverview.overview} </char></note>\n`
+          `<note caller="+" style="f" category="overview"><char style="ft">${jsonData.passageOverview.overview} </char></note>\n`
         );
 
         jsonData.passageOverview.notes.map((note) => {
@@ -168,7 +170,7 @@ function loadTemplateData(templateFile) {
             .replace(" ", "_");
 
           bookNotes.push(
-            `<note caller="+" style="ef" category="${category}"><char style="no">${note.content} </char></note>\n`
+            `<note caller="+" style="f" category="${category}"><char style="ft">${note.content} </char></note>\n`
           );
         });
 
@@ -181,7 +183,7 @@ function loadTemplateData(templateFile) {
   });
 }
 
-//<note caller="text" style="ef" category=""><char style="no">3.18 </char></note>
+//<note caller="text" style="f" category=""><char style="no">3.18 </char></note>
 
 function insertExegeticalNotes(key) {
   const commentaries = noteMap.get(key);
@@ -196,7 +198,7 @@ function insertExegeticalNotes(key) {
         `\n<note caller="${commentary.title.replace(
           /<\/?i>/g,
           "*"
-        )}" style="ef" category="content"><char style="no">${commentary.content.replace(
+        )}" style="f" category="content"><char style="ft">${commentary.content.replace(
           /<\/?i>/g,
           "*"
         )} </char></note>`
@@ -206,7 +208,7 @@ function insertExegeticalNotes(key) {
         `\n<note caller="${commentary.title.replace(
           /<\/?i>/g,
           "*"
-        )}" style="ef" category="parrallelRef"><char style="no">${commentary.parrallelRef.replace(
+        )}" style="f" category="parrallelRef"><char style="ft">${commentary.parrallelRef.replace(
           /<\/?i>/g,
           "*"
         )} </char></note>`
@@ -216,7 +218,7 @@ function insertExegeticalNotes(key) {
         `\n<note caller="${commentary.title.replace(
           /<\/?i>/g,
           "*"
-        )}" style="ef" category="extra"><char style="no">${commentary.extra.replace(
+        )}" style="f" category="extra"><char style="ft">${commentary.extra.replace(
           /<\/?i>/g,
           "*"
         )} </char></note>`
@@ -256,7 +258,7 @@ function passageParaMarkUp(str) {
         ""
       );
       startVerseBlock = `<verse number="${vNum}" style="v" sid="${argv.book} ${cNum}:${vNum}" />\n`;
-      endVerseBlock = `\n<verse number="${vNum}" eid="${argv.book} ${cNum}:${vNum}" />\n`;
+      endVerseBlock = `\n<verse eid="${argv.book} ${cNum}:${vNum}" />\n`;
 
       if (isNumeric(vNum)) {
         writeStream.write(startVerseBlock);
