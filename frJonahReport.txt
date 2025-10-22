@@ -1,0 +1,13 @@
+**jonas 1**
+Jonah 1:7-8 commentary: tirer au sort Error saving resource( Tirage au sort pic.jpg ) to firestore: File not found
+Jonah Jonah 1:15-16: Error saving resource( FR_jonas_1.15-16. MP3 ) to firestore: File not found
+passageOverview: Error saving resource( Jonas aperçu ) to firestore: File not found
+**jonas 2**
+Jonah Jonah 1:17: Error saving resource( FR_jonas_1.17.mp3 ) to firestore: File not found
+Informations générales: Error saving resource( map.jpg ) to firestore: File not found
+**jonas 4**
+Jonah 4:2 commentary: toi, ô Dieu, tu agis avec beaucoup de bonté et de compassion <i>envers tous les hommes</i>. Vous ne vous mettez pas rapidement en colère contre les gens qui font de mauvaises choses. Vous aimez beaucoup les gens et vous changez d'avis sur le châtiment des <i>pécheurs lorsqu'ils se repentent</i>. Error saving resource( TBP Visual-Commentary_-Exodus-34_6-7.mp4 ) to firestore: File not found
+Jonah 4:10-11 commentary: qui ne savent pas distinguer le bien du mal Error saving resource( Jonah4.11_right-left-hands.wav ) to firestore: File not found
+Jonah 4:10-11 commentary:  C'est fait pour moi Error saving resource( Jonah4.11_bad-attitude.wav ) to firestore: File not found
+**jonas 3**
+Jonah 3:3 commentary: Il fallait marcher trois jours pour aller partout dedans Error saving resource( Jonah3.3comment_3-day-walk.wav ) to firestore: File not found
