@@ -1,0 +1,154 @@
+**actes 13:1-52**
+Acts 13:1b commentary: de la ville de Cyrène Error saving resource(  Cyrene on map srv.jpg ) to firestore: File not found
+Acts Acts 13:2: Error saving resource( FR_Ac_13.2.mp3 ) to firestore: File not found
+Acts Acts 13:3: Error saving resource( FR_Ac_13.3.mp3 ) to firestore: File not found
+Acts 13:5 commentary:  <i> synagogues juives</i> locales Error saving resource( synagogue outside srv.jpg ) to firestore: File not found
+Acts 13:8b-9: Error saving resource(  16_FB_Paul_Cyprus_1024.jpg ) to firestore: File not found
+Acts 13:14: Error saving resource(  02_FB_GNPI_Acts_Pisidian_Antioch_1024.jpg ) to firestore: File not found
+Acts 13:14 commentary: dans la ville d’Antioche Error saving resource(  11_FB_Paul_Antioch_Iconium_1024.jpg ) to firestore: File not found
+Acts 13:29-30: Error saving resource(  crucifixion cartoon srv.jpg ) to firestore: File not found
+**actes 10:1-48**
+Acts Acts 10:21: Error saving resource( FR_Ac_10_21.mp ) to firestore: File not found
+Acts Acts :23 bis: Error saving resource( FR_Ac_10_23a.mp3 ) to firestore: File not found
+Acts Acts 10:27 à 28 bis: Error saving resource( FR_Ac_10_27-28a.mp ) to firestore: File not found
+Acts Acts 10:38: Error saving resource( FR_Ac_10_38.mp ) to firestore: File not found
+Acts 10:48: Error saving resource( baptized household.jpg0000 ) to firestore: File not found
+**actes 12.1-25**
+Acts 12:5: Error saving resource( prayer forpeter.jpg ) to firestore: File not found
+Acts 12:25: Error saving resource(  01_FB_GNPI_Acts_Persecution_1024.jpg ) to firestore: File not found
+**actes 11:1-30**
+**actes 14:1-28**
+Acts 14:5 commentary: ont comploté ensemble Error saving resource(  plotting gnpi.jpg ) to firestore: File not found
+Acts 14:5 commentary: ont comploté ensemble Error saving resource( 13_FB_Paul_Antioch_Iconium_1024.jpg ) to firestore: File not found
+Acts 14:6-7: Error saving resource( 13_FB_YO_Paul_Turkey_1024.jpg ) to firestore: File not found
+Acts 14:6-7 commentary: ce complot à Paul et à Barnabé. Error saving resource(  reveal plot gnpi.jpg ) to firestore: File not found
+Acts 14:8-9a: Error saving resource(  02_FB_GNPI_Acts_Paul_Lystra_1024.jpg ) to firestore: File not found
+Acts 14:9b-10: Error saving resource(  02_FB_Paul_Lystra_Derbe_1024.jpg ) to firestore: File not found
+Acts 14:11: Error saving resource(  03_FB_Paul_Lystra_Derbe_1024.jpg ) to firestore: File not found
+Acts 14:12 à 13 bis: Error saving resource( 05_FB_Paul_Lystra_Derbe_1024.jpg ) to firestore: File not found
+Acts 14:12 à 13 bis commentary: Juste à l'extérieur de la porte de la ville, il y avait un temple où les gens adoraient Zeus Error saving resource( 04_FB_GNPI_Acts_Paul_Lystra_1024.jpg ) to firestore: File not found
+Acts 14:13b: Error saving resource(  06_FB_YO_Paul_Turkey_1024.jpg ) to firestore: File not found
+Acts 14:14: Error saving resource(  04_FB_Paul_Lystra_Derbe_1024.jpg ) to firestore: File not found
+Acts 14:14 commentary: Ils ont déchiré leurs propres vêtements Error saving resource( 05_FB_GNPI_Acts_Paul_Lystra_1024.jpg ) to firestore: File not found
+Acts 14:16-17: Error saving resource(  05_FB_Paul_Lystra_Derbe_1024.jpg ) to firestore: File not found
+Acts 14:19: Error saving resource(  06_FB_Paul_Lystra_Derbe_1024.jpg ) to firestore: File not found
+Acts 14:19 commentary: inconscient Error saving resource(  08_FB_GNPI_Acts_Paul_Lystra_1024.jpg ) to firestore: File not found
+Acts 14:20a: Error saving resource(  09_FB_GNPI_Acts_Paul_Lystra_1024.jpg ) to firestore: File not found
+Acts 14:20b-21: Error saving resource(  08_FB_Paul_Lystra_Derbe_1024.jpg ) to firestore: File not found
+Acts 14:20b-21 commentary: <i>dans le district de Pisidia</i> Error saving resource( map Galatia Pisidia Lyconia.jpg ) to firestore: File not found
+Acts 14:22: Error saving resource(  09_FB_Paul_Lystra_Derbe_1024.jpg ) to firestore: File not found
+Acts 14:23: Error saving resource(  11_FB_GNPI_Acts_Paul_Lystra_1024.jpg ) to firestore: File not found
+Acts 14:24-25: Error saving resource(  10_FB_Paul_Lystra_Derbe_1024.jpg ) to firestore: File not found
+Acts 14:26: Error saving resource(  12_FB_GNPI_Acts_Paul_Lystra_1024.jpg ) to firestore: File not found
+Acts 14:26 commentary: sont montés sur un navire qui retournait à Antioche, en Syrie Error saving resource( 12_FB_Paul_Lystra_Derbe_1024.jpg ) to firestore: File not found
+Acts 14:27: Error saving resource( 13_FB_Paul_Lystra_Derbe_1024.jpg ) to firestore: File not found
+**actes 15:1-41**
+Acts 15:22a: Error saving resource( 12_FB_Paul_Jerusalem_1024.jpg ) to firestore: File not found
+Acts 15:30-31: Error saving resource( 12_FB_Paul_Jerusalem_1024.jpg ) to firestore: File not found
+**actes 17:28**
+Acts Acts 17:13: Error saving resource( FR_Ac_17_13.mp ) to firestore: File not found
+**actes 16:1-40**
+Acts 16:31-34: Error saving resource( gave them a meal Bentley ) to firestore: File not found
+Acts Acts 16:32-34: Error saving resource( FR_Ac_16_32-34.mp3 ) to firestore: File not found
+**actes 19:1-20**
+Acts 19:1-2a commentary:   Error saving resource(   ) to firestore: File not found
+Acts 19:2b-3 commentary: qu'il y a un Saint-Esprit Error saving resource(   ) to firestore: File not found
+Acts 19:2b-3 commentary:   Error saving resource(   ) to firestore: File not found
+Acts 19:4-5 commentary: baptisés au nom de Jésus <i>pour affirmer qu'ils croyaient </i>au Seigneur Jésus Error saving resource(   ) to firestore: File not found
+Acts 19:4-5 commentary:   Error saving resource(   ) to firestore: File not found
+Acts 19:6-7 commentary: prophétiser/prononcer des messages de Dieu dans une autre langue Error saving resource(   ) to firestore: File not found
+Acts 19:6-7 commentary:   Error saving resource(   ) to firestore: File not found
+Acts 19:8-9a commentary: hardiment Error saving resource(   ) to firestore: File not found
+Acts 19:8-9a commentary:  Error saving resource(   ) to firestore: File not found
+Acts 19:9b commentary: a quitté donc la synagogue et a emmené les nouveaux chrétiens avec lui pour les rencontrer Error saving resource(   ) to firestore: File not found
+Acts 19:9b commentary: qui appartenait à un homme nommé Tyrannus Error saving resource(   ) to firestore: File not found
+Acts 19:9b commentary:  Error saving resource(   ) to firestore: File not found
+Acts 19:10 commentary: <i>enseignant aux chrétiens comment aller enseigner aussi les autres</i>. Error saving resource(   ) to firestore: File not found
+Acts 19:10 commentary:   Error saving resource(   ) to firestore: File not found
+Acts 19:11-12 commentary:   Error saving resource(   ) to firestore: File not found
+Acts 19:13-14 commentary: qui prétendait être un grand prêtre pour le Dieu des juifs Error saving resource(   ) to firestore: File not found
+Acts 19:13-14 commentary:  Error saving resource(   ) to firestore: File not found
+Acts 19:15-16 commentary:   Error saving resource(   ) to firestore: File not found
+Acts 19:17 commentary:   Error saving resource(   ) to firestore: File not found
+Acts 19:18-19 commentary: leurs livres Error saving resource(   ) to firestore: File not found
+Acts 19:18-19 commentary:   Error saving resource(   ) to firestore: File not found
+Acts 19:20 commentary: beaucoup plus de gens dans beaucoup d'autres endroits ont entendu le message sur le Seigneur Jésus Error saving resource(   ) to firestore: File not found
+Acts 19:23-24: Error saving resource(  03_FB_Paul_Demetrius_Artemis_1024.jpg ) to firestore: File not found
+Acts 19:25: Error saving resource(  04_FB_Paul_Demetrius_Artemis_1024.jpg ) to firestore: File not found
+Acts 19:27: Error saving resource(  04_FB_Paul_Demetrius_Artemis_1024.jpg ) to firestore: File not found
+Acts 19:34 commentary: <i></i> Error saving resource( Artimis temple.jpg ) to firestore: File not found
+ : Error saving resource(   ) to firestore: File not found
+ : Error saving resource(   ) to firestore: File not found
+ : Error saving resource(   ) to firestore: File not found
+Contexte historique :: Error saving resource(   ) to firestore: File not found
+Thème(s) principal(s) :: Error saving resource(   ) to firestore: File not found
+ : Error saving resource(   ) to firestore: File not found
+passageOverview: Error saving resource(   ) to firestore: File not found
+**actes 18:1-28**
+Acts 18:17: Error saving resource(  beatingSosthenese.jpg ) to firestore: File not found
+Acts 18:18b-19 commentary: Ils sont montés sur un bateau Error saving resource( 01_FB_Paul_Ephesus_Antioch_1024.jpg ) to firestore: File not found
+Acts 18:20-21a, 19: Error saving resource(  03_FB_Paul_Ephesus_Antioch_1024.jpg ) to firestore: File not found
+Acts Acts 18:20-21a, 19: Error saving resource( FR_Ac_18_19-21a.mp3 ) to firestore: File not found
+Acts Acts 18:28: Error saving resource( FR_Ac_18_28.mp3 ) to firestore: File not found
+**actes 1:1-26**
+**actes 20:1-38**
+**actes 21:1-40**
+Acts Acts 21:20b: Error saving resource( FR_Ac_21_20b.mp3 ) to firestore: File not found
+**actes 24:1-27**
+Acts Acts 24:5-6: Error saving resource( FR_Ac_24_5-6.mp ) to firestore: File not found
+Acts Acts 24:18: Error saving resource( FR_Ac_24_18.mp ) to firestore: File not found
+Acts Acts 24:23: Error saving resource( FR_Ac_24_23.mp3 ) to firestore: File not found
+**actes 22:1-30**
+Acts 22:21: Error saving resource(  Lord speaks in Paul's vision.jpg ) to firestore: File not found
+Acts Acts 22:27-28: Error saving resource( FR_Ac_22_27-28.mp3 ) to firestore: File not found
+**actes 23:1-35**
+Acts 23:4-5: Error saving resource(  14_FB_Paul_Arrested_Jerusalem_1024 ) to firestore: File not found
+Acts Acts 23:11: Error saving resource( FR_Ac_23_11.mp ) to firestore: File not found
+Acts Acts 23:14 à 15 bis: Error saving resource( FR_Ac_23_14-15a.mp ) to firestore: File not found
+**actes 25:1-27**
+Acts 25:7: Error saving resource(  04_FB_Paul_Jerusalem_Return_1024.jpg ) to firestore: File not found
+Acts Acts 25:20 à 21 bis: Error saving resource( FR_Ac_25_20-21a.mp ) to firestore: File not found
+Acts Acts 25:23: Error saving resource( FR_Ac_25_23.mp ) to firestore: File not found
+**actes 26:1-32**
+Acts Acts 26:1: Error saving resource( FR_Ac_26_1.mp ) to firestore: File not found
+Acts Acts 26:7b-8: Error saving resource( FR_Ac_26_7b-8.mp ) to firestore: File not found
+**actes 28:1-32**
+Acts 28:7: Error saving resource(  Publius.jpg ) to firestore: File not found
+Acts Acts 28:7: Error saving resource( FR_Ac_28_7.mp ) to firestore: File not found
+Acts Acts 28:8-9: Error saving resource( FR_Ac_28_8-9.mp3 ) to firestore: File not found
+Acts 28:11 commentary: Sur la pointe avant du navire, il y avait des images sculptées. Ces images étaient des dieux jumeaux dont les noms étaient Castor et Pollux Error saving resource( soldier god on ship.jpg ) to firestore: File not found
+Acts 28:11 commentary: Sur la pointe avant du navire, il y avait des images sculptées. Ces images étaient des dieux jumeaux dont les noms étaient Castor et Pollux Error saving resource( lion god on ship.jpg ) to firestore: File not found
+Acts Acts 28:23: Error saving resource( FR_Ac_28_23.mp ) to firestore: File not found
+passageOverview: Error saving resource( TBP Bound-for-Rome_-Acts-21-28.mp4 ) to firestore: File not found
+**actes 27:1-44**
+Acts 27:13-14: Error saving resource( 05_FB_Paul_Shipwrecked_1024.jp ) to firestore: File not found
+Acts 27:27 à 28 bis: Retry limit exceeded - {"config":{"method":"PUT","url":"https://storage.googleapis.com/upload/storage/v1/b/honeybeeobt-app.firebasestorage.app/o?name=174jyKGkGQ62RDrtP86CYqb0AhblwCcjf%2F174jyKGkGQ62RDrtP86CYqb0AhblwCcjf1g3t_OCoP7WQT7OrIYrZDRp0lUY3zl1Uo.jpg&uploadType=resumable&upload_id=AAwnv3JDYFJEAZpxMDIMrcUzevoLSJ5zQOYXyiwWcl9dusjwTLOXltrDMhelTdqzY3c_lXrTwSLRk3MlbHF2oKYTPEt9x6AMH4iV2sq4YQ4CfAI","headers":{"User-Agent":"gcloud-node-storage/7.15.2 google-api-nodejs-client/9.15.1","x-goog-api-client":"gl-node/22.20.0 gccl/7.15.2-CJS gccl-invocation-id/e66bc746-6503-4855-a34f-512cb6c99beb","Content-Range":"bytes 0-*/*","Authorization":"<<REDACTED> - See `errorRedactor` option in `gaxios` for configuration>."},"body":{"_events":{},"_readableState":{"highWaterMark":65536,"buffer":[],"bufferIndex":0,"length":0,"pipes":[],"awaitDrainWriters":null},"_eventsCount":1},"signal":{},"responseType":"unknown"},"error":{"message":"request to https://storage.googleapis.com/upload/storage/v1/b/honeybeeobt-app.firebasestorage.app/o?name=174jyKGkGQ62RDrtP86CYqb0AhblwCcjf%2F174jyKGkGQ62RDrtP86CYqb0AhblwCcjf1g3t_OCoP7WQT7OrIYrZDRp0lUY3zl1Uo.jpg&uploadType=resumable&upload_id=AAwnv3JDYFJEAZpxMDIMrcUzevoLSJ5zQOYXyiwWcl9dusjwTLOXltrDMhelTdqzY3c_lXrTwSLRk3MlbHF2oKYTPEt9x6AMH4iV2sq4YQ4CfAI failed, reason: write EPIPE","type":"system","errno":"EPIPE","code":"EPIPE"},"code":"EPIPE"}
+Acts Acts 27:33-34: Error saving resource( FR_Ac_27_33-34.mp ) to firestore: File not found
+**actes 2:1-47**
+Acts 2:10b-11: Error saving resource(  09_FB_Pentecost_1024.jpg ) to firestore: File not found
+Acts 2:34-35 commentary: Régnez ici à côté de moi, 
+jusqu'à ce que je vainque complètement vos ennemis Error saving resource( Twin Thrones N&B Style Arabe footstool.jpeg ) to firestore: File not found
+Acts 2:37: Error saving resource(  14_FB_GNPI_Acts_Peter_Pentecost_1024.jpg ) to firestore: File not found
+**actes 6:1-15**
+Acts 6:12: Error saving resource(  07_FB_GNPI_Acts_Stephen_1_1024.jpg ) to firestore: File not found
+**actes 7:1-60**
+Acts 7:16b: Error saving resource( empty tomb.jpg ) to firestore: File not found
+Acts Acts 7:38: Error saving resource( FR_Ac_7_38.mp3 ) to firestore: File not found
+Acts 7:43: Error saving resource(  Molech Soltes 2021.jpg ) to firestore: File not found
+Acts 7:48: Error saving resource( 12_FB_Stephen_Martyred_1024.jpg.jpg ) to firestore: File not found
+Acts 7:59-60 commentary: Il est tombé mort Error saving resource(  17_FB_Stephen_Martyred_1024.jpg ) to firestore: File not found
+**actes 8:1-40**
+Acts Acts 8:9: Error saving resource( FR_Ac_8_9.mp3 ) to firestore: File not found
+Acts 8:14-16: Error saving resource( 09_FB_GNPI_Philip_Samaria_1024.jpg ) to firestore: File not found
+**actes 9:1-43**
+Acts 9:25: Error saving resource( 20_FB_Paul_Conversion_1024.jpg ) to firestore: File not found
+Acts Acts 9:26 et 27 bis: Error saving resource( FR_Ac_9_26-27a.mp ) to firestore: File not found
+Acts 9:32-33: Error saving resource( 04_FB_Peter_Aeneas_1024.jpg ) to firestore: File not found
+Acts 9:37: Error saving resource(  05_FB_Peter_Dorcas_1024.jpg ) to firestore: File not found
+**actes 3:1-26**
+Acts 3:11 commentary: C'était l'endroit dans la cour du temple que les gens appellent le porche de Salomon Error saving resource(  Herods temple big.jpg  colonnade.jpg ) to firestore: File not found
+**actes 5:1-42**
+Acts 5:12 commentary: dans la cour du temple à l'endroit appelé le Porche de Salomon Error saving resource(  colonnade.jpg  Herods temple big.jpg ) to firestore: File not found
+**actes 4:1-37**
+Acts 4:7: Error saving resource(  05_FB_Peter_John_Arrested_1024.jpg ) to firestore: File not found
+Acts 4:11 commentary: La pierre la plus importante  Error saving resource( cornerstone stuffwithwords.com.jpg  cornerstone stockadobe.com.jpg ) to firestore: File not found

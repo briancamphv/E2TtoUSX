@@ -1,6 +1,6 @@
 **ruth 1:1-22**
 Ruth 1:20-21: Error saving resource( 15.jpg ) to firestore: File not found
 **ruth 2:1-23**
+**ruth 3:1-18**
 **ruth 4:1-22**
 Ruth Ruth 4:2-3: Error saving resource( Rut 2 2-3.mp3 ) to firestore: File not found
-**ruth 3:1-18**

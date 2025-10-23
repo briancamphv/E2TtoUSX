@@ -1,0 +1,2 @@
+**ruth 2:1-23**
+Ruth Ruth 2:5-6: Error saving resource( FR_ruth_2.5-6 ) to firestore: File not found

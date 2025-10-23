@@ -1,0 +1,127 @@
+**exodus  11:1-10**
+Exodus 11:1: Error saving resource( 03_FB_Moody_Moses_RedSea_1024.jpg ) to firestore: File not found
+**exodus 10:1-29**
+**exodus 12:29-51**
+Exodus 12:39 commentary: At Succoth area Error saving resource( map sucoth.png ) to firestore: File not found
+**exodus 12a:1-28**
+**exodus 13:1-22**
+Exodus 13:18 commentary: the Reed Lake wilderness area Error saving resource( https://evidence-for-the-bible.com/archeological-evidence-for-the-bible/archeological-evidence-for-the-red-sea-crossing/ ) to firestore: File not found
+Exodus 13:19-20: Error saving resource( 03_FB_Moses_Red_Sea_1024.jpg ) to firestore: File not found
+Exodus 13:19-20 commentary: from Succoth city and camped at Etham town Error saving resource( biblebento.jpeg ) to firestore: File not found
+**exodus 14:1-31**
+**exodus 16:1-36**
+Exodus 16:35-36: Error saving resource( 25_FB_Moses_Food_Water_1024.jpg ) to firestore: File not found
+**exodus 15:1-27**
+Exodus 15:22-23: Error saving resource( 04_FB_Moses_Red_Sea_1024.jpg ) to firestore: File not found
+Exodus 15:24-25a: Error saving resource( 03_FB_Moses_Food_Water_1024.jpg ) to firestore: File not found
+Exodus 15:24-25a commentary: sweet Error saving resource( 07_FB_Moses_Food_Water_1024.jpg ) to firestore: File not found
+Exodus 15:25b-26a: Error saving resource( 05_FB_Moses_Food_Water_1024.jpg ) to firestore: File not found
+Exodus 15:27: Error saving resource( 10_FB_Moses_Food_Water_1024.jpg ) to firestore: File not found
+**exodus 17:1-16**
+Exodus 17:4-5: Error saving resource( 29_FB_Moses_Food_Water_1024.jpg ) to firestore: File not found
+**exodus 19:1-25**
+Exodus 19:3b-4: Error saving resource( 07_FB_Moody_Moses_Commandments_1024.jpg ) to firestore: File not found
+Exodus 19:8b-9a: Error saving resource( 07_FB_Moody_Moses_Commandments_1024.jpg ) to firestore: File not found
+**exodus 18:1-27**
+Exodus Exodus 18:1: Error saving resource( Ex 18 1.mp3 ) to firestore: File not found
+Exodus Exodus 18:2-3: Error saving resource( Ex 18 2-3.mp3 ) to firestore: File not found
+Exodus Exodus 18:4-5: Error saving resource( Ex 18 4-5.mp3 ) to firestore: File not found
+Exodus Exodus 18:6-7: Error saving resource( Ex 18 6-7.mp3 ) to firestore: File not found
+Exodus Exodus 18:8-9: Error saving resource( Ex 18 8-9.mp3 ) to firestore: File not found
+Exodus Exodus 18:10-11: Error saving resource( Ex 18 10-11.mp3 ) to firestore: File not found
+Exodus Exodus 18:13-14: Error saving resource( Ex 18 13-14.mp3 ) to firestore: File not found
+Exodus 18:15-17: Error saving resource( Jethro n Mo greet talk.jpg ) to firestore: File not found
+Exodus Exodus 18:15-17: Error saving resource( Ex 18 15-17.mp3 ) to firestore: File not found
+Exodus Exodus 18:18-19a: Error saving resource( Ex 18 18-19a.mp3 ) to firestore: File not found
+Exodus Exodus 18:19b-20: Error saving resource( Ex 18 19b-20.mp3 ) to firestore: File not found
+Exodus Exodus 18:21: Error saving resource( Ex 18 21.mp3 ) to firestore: File not found
+Exodus Exodus 18:22: Error saving resource( Ex 18 22.mp3 ) to firestore: File not found
+Exodus Exodus 18:23: Error saving resource( Ex 18 23.mp3 ) to firestore: File not found
+Exodus Exodus 18:24-26a: Error saving resource( Ex 18 24-26a.mp3 ) to firestore: File not found
+Exodus 18:26b-27: Error saving resource( Jethro n Mo greet talk.jpg ) to firestore: File not found
+Exodus Exodus 18:26b-27: Error saving resource( Ex 18 26b-27.mp3 ) to firestore: File not found
+**exodus 20:1-26**
+Exodus 20:12: Error saving resource( 38_FB_Moody_Moses_Commandments_1024.jpg ) to firestore: File not found
+Exodus 20:14: Error saving resource( 38_FB_Moody_Moses_Commandments_1024.jpg ) to firestore: File not found
+Exodus 20:24: Error saving resource( altar uncut stones.jpg ) to firestore: File not found
+**exodus 1:1-22**
+**exodus 21:1-36**
+Exodus 21:5-6 commentary: the town’s door/gate or doorpost Error saving resource( awl.jpg ) to firestore: File not found
+Exodus 21:12-13: Error saving resource( two men fight2.jpg ) to firestore: File not found
+Exodus 21:29: Error saving resource( stoners.jpg ) to firestore: File not found
+Exodus 21:33-34 commentary: a deep pit Error saving resource( pit2.jpg pit.jpg ) to firestore: File not found
+**exodus 22:1-31**
+Exodus 22:29a: Error saving resource( olive grain offering.jpg ) to firestore: File not found
+**exodus 24:1-18**
+Exodus 24:4 commentary: stone pillars Error saving resource( stone pile.jpg ) to firestore: File not found
+passageOverview: Error saving resource( https://youtu.be/855cdosynRU?si=uF6TwiHXDm71PEQL ) to firestore: File not found
+**exodus 23:1-33**
+Exodus 23:2-3: Error saving resource( 22_FB_Moody_Moses_Commandments_1024.jpg ) to firestore: File not found
+Exodus 23:24: Error saving resource( idol tear down.jpg ) to firestore: File not found
+**exodus 25:1-22**
+passageOverview: Error saving resource( Add TBP Temple vid ) to firestore: File not found
+**exodus 26:1-37**
+Exodus 26:31-32: Error saving resource( inner veil w four poles.jpg ) to firestore: File not found
+passageOverview: Error saving resource( https://youtu.be/wVUcJUJBFMU?si=4x2c9rrNb8BCTseF ) to firestore: File not found
+**exodus 28:1-21**
+passageOverview: Error saving resource( https://www.youtube.com/watch?v=DXmSdYp1F0Y ) to firestore: File not found
+passageOverview: Error saving resource( &t=5s ) to firestore: File not found
+**exodus 29:1-46**
+Exodus 29:3-4: Error saving resource( wafers in basket w oil gideonfilmsmedia.jpg ) to firestore: File not found
+Exodus 29:3-4 commentary: <i>from the washbasin</i> Error saving resource( wash A's sons gideonfilmsmedia.jpg ) to firestore: File not found
+Exodus 29:12-13 commentary: Pour out the remaining blood at the altar’s base Error saving resource( 04_FB_MK_Burnt_Offering_1024.jpg ) to firestore: File not found
+Exodus 29:14: Error saving resource( burn bull offal outside camp gideonfilms.jpg ) to firestore: File not found
+Exodus 29:15-16 commentary:  throw/splash its blood onto the altar’s <i>four</i> sides Error saving resource( 04_FB_MK_Burnt_Offering_1024.jpg ) to firestore: File not found
+Exodus 29:23-24 commentary: the basket that holds the baked things/flatbreads Error saving resource( wafers in basket w oil gideonfilmsmedia.jpg ) to firestore: File not found
+Exodus 29:38-40: Error saving resource( sacrifice lamb plus flour gideonfilms.jpg ) to firestore: File not found
+Exodus 29:43-44: Error saving resource( Yhwh's presence day gideonfilms.jpg ) to firestore: File not found
+Exodus 29:45-46: Error saving resource( yhwh's glory gideonfilms.jpg ) to firestore: File not found
+passageOverview: Error saving resource( https://www.youtube.com/watch?v=aCCIJ02yURg ) to firestore: File not found
+**exodus 31:1-18**
+Exodus 31:14-15: Error saving resource( incense Mo talks to ppl.jpg ) to firestore: File not found
+passageOverview: Error saving resource( https://www.youtube.com/watch?v=KGRBJarXOs8 ) to firestore: File not found
+**exodus 2:1-25**
+**exodus 30:1-38**
+Exodus 30:9-10 commentary: purify the altar’s corners/horns Error saving resource( incense blood on horns gideonfilms.jpg ) to firestore: File not found
+passageOverview: Error saving resource( https://youtu.be/icTIyg6uBnU?si=OaiwpRaExsQWsoMY ) to firestore: File not found
+**exodus 35:1-35**
+Exodus 35:1-2a: Error saving resource( incense Mo talks to ppl.jpg ) to firestore: File not found
+Exodus 35:4-6: Error saving resource( incense Mo talks to ppl.jpg ) to firestore: File not found
+**exodus 27:1-22**
+Exodus 27:20-21a commentary: pure oil from pressed/crushed olives Error saving resource( olives for oil.jpg olive oil horn.jpg ) to firestore: File not found
+**exodus 36:1-38**
+Exodus Exodus 36:29-30: Error saving resource( Ex 29-30.mp3 ) to firestore: File not found
+**exodus 37:1-29**
+passageOverview: Error saving resource( https://www.youtube.com/watch?v=GAvBD91j8Rw ) to firestore: File not found
+**exodus 38:1-31**
+Exodus 38:28-29 commentary: 1,775 silver shekels Error saving resource( shekles.jpg ) to firestore: File not found
+Exodus 38:28-29 commentary: 75 bronze <i>metal </i>talents Error saving resource( shekles.jpg ) to firestore: File not found
+Exodus 38:28-29 commentary: 2,400 bronze <i>metal </i>shekels Error saving resource( shekles.jpg ) to firestore: File not found
+**exodus 39:1-43**
+Exodus 39:1: Error saving resource( clothes for priests.jpg ) to firestore: File not found
+**exodus 3:1-22**
+**exodus 40:1-38**
+**exodus 4:1-31**
+Exodus 4:18: Error saving resource( 21_FB_Moses_Burning_Bush_1024.jpg ) to firestore: File not found
+Exodus 4:19-20: Error saving resource( 22_FB_Moses_Burning_Bush_1024.jpg ) to firestore: File not found
+Exodus 4:24: Error saving resource( 24_FB_Moses_Burning_Bush_1024.jpg ) to firestore: File not found
+Exodus 4:25: Error saving resource( Moses upper legs.jpg ) to firestore: File not found
+Exodus 4:29-30: Error saving resource( w elders.jpg ) to firestore: File not found
+**exodus 5:1-23**
+**exodus 6:1-30**
+Exodus 6:28-30 commentary:  Error saving resource( Literally:Then Yahweh spoke to Moses. ) to firestore: File not found
+Exodus 6:28-30 commentary:  Error saving resource( Then God spoke to Moses and said to him:“I am Yahweh,I appeared to Abraham, to Isaac and to Jacob as El-Shaddai,And by my name Yahweh, did I not make myself known to them?”JANUA LINGUARUMSTUDIA MEMORIAE NICOLAI VAN WIJK DEDICATAedenda curatC. H. VAN SCHOONEVELD ) to firestore: File not found
+Exodus 6:28-30 commentary:  Error saving resource( Indiana University, Series Practica, 231--------------------------------------------------THE SENTENCE IN BIBLICAL HEBREWBy FRANCIS L ANDERSENMOUTON PUBLISHERS • THE HAGUE • PARIS • NEW YORK198050801293370 3810182550 ) to firestore: File not found
+**exodus 7:1-25**
+Exodus 7:20: Error saving resource( 02_FB_Moses_Plagues_1_1024.jpg ) to firestore: File not found
+**exodus 32:1-35**
+**exodus 8:1-32**
+Exodus 8:3-4: Error saving resource( frogs everywhere.png ) to firestore: File not found
+Exodus 8:6-7: Error saving resource( 04_FB_Moses_Plagues_1_1024.jpg ) to firestore: File not found
+**exodus 9.1-35**
+Exodus 9:34-35: Error saving resource( 16_FB_Moses_Plagues_1_1024.jpg ) to firestore: File not found
+**exodus 33:1-23**
+Exodus 33:13-14: Error saving resource( 33 yhwh cloud.jpg ) to firestore: File not found
+Exodus 33:17-18: Error saving resource( 33 yhwh cloud.jpg ) to firestore: File not found
+passageOverview: Error saving resource( https://www.youtube.com/watch?v=3ddxDBiV2ks ) to firestore: File not found
+**exodus 34:1-35**

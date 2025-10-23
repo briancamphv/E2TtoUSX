@@ -1,0 +1,5 @@
+**titus 1:1-16**
+Titus 1:9: Error saving resource( traveling support.jpg ) to firestore: File not found
+**titus 2:1-15**
+passageOverview: Error saving resource( Eng Titus Overview TBP SQ.mp4 ) to firestore: File not found
+**titus 3:1-15**

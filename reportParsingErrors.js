@@ -22,16 +22,18 @@ const writeStream = createWriteStream(argv._[0], { flags: "w" });
 var unzipDir = "";
 
 templates.map((template) => {
- 
   const files = getFilePaths(template);
 
-   console.log("files",files)
-  
+  console.log("files", files);
 
   files.map(async (template) => {
-    extractTemplateJson(template).then((template) => {
-      reportOnTemplateData(template);
-    });
+    if (String(template).endsWith("zip")) {
+      setTimeout(() => {
+        extractTemplateJson(template).then((template) => {
+          reportOnTemplateData(template);
+        });
+      }, 500);
+    }
   });
 });
 
@@ -82,6 +84,7 @@ async function extractTemplateJson(zipFilePath, outputDir) {
 
     // Extract
     const zip = new AdmZip(zipFilePath);
+
     zip.extractAllTo(unzipDir, true);
 
     // Look for template.json

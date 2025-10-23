@@ -1,11 +1,5 @@
-**ruth 4:1-22**
-Ruth Ruth 4:4a: Error saving resource( FR_ruth_4.4a.mp3 ) to firestore: File not found
-Ruth 4:11b-12: Error saving resource( 45c Aînés face.jpg ) to firestore: File not found
 **ruth 1:1-22**
 Ruth 1:20-21: Error saving resource( 15.jpg ) to firestore: File not found
-passageOverview: Error saving resource( FR Rut Overview ) to firestore: File not found
-**ruth 3:1-18**
-Ruth Ruth 3:8-9a: Error saving resource( FR_ruth_3.8-9 ) to firestore: File not found
 **ruth 2:1-23**
 Ruth Ruth 2:1: Error saving resource( FR_ruth_2.1 ) to firestore: File not found
 Ruth Ruth 2:2: Error saving resource( FR_ruth_2.2 ) to firestore: File not found
@@ -25,3 +19,8 @@ Ruth Ruth 2:20: Error saving resource( FR_ruth_2.20 ) to firestore: File not fou
 Ruth Ruth 2:21: Error saving resource( FR_ruth_2.21 ) to firestore: File not found
 Ruth Ruth 2:22: Error saving resource( FR_ruth_2.22 ) to firestore: File not found
 Ruth Ruth 2:23: Error saving resource( FR_ruth_2.22 ) to firestore: File not found
+**ruth 3:1-18**
+Ruth Ruth 3:8-9a: Error saving resource( FR_ruth_3.8-9 ) to firestore: File not found
+**ruth 4:1-22**
+Ruth Ruth 4:4a: Error saving resource( FR_ruth_4.4a.mp3 ) to firestore: File not found
+Ruth 4:11b-12: Error saving resource( 45c Aînés face.jpg ) to firestore: File not found
