@@ -1,0 +1,14 @@
+**Mark 1:1-45**
+Mark 1:35-37: Error saving resource( Jesus prays alone.jpg ) to firestore: File not found
+Mark 1:38-39: Error saving resource( many looking for you.jpg ) to firestore: File not found
+**Mark 2:1-28**
+Mark Mark 1:12: is less than the previous pericope's chapter of: 2
+**Mark 3:1-35**
+Mark 3:9-10: Error saving resource( boat teaching crowds.jpg ) to firestore: File not found
+Mark Mark 3:23-25: is less than the previous pericope's chapter of: 6
+Mark 3:28-30: Error saving resource( Jesus speaks.jpg ) to firestore: File not found
+**Mark 4:1-41**
+Mark 4:16-17: Error saving resource( 13_FB_EG_Parable_Sower_1024.jpg ) to firestore: File not found
+Mark 4:28-29: Error saving resource( harvest ready.jpg ) to firestore: File not found
+**Mark 5:1-43**
+**Mark 6:1-56**

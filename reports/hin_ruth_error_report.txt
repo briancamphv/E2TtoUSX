@@ -1,0 +1,7 @@
+**Ruth 1:1-22**
+Ruth Ruth 1:12: Error saving resource( HIN Rut 1 12 Naomi AlaynaPro.mp3 ) to firestore: File not found
+**Ruth 2:1-23**
+Ruth Ruth 2:2: Error saving resource( HINRut 2 2a Nar.mp3 ) to firestore: File not found
+**Ruth 4:1-22**
+Ruth Ruth 4:2-3: Error saving resource( HIN Rut 2 2-3.mp3 ) to firestore: File not found
+**Ruth 3:1-18**

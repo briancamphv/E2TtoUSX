@@ -1,0 +1,6 @@
+**ruth 2:1-23**
+**ruth 3:1-18**
+**ruth 1:1-22**
+**ruth 4:1-22**
+Ruth Ruth 4:4a: Error saving resource( Rut 4 4a.mp3 ) to firestore: File not found
+Ruth Ruth 4:4b-5: Error saving resource( Rut 4 4b-5.mp3 ) to firestore: File not found

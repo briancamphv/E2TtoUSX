@@ -1,0 +1,84 @@
+**Genesis 11b:10-31**
+**Genesis 1.1-2.4a**
+**Genesis 11a:1-9**
+Genesis Genesis :: is less than the previous pericope's chapter of: 11
+**Genesis 10:1-32**
+**Genesis 12b:10-20**
+**Genesis 13:1-18**
+Genesis Genesis 12:14-15: is less than the previous pericope's chapter of: 13
+**Genesis 12:1-9**
+**Genesis 14a:1-16**
+**Genesis 17a:1-14**
+**Genesis 17b:15-27**
+**Genesis 18a:1-15**
+**Genesis 18b:16-33**
+**Genesis 19a:1-11**
+**Genesis 19b:30-37**
+**Genesis 20:1-18**
+**Genesis 14b:17-24**
+**Genesis 15:1-21**
+**Genesis 16:1-16**
+**Genesis 22:1-24**
+**Genesis 23:1-20**
+**Genesis 21b:22-34**
+**Genesis 21a:1-21**
+**Genesis 24:1-67**
+**Genesis 25:1-34**
+**Genesis 26:1-25**
+**Genesis 27:1-46**
+Genesis Genesis 30-31:: Error saving resource( 30 Setelah Ishak selesai memberkati Yakub, dan tepat setelah Yakub keluar dari tenda ayahnya, Esau, kakaknya, pulang dari berburu.  ) to firestore: File not found
+Genesis Genesis 32-33:: Error saving resource( 32 Ishak, ayah Esau, bertanya kepadanya, “Siapakah engkau?”Ia menjawab, “Aku ini Esau, anak sulungmu!”33 Maka Ishak pun gemetar hebat, menyadari bahwa orang yang datang sebelumnya bukanlah Esau. Ia berkata, “Kalau begitu, siapa tadi yang membawakan aku semur yang dibuat dari daging binatang yang diburu  ) to firestore: File not found
+Genesis Genesis 34-35:: Error saving resource( 34 Ketika Esau mendengar kata-kata ayahnya, ia berteriak dengan suara keras dan penuh kepedihan. Ia  ) to firestore: File not found
+Genesis Genesis 36:: Error saving resource( 36 Esau berkata, “Benar-benar tepat ayah memberi nama  Yakub kepadanya, yang berarti ‘menipu,’ sebab ia telah menipuku dua kali. Ia mencuri hak kesulunganku, dan sekarang ia mencuri berkatku!” Lalu Esau bertanya, “Tidakkah Ayah mempunyai berkat lain untukku?” ) to firestore: File not found
+Genesis Genesis 37:: Error saving resource( 37 Ishak menjawab Esau, “Ketika aku memberkati Yakub, Aku membuat dia menjadi tuan atasmu, dan semua kerabatnya telah kubuat menjadi pelayannya. Allah juga akan memberinya banyak gandum  ) to firestore: File not found
+Genesis Genesis 38:: Error saving resource( 38 Tetapi Esau terus memohon kepada ayahnya, “Ayah, apakah Ayah mempunyai satu berkat yang lebih sedikit untukku? Ayah, aku mohon, berkatilah aku juga!” Lalu Esau menangis dengan suara keras. ) to firestore: File not found
+Genesis Genesis 39-40:: Error saving resource( 39 Maka Ishak, ayahnya, menjawab Esau demikian:“Engkau akan tinggal jauh dari tanah pertanian yang subur,dan jauh dari embun yang turun dari langit di atas.  ) to firestore: File not found
+Genesis Genesis 42:: Error saving resource( 42 Seseorang mendengar perkataan Esau dan melaporkan hal itu kepada Ribka. Maka Ribka memanggil  Yakub, anaknya yang lebih muda dan  ) to firestore: File not found
+Genesis Genesis 43-44:: Error saving resource( 43 “Maka sekarang, anakku, dengarkan baik-baik apa yang aku katakan. Larilah segera dan tinggallah bersama saudaraku, Laban, di kota Haran.  ) to firestore: File not found
+Genesis Genesis 45:: Error saving resource( 45 Ketika ia sudah melupakan apa yang engkau lakukan kepadanya, aku akan mengutus seseorang kepadamu, yang akan memberitahukan kepadamu bahwa sudah aman bagimu untuk kembali dari sana.  ) to firestore: File not found
+Genesis Genesis 46:: Error saving resource( 46 Untuk mendukung rencananya, Ribka berkata kepada Ishak, “Perempuan-perempuan asing dari keturunan Het yang telah dinikahi Esau membuat hidupku menderita. Aku lebih baik mati daripada melihat Yakub menikah dengan perempuan dari keturunan Het yang tinggal di negeri ini!” ) to firestore: File not found
+**Genesis 28:1-22**
+**Genesis 29:1-35**
+**Genesis 30a:1-24**
+**Genesis 2:4-25**
+**Genesis 31:1-55**
+**Genesis 30b:25-43**
+Genesis Genesis 30:35: is less than the previous pericope's chapter of: 32
+**Genesis 32:1-32**
+**Genesis 34:1-31**
+**Genesis 33:1-20**
+**Genesis 35:1-15**
+**Genesis 35:16-29**
+**Genesis 36:1-43**
+**Genesis 37:1-36**
+Genesis Genesis 37:25: Error saving resource( BAH Kej  37 25.mp3 ) to firestore: File not found
+Genesis Genesis 37:26-27: Error saving resource( BAH Kej  37 26-27.mp3 ) to firestore: File not found
+Genesis Genesis 37:28: Error saving resource( BAH Kej  37 28.mp3  ) to firestore: File not found
+Genesis Genesis 37:29-30: Error saving resource( BAH Kej  37 29-30.mp3 ) to firestore: File not found
+Genesis Genesis 37:31: Error saving resource( BAH Kej  37 31.mp3 ) to firestore: File not found
+Genesis Genesis 37:32-33: Error saving resource( BAH Kej  37 32-33.mp3 ) to firestore: File not found
+Genesis Genesis 37:34: Error saving resource( BAH Kej  37 34.mp3 ) to firestore: File not found
+**Genesis 38:1-30**
+**Genesis 39:1-23**
+Genesis Genesis :11-12: is less than the previous pericope's chapter of: 39
+**Genesis 3:1-24**
+**Genesis 40:1-23**
+**Genesis 41:1-36**
+**Genesis 41:37-57**
+**Genesis 42:1-38**
+**Genesis 43:1-34**
+**Genesis 44:1-34**
+**Genesis 45:1-28**
+**Genesis 4:1-26**
+**Genesis 47:1-31**
+**Genesis 50:1-26**
+**Genesis 5:1-32**
+**Genesis 6a:1-8**
+**Genesis 7:1-24**
+**Genesis 46:1-27**
+**Genesis 8:1-22**
+**Genesis 9a:1-17**
+**Genesis 6b,:9-22**
+**Genesis 9b:18-29**
+**Genesis 49:1-33**
+**Genesis 48:1-22**

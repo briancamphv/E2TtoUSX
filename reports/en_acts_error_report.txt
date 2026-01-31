@@ -1,0 +1,44 @@
+**acts 10:1-48**
+Acts Acts :23a: is less than the previous pericope's chapter of: 10
+Acts 10:48: Error saving resource( baptized household.jpg0000 ) to firestore: File not found
+**acts 12.1-25**
+**acts 11:1-30**
+**acts 13:1-52**
+Acts 13:14 commentary: in Antioch city Error saving resource(  11_FB_Paul_Antioch_Iconium_1024.jpg ) to firestore: File not found
+Acts Acts 13:21: is less than the previous pericope's chapter of: 16
+**acts 15:1-41**
+Acts Acts 14:2: is less than the previous pericope's chapter of: 15
+**acts 14:1-28**
+Acts 14:6-7: Error saving resource( 13_FB_YO_Paul_Turkey_1024.jpg ) to firestore: File not found
+Acts 14:9b-10: Error saving resource(  02_FB_Paul_Lystra_Derbe_1024.jpg ) to firestore: File not found
+Acts 14:19: Error saving resource(  06_FB_Paul_Lystra_Derbe_1024.jpg ) to firestore: File not found
+Acts 14:20b-21: Error saving resource(  08_FB_Paul_Lystra_Derbe_1024.jpg ) to firestore: File not found
+Acts 14:23: Error saving resource(  11_FB_GNPI_Acts_Paul_Lystra_1024.jpg ) to firestore: File not found
+Acts 14:24-25: Error saving resource(  10_FB_Paul_Lystra_Derbe_1024.jpg ) to firestore: File not found
+Acts 14:27: Error saving resource( 13_FB_Paul_Lystra_Derbe_1024.jpg ) to firestore: File not found
+**acts 16:1-40**
+Acts Acts 15:20-21: is less than the previous pericope's chapter of: 16
+**acts 17:1-28**
+**acts 18:1-28**
+Acts 18:17: Error saving resource( beatingSosthenese.jpg ) to firestore: File not found
+**acts 19:1-20**
+**acts 20:1-38**
+**acts 1:1-26**
+**acts 21:1-40**
+**acts 23:1-35**
+Acts 23:4-5: Error saving resource( 14_FB_Paul_Arrested_Jerusalem_1024 ) to firestore: File not found
+**acts 25:1-27**
+**acts 22:1-30**
+**acts 24:1-27**
+**acts 26:1-32**
+**acts 27:1-44**
+Acts 27:13-14: Error saving resource( 05_FB_Paul_Shipwrecked_1024.jp ) to firestore: File not found
+**acts 28:1-32**
+**acts 2:1-47**
+**acts 3:1-26**
+**acts 7:1-60**
+**acts 8:1-19**
+**acts 9:1-43**
+**acts 4:1-37**
+**acts 5:1-42**
+**acts 6:1-15**

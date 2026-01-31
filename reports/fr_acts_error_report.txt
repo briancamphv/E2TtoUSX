@@ -1,0 +1,101 @@
+**actes 11:1-30**
+**actes 14:1-28**
+Acts 14:6-7: Error saving resource( 13_FB_YO_Paul_Turkey_1024.jpg ) to firestore: File not found
+Acts 14:9b-10: Error saving resource(  02_FB_Paul_Lystra_Derbe_1024.jpg ) to firestore: File not found
+Acts 14:19: Error saving resource(  06_FB_Paul_Lystra_Derbe_1024.jpg ) to firestore: File not found
+Acts 14:20b-21: Error saving resource(  08_FB_Paul_Lystra_Derbe_1024.jpg ) to firestore: File not found
+Acts 14:23: Error saving resource(  11_FB_GNPI_Acts_Paul_Lystra_1024.jpg ) to firestore: File not found
+Acts 14:24-25: Error saving resource(  10_FB_Paul_Lystra_Derbe_1024.jpg ) to firestore: File not found
+Acts 14:27: Error saving resource( 13_FB_Paul_Lystra_Derbe_1024.jpg ) to firestore: File not found
+**actes 10:1-48**
+Acts Acts :23a: is less than the previous pericope's chapter of: 10
+Acts 10:48: Error saving resource(  baptized household.jpg0000 ) to firestore: File not found
+**actes 12.1-25**
+Acts 12:5: Error saving resource( prayer forpeter.jpg ) to firestore: File not found
+**actes 13:1-52**
+Acts 13:14 commentary: dans la ville d’Antioche Error saving resource(  11_FB_Paul_Antioch_Iconium_1024.jpg ) to firestore: File not found
+Acts Acts 13:21: is less than the previous pericope's chapter of: 16
+**actes 16:1-40**
+Acts Acts 15:20-21: is less than the previous pericope's chapter of: 16
+Acts 16:31-34: Error saving resource( gave them a meal Bentley ) to firestore: File not found
+Acts Acts 16:32-34: Error saving resource( FR_Ac_16_32-34.mp3 ) to firestore: File not found
+**actes 17:28**
+Acts Acts 17:13: Error saving resource( FR_Ac_17_13.mp ) to firestore: File not found
+**actes 15:1-41**
+Acts Acts 14:2: is less than the previous pericope's chapter of: 15
+**actes 18:1-28**
+Acts 18:17: Error saving resource(  beatingSosthenese.jpg ) to firestore: File not found
+**actes 1:1-26**
+**actes 19:1-20**
+Acts 19:1-2a commentary:   Error saving resource(   ) to firestore: File not found
+Acts 19:2b-3 commentary: qu'il y a un Saint-Esprit Error saving resource(   ) to firestore: File not found
+Acts 19:2b-3 commentary:   Error saving resource(   ) to firestore: File not found
+Acts 19:4-5 commentary: baptisés au nom de Jésus <i>pour affirmer qu'ils croyaient </i>au Seigneur Jésus Error saving resource(   ) to firestore: File not found
+Acts 19:4-5 commentary:   Error saving resource(   ) to firestore: File not found
+Acts 19:6-7 commentary: prophétiser/prononcer des messages de Dieu dans une autre langue Error saving resource(   ) to firestore: File not found
+Acts 19:6-7 commentary:   Error saving resource(   ) to firestore: File not found
+Acts 19:8-9a commentary: hardiment Error saving resource(   ) to firestore: File not found
+Acts 19:8-9a commentary:  Error saving resource(   ) to firestore: File not found
+Acts 19:9b commentary: a quitté donc la synagogue et a emmené les nouveaux chrétiens avec lui pour les rencontrer Error saving resource(   ) to firestore: File not found
+Acts 19:9b commentary: qui appartenait à un homme nommé Tyrannus Error saving resource(   ) to firestore: File not found
+Acts 19:9b commentary:  Error saving resource(   ) to firestore: File not found
+Acts 19:10 commentary: <i>enseignant aux chrétiens comment aller enseigner aussi les autres</i>. Error saving resource(   ) to firestore: File not found
+Acts 19:10 commentary:   Error saving resource(   ) to firestore: File not found
+Acts 19:11-12 commentary:   Error saving resource(   ) to firestore: File not found
+Acts 19:13-14 commentary: qui prétendait être un grand prêtre pour le Dieu des juifs Error saving resource(   ) to firestore: File not found
+Acts 19:13-14 commentary:  Error saving resource(   ) to firestore: File not found
+Acts 19:15-16 commentary:   Error saving resource(   ) to firestore: File not found
+Acts 19:17 commentary:   Error saving resource(   ) to firestore: File not found
+Acts 19:18-19 commentary: leurs livres Error saving resource(   ) to firestore: File not found
+Acts 19:18-19 commentary:   Error saving resource(   ) to firestore: File not found
+Acts 19:20 commentary: beaucoup plus de gens dans beaucoup d'autres endroits ont entendu le message sur le Seigneur Jésus Error saving resource(   ) to firestore: File not found
+ : Error saving resource(   ) to firestore: File not found
+ : Error saving resource(   ) to firestore: File not found
+ : Error saving resource(   ) to firestore: File not found
+Contexte historique :: Error saving resource(   ) to firestore: File not found
+Thème(s) principal(s) :: Error saving resource(   ) to firestore: File not found
+ : Error saving resource(   ) to firestore: File not found
+passageOverview: Error saving resource(   ) to firestore: File not found
+**actes 20:1-38**
+**actes 21:1-40**
+**actes 23:1-35**
+Acts 23:4-5: Error saving resource(  14_FB_Paul_Arrested_Jerusalem_1024 ) to firestore: File not found
+Acts Acts 23:11: Error saving resource( FR_Ac_23_11.mp ) to firestore: File not found
+Acts Acts 23:14 à 15 bis: Error saving resource( FR_Ac_23_14-15a.mp ) to firestore: File not found
+**actes 22:1-30**
+**actes 26:1-32**
+Acts Acts 26:1: Error saving resource( FR_Ac_26_1.mp ) to firestore: File not found
+Acts Acts 26:7b-8: Error saving resource( FR_Ac_26_7b-8.mp ) to firestore: File not found
+**actes 24:1-27**
+Acts Acts 24:5-6: Error saving resource( FR_Ac_24_5-6.mp ) to firestore: File not found
+Acts Acts 24:18: Error saving resource( FR_Ac_24_18.mp ) to firestore: File not found
+**actes 25:1-27**
+Acts Acts 25:20 à 21 bis: Error saving resource( FR_Ac_25_20-21a.mp ) to firestore: File not found
+Acts Acts 25:23: Error saving resource( FR_Ac_25_23.mp ) to firestore: File not found
+**actes 27:1-44**
+Acts 27:13-14: Error saving resource( 05_FB_Paul_Shipwrecked_1024.jp ) to firestore: File not found
+Acts 27:27 à 28 bis: Retry limit exceeded - {"config":{"method":"PUT","url":"https://storage.googleapis.com/upload/storage/v1/b/honeybeeobt-app.firebasestorage.app/o?name=174jyKGkGQ62RDrtP86CYqb0AhblwCcjf%2F174jyKGkGQ62RDrtP86CYqb0AhblwCcjf1g3t_OCoP7WQT7OrIYrZDRp0lUY3zl1Uo.jpg&uploadType=resumable&upload_id=AAwnv3JDYFJEAZpxMDIMrcUzevoLSJ5zQOYXyiwWcl9dusjwTLOXltrDMhelTdqzY3c_lXrTwSLRk3MlbHF2oKYTPEt9x6AMH4iV2sq4YQ4CfAI","headers":{"User-Agent":"gcloud-node-storage/7.15.2 google-api-nodejs-client/9.15.1","x-goog-api-client":"gl-node/22.20.0 gccl/7.15.2-CJS gccl-invocation-id/e66bc746-6503-4855-a34f-512cb6c99beb","Content-Range":"bytes 0-*/*","Authorization":"<<REDACTED> - See `errorRedactor` option in `gaxios` for configuration>."},"body":{"_events":{},"_readableState":{"highWaterMark":65536,"buffer":[],"bufferIndex":0,"length":0,"pipes":[],"awaitDrainWriters":null},"_eventsCount":1},"signal":{},"responseType":"unknown"},"error":{"message":"request to https://storage.googleapis.com/upload/storage/v1/b/honeybeeobt-app.firebasestorage.app/o?name=174jyKGkGQ62RDrtP86CYqb0AhblwCcjf%2F174jyKGkGQ62RDrtP86CYqb0AhblwCcjf1g3t_OCoP7WQT7OrIYrZDRp0lUY3zl1Uo.jpg&uploadType=resumable&upload_id=AAwnv3JDYFJEAZpxMDIMrcUzevoLSJ5zQOYXyiwWcl9dusjwTLOXltrDMhelTdqzY3c_lXrTwSLRk3MlbHF2oKYTPEt9x6AMH4iV2sq4YQ4CfAI failed, reason: write EPIPE","type":"system","errno":"EPIPE","code":"EPIPE"},"code":"EPIPE"}
+Acts Acts 27:33-34: Error saving resource( FR_Ac_27_33-34.mp ) to firestore: File not found
+**actes 28:1-32**
+Acts :28 commentary:   Error saving resource( Les Grecs et les Romains considéraient les Maltais indigènes comme incultes parce qu'ils parlaient la langue punique, plutôt que le latin ou le grec. ) to firestore: File not found
+Acts :28 commentary:   Error saving resource( Le texte grec ne dit rien sur les morsures. Il utilise le verbe  ) to firestore: File not found
+Acts :28 commentary:   Error saving resource( « attacher » qui est ambigu. Cela pourrait signifier qu'il s'est attaché avec sa bouche/ses dents (c'est-à-dire en mordant) ou avec son corps (c'est-à-dire en s'enroulant autour). Essayez de traduire cela de manière générale pour que cela reste ambigu, ou traduisez comme votre Bible dans votre langue principale le traduit. ) to firestore: File not found
+Acts :28 commentary:   Error saving resource( On croyait que la « justice » était une déesse exécutant la volonté des Parques. ) to firestore: File not found
+Acts :28 commentary:   Error saving resource( Certains païens considéraient les survivants des morsures de serpent comme sacrés. ) to firestore: File not found
+Acts :28 commentary:  Error saving resource( Votre traduction devrait indiquer clairement qu'après que Paul a prié et touché chacun de ces malades, Dieu/Jésus les a guéris. ) to firestore: File not found
+Acts :28 commentary:   Error saving resource( Les messages de Dieu parvenaient aux prophètes, parfois par des paroles audibles, et d'autres fois par des visions. ) to firestore: File not found
+Acts :28 commentary:   Error saving resource( Le verset 29 a été inséré au 5ème siècle, copié du verset 25. Si votre Bible nationale n'a pas le verset 29, vous pouvez l'omettre ici. Ou si votre Bible nationale combine les versets 28 et 29, vous pouvez l'insérer ici. ) to firestore: File not found
+**actes 2:1-47**
+Acts Acts 1:5: is less than the previous pericope's chapter of: 2
+Acts 2:34-35 commentary: Régnez ici à côté de moi, 
+jusqu'à ce que je vainque complètement vos ennemis Error saving resource( Twin Thrones N&B Style Arabe footstool.jpeg ) to firestore: File not found
+Acts Acts 2:40: is less than the previous pericope's chapter of: 3
+**actes 3:1-26**
+**actes 7:1-60**
+Acts 7:48: Error saving resource( 12_FB_Stephen_Martyred_1024.jpg.jpg ) to firestore: File not found
+**actes 8:1-40**
+**actes 9:1-43**
+Acts Acts 9:26 et 27 bis: Error saving resource( FR_Ac_9_26-27a.mp ) to firestore: File not found
+**actes 4:1-37**
+**actes 5:1-42**
+**actes 6:1-15**

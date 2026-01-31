@@ -129,6 +129,7 @@ function reportOnTemplateData(templateFile) {
       try {
         const jsonData = JSON.parse(data);
         const bookname = jsonData.textTitle.bookName;
+        var prevChapter = 0;
 
         writeStream.write(`**${jsonData.textTitle.title}**\n`);
         jsonData.sections.map((section) => {
@@ -140,8 +141,16 @@ function reportOnTemplateData(templateFile) {
 
             if (part.audio !== null && part.audio.errors) {
               const errorText = `${bookname} ${jsonData.textTitle.bookName} ${part.chapter}:${part.verse}: ${part.audio.errors[0]}\n`;
+
               writeStream.write(errorText);
             }
+
+            if (part.chapter !== null && part.chapter < prevChapter) {
+              const errorText = `${bookname} ${jsonData.textTitle.bookName} ${part.chapter}:${part.verse}: is less than the previous pericope's chapter of: ${prevChapter}\n`;
+              writeStream.write(errorText);
+            }
+
+            prevChapter = part.chapter;
 
             part.commentaries.map((commentary) => {
               const title = commentary.title;

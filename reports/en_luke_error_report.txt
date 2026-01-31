@@ -1,0 +1,50 @@
+**luke 10:1-42**
+**luke 11:1-54**
+Luke 11:47-48 commentary: by building these beautiful stone tombs Error saving resource(  Zach's tomb gpsmycity.com ) to firestore: File not found
+Luke 11:47-48 commentary: by building these beautiful stone tombs Error saving resource( .jpg ) to firestore: File not found
+**luke 13:1-35**
+**luke 14:1-35**
+Luke 14:2-3 commentary:  arms and legs were swollen Error saving resource(  edema legs black mossylegs.com.jpg edema arms photo.jpg ) to firestore: File not found
+Luke Luke 13:16b-17: is less than the previous pericope's chapter of: 14
+**luke 12:1-59**
+Luke 12:29-30: Retry limit exceeded - {"config":{"method":"PUT","url":"https://storage.googleapis.com/upload/storage/v1/b/honeybeeobt-app.firebasestorage.app/o?name=1k34TVG9gunW6VVJeZxLhv1snB2MywkcE%2F1k34TVG9gunW6VVJeZxLhv1snB2MywkcE1CbDkULcEsxHxxxwiE7f5W9FbDDDT_BVj.jpg&uploadType=resumable&upload_id=AOCedOHn4f03DLVz52MBPNhSwwCVN-H36mBN94VxJn7sro0EEEBblMkjgRR4aPModHc39QdpHBf6Z5En0AQ4ApdCeiVrqEbe9AyJ75EdjGZ8owo","headers":{"User-Agent":"gcloud-node-storage/7.15.2 google-api-nodejs-client/9.15.1","x-goog-api-client":"gl-node/22.20.0 gccl/7.15.2-CJS gccl-invocation-id/d9a380f6-356f-4bc6-9a7c-1353322440d8","Content-Range":"bytes 0-*/*","Authorization":"<<REDACTED> - See `errorRedactor` option in `gaxios` for configuration>."},"body":{"_events":{},"_readableState":{"highWaterMark":65536,"buffer":[],"bufferIndex":0,"length":0,"pipes":[],"awaitDrainWriters":null},"_eventsCount":1},"signal":{},"responseType":"unknown"},"error":{"message":"request to https://storage.googleapis.com/upload/storage/v1/b/honeybeeobt-app.firebasestorage.app/o?name=1k34TVG9gunW6VVJeZxLhv1snB2MywkcE%2F1k34TVG9gunW6VVJeZxLhv1snB2MywkcE1CbDkULcEsxHxxxwiE7f5W9FbDDDT_BVj.jpg&uploadType=resumable&upload_id=AOCedOHn4f03DLVz52MBPNhSwwCVN-H36mBN94VxJn7sro0EEEBblMkjgRR4aPModHc39QdpHBf6Z5En0AQ4ApdCeiVrqEbe9AyJ75EdjGZ8owo failed, reason: socket hang up","type":"system","errno":"ECONNRESET","code":"ECONNRESET"},"code":"ECONNRESET"}
+**luke 16.1-18**
+Luke 16:8-9 commentary: they will welcome you Error saving resource( https://tips.translation.bible/tip_verse/luke-16-9/ ) to firestore: File not found
+Luke 16:8-9 commentary: they will welcome you Error saving resource(  (Note Tagbanwa back translation) ) to firestore: File not found
+**luke 15:1-32**
+**luke 16:1-31**
+**luke 17:1-37**
+Luke Luke 16:35-36: is less than the previous pericope's chapter of: 17
+**luke 18:1-43**
+Luke 18:34: Error saving resource(  05_FB_GNPI_075_Resurrection_Prophecies_1024.jpg ) to firestore: File not found
+**luke 19:1-48**
+**luke 1a:1-25**
+**luke 1b:26-56**
+**luke 21:1-47**
+**luke 1c:57-80**
+**luke 20:1-47**
+Luke 20:4-5: Error saving resource(  14_FB_Parable_Tenants_1024 ) to firestore: File not found
+Luke 20:17-18 commentary: the most important stone and laid it at the main corner in a new temple/house Error saving resource( cornerstone stockadobe.com.jpg  cornerstone stuffwithwords.com.jpg ) to firestore: File not found
+Luke Luke 20:38: is less than the previous pericope's chapter of: 21
+**luke 22:1-71**
+Luke Luke 11:45-46: is less than the previous pericope's chapter of: 22
+Luke Luke 00:63-65: is less than the previous pericope's chapter of: 22
+**luke 2b:25-52**
+**luke 23:1-56**
+Luke Luke 23:13-14: is less than the previous pericope's chapter of: 26
+**luke 2a:1-24**
+**luke 24:1-53**
+Luke Luke :44-46a: is less than the previous pericope's chapter of: 24
+Background information:: Error saving resource( crucifiction dict audio.mp3 ) to firestore: File not found
+Historical context:: Error saving resource( https://youtu.be/pf3nO_BeTtQ ) to firestore: File not found
+Historical context:: Error saving resource(    ) to firestore: File not found
+**luke 6:1-49**
+**luke 7:1-50**
+**luke 8:1-56**
+Luke Luke 8:47: Error saving resource(  Lk 8 47.mp3 ) to firestore: File not found
+**luke 9:1-62**
+**luke 3:1-38**
+**luke 4:1-44**
+Luke Luke :36-37: is less than the previous pericope's chapter of: 4
+**luke 5:1-39**
+Luke 5:8: Error saving resource(  09_FB_GNPI_022_Four_Disciples_1024.jpg ) to firestore: File not found
