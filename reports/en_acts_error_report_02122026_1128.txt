@@ -38,6 +38,16 @@ Acts 14:20b-21 commentary: <i></i> is not included in the text
 Acts 14:23: Error saving resource(  11_FB_GNPI_Acts_Paul_Lystra_1024.jpg ) to firestore: File not found
 Acts 14:24-25: Error saving resource(  10_FB_Paul_Lystra_Derbe_1024.jpg ) to firestore: File not found
 Acts 14:27: Error saving resource( 13_FB_Paul_Lystra_Derbe_1024.jpg ) to firestore: File not found
+**acts 15:1-41**
+Acts Acts 14:2: is less than the previous pericope's chapter of: 15
+Acts 14:2 commentary:  <i>to</i> do it is not included in the text
+Acts 15:8 commentary: <i></i> is not included in the text
+Acts 15:10 commentary: we must be careful not to anger God is not included in the text
+Acts 15:11 commentary: <i>when they believe in Jesus</i> is not included in the text
+Acts 15:11 commentary: <i></i> is not included in the text
+Acts 15:15-16 commentary: <i>the prophets Jeremiah and Amos </i>wrote is not included in the text
+Acts 15:29b commentary: <i>These things are God’s will for everyone everywhere.</i> is not included in the text
+Acts 15:40 commentary:  <i>on Paul’s second missionary journey/trip</i> is not included in the text
 **acts 16:1-40**
 Acts 16:7-8 commentary: <i>I, Luke, joined them there.</i>  is not included in the text
 Acts 16:15 commentary: <i>So then,</i> is not included in the text
@@ -49,28 +59,15 @@ Acts 16:27-28 commentary: <i>the government would punish/kill him</i> is not inc
 Acts 16:27-28 commentary: <i></i> is not included in the text
 Acts 16:38 commentary: <i>without holding a court trial</i> is not included in the text
 Acts 16:38 commentary: <i></i> is not included in the text
-**acts 15:1-41**
-Acts Acts 14:2: is less than the previous pericope's chapter of: 15
-Acts 14:2 commentary:  <i>to</i> do it is not included in the text
-Acts 15:8 commentary: <i></i> is not included in the text
-Acts 15:10 commentary: we must be careful not to anger God is not included in the text
-Acts 15:11 commentary: <i>when they believe in Jesus</i> is not included in the text
-Acts 15:11 commentary: <i></i> is not included in the text
-Acts 15:15-16 commentary: <i>the prophets Jeremiah and Amos </i>wrote is not included in the text
-Acts 15:29b commentary: <i>These things are God’s will for everyone everywhere.</i> is not included in the text
-Acts 15:40 commentary:  <i>on Paul’s second missionary journey/trip</i> is not included in the text
 **acts 17:1-28**
 Acts 17:18b commentary: babbling / chattering man talking about
  is not included in the text
 Acts 17:32 commentary: they laughed scornfully is not included in the text
 Acts 17:34 commentary: began to follow Paul as their teacher is not included in the text
-**acts 1:1-26**
-Acts 1:15-16a commentary:  there are words that King David to write is not included in the text
-Acts 1:18 commentary: When/After Judas agreed to betray Jesus is not included in the text
-Acts 1:19 commentary: All the people residing … is not included in the text
-Acts 1:19 commentary: <i>‘blood money’. </i> is not included in the text
-Acts 1:20 commentary: <i>in one Psalm/song
-</i> is not included in the text
+**acts 18:1-28**
+Acts 18:17: Error saving resource( beatingSosthenese.jpg ) to firestore: File not found
+Acts 18:18a commentary: he had completed a Nazarite vow is not included in the text
+Acts 18:21b-22 commentary: went <i>inland</i> is not included in the text
 **acts 19:1-20**
 Acts 19:1-2a commentary: Ephesus city is not included in the text
 Acts 19:1-2a commentary: <i>Jesus’ disciples</i> is not included in the text
@@ -83,6 +80,13 @@ Acts 19:34 commentary: <i>“Great is our Artemis in Ephesus!”</i>  is not in
 Acts 19:34 commentary: <i></i> is not included in the text
 Acts 19:38 commentary: <i>case/accusations</i> is not included in the text
 Acts 19:38 commentary: <i></i> is not included in the text
+**acts 1:1-26**
+Acts 1:15-16a commentary:  there are words that King David to write is not included in the text
+Acts 1:18 commentary: When/After Judas agreed to betray Jesus is not included in the text
+Acts 1:19 commentary: All the people residing … is not included in the text
+Acts 1:19 commentary: <i>‘blood money’. </i> is not included in the text
+Acts 1:20 commentary: <i>in one Psalm/song
+</i> is not included in the text
 **acts 20:1-38**
 Acts 20:10 commentary: crouched down is not included in the text
 Acts 20:22-23 commentary: has warned me is not included in the text
@@ -103,18 +107,29 @@ Acts 24:13-14a commentary:  the way that Jesus taught is not included in the te
 Acts 24:26 commentary: <i>Paul never gave money to Felix</i> is not included in the text
 Acts 24:26 commentary: <i></i> is not included in the text
 Acts 24:27 commentary:  <i>sent</i> Porcius Festus to become governor in Felix’s place is not included in the text
-**acts 25:1-27**
-Acts 25:1-2a commentary:  arrived in Caesarea <i>city</i> is not included in the text
-**acts 3:1-26**
-Acts 3:21-22a commentary: This is what the prophet Moses said about the Messiah is not included in the text
-Acts 3:22b-23 commentary: The Lord your God  is not included in the text
+**acts 26:1-32**
+Acts 26:26 commentary: I am sure all these things happened openly/in public is not included in the text
 **acts 27:1-44**
 Acts 27:1 commentary: an imperial army centurion is not included in the text
 Acts 27:13-14: Error saving resource( 05_FB_Paul_Shipwrecked_1024.jp ) to firestore: File not found
 Acts 27:17 commentary: a drag anchor,<i> a big bag attached to a rope to drag in the water</i> is not included in the text
 Acts 27:18-19 commentary: in order to make the ship lighter/less heavy is not included in the text
-**acts 26:1-32**
-Acts 26:26 commentary: I am sure all these things happened openly/in public is not included in the text
+**acts 25:1-27**
+Acts 25:1-2a commentary:  arrived in Caesarea <i>city</i> is not included in the text
+**acts 28:1-32**
+Acts 28:8-9 commentary: God healed them, also is not included in the text
+Acts 28:10 commentary: <i></i> is not included in the text
+Acts 28:28-29 commentary:  29 <i>After Paul said these words, the Jews departed/left, arguing and disagreeing with each other.
+</i> is not included in the text
+**acts 2:1-47**
+Acts 2:1-2 commentary: the believers in Jesus is not included in the text
+Acts 2:19b-20 commentary: the sun will appear dark <i>to people</i>, and the moon will appear red <i>to them</i> is not included in the text
+Acts 2:32 commentary: <i> his apostles</i> is not included in the text
+Acts 2:42-43 commentary: <i>remembered Jesus’ death by eating the Lord’s Meal</i> is not included in the text
+Acts 2:46 commentary: home groups is not included in the text
+**acts 3:1-26**
+Acts 3:21-22a commentary: This is what the prophet Moses said about the Messiah is not included in the text
+Acts 3:22b-23 commentary: The Lord your God  is not included in the text
 **acts 4:1-37**
 Acts 4:8-9 commentary:  the Holy Spirit enabled Peter <i>to speak boldly</i> is not included in the text
 Acts 4:10 commentary:  <i>We were able</i> to heal this man, <i>because we spoke</i> the Messiah’s powerful name, <i>with his authorization</i>.  He is is not included in the text
@@ -123,6 +138,15 @@ Acts 4:12 commentary: only God’s Messiah Jesus can save us is not included in 
 Acts 4:18 commentary: about Jesus’ <i>powerful </i>name is not included in the text
 Acts 4:24b-25a commentary:  you created the sky, the land, the sea is not included in the text
 Acts 4:28-29 commentary: what they have threatened to do to us0 is not included in the text
+**acts 8:1-19**
+Acts 8:1, 3 commentary: the new/young church is not included in the text
+Acts 8:20-21 commentary: your thoughts are wrong is not included in the text
+Acts 8:22 commentary: repent from this evil <i>idea</i> is not included in the text
+Acts 8:27b commentary: who was a eunuch is not included in the text
+Acts 8:34-35 commentary: that Scripture passage is not included in the text
+Acts 8:36-38 commentary: <i> [37 Philip said, “If you truly believe that Jesus is the Messiah and also God’s Son, I will baptize you.” 
+The official answered, “I believe that Jesus is the Messiah and also God’s Son.”]
+</i> is not included in the text
 **acts 7:1-60**
 Acts 7:5b commentary: God promised <i>to Abraham</i> is not included in the text
 Acts 7:5b commentary: inherit this land after he died is not included in the text
@@ -133,40 +157,16 @@ Acts 7:16b commentary: <i>About 400 years later</i> is not included in the text
 Acts 7:35b commentary: That angel from God who appeared to Moses in the burning bush is the one who helped Moses to free our people <i>from the Egyptian</i>s. is not included in the text
 Acts 7:37 commentary:  Moses is the one who said to the Israelite people is not included in the text
 Acts 7:46-47 commentary: <i> </i> is not included in the text
-**acts 8:1-19**
-Acts 8:1, 3 commentary: the new/young church is not included in the text
-Acts 8:20-21 commentary: your thoughts are wrong is not included in the text
-Acts 8:22 commentary: repent from this evil <i>idea</i> is not included in the text
-Acts 8:27b commentary: who was a eunuch is not included in the text
-Acts 8:34-35 commentary: that Scripture passage is not included in the text
-Acts 8:36-38 commentary: <i> [37 Philip said, “If you truly believe that Jesus is the Messiah and also God’s Son, I will baptize you.” 
-The official answered, “I believe that Jesus is the Messiah and also God’s Son.”]
-</i> is not included in the text
+**acts 9:1-43**
+Acts 9:25 commentary: <i>a house on the city wall</i> is not included in the text
+**acts 5:1-42**
+Acts 5:9 commentary:  husband’s corpse is not included in the text
+Acts 5:22-23 commentary:  jail cell is not included in the text
+Acts 5:41 commentary: <i>Jesus’</i> name is not included in the text
+Acts 5:41 commentary: <i></i> is not included in the text
 **acts 6:1-15**
 Acts 6:1a commentary:  <i>Most among them had always lived in Israel and spoke the Aramaic language. But others were from other countries and spoke only the Greek language.</i> is not included in the text
 Acts 6:1b commentary: <i>Many elderly, foreign Jews moved to Jerusalem before they died, and, as a result, many widows were (eft) there in Jerusalem. </i> is not included in the text
 Acts 6:1b commentary: the Greek-speaking widows is not included in the text
 Acts 6:5a commentary: <i>strongly helping him</i> is not included in the text
 Acts 6:14 commentary: destroy this holy place is not included in the text
-**acts 5:1-42**
-Acts 5:9 commentary:  husband’s corpse is not included in the text
-Acts 5:22-23 commentary:  jail cell is not included in the text
-Acts 5:41 commentary: <i>Jesus’</i> name is not included in the text
-Acts 5:41 commentary: <i></i> is not included in the text
-**acts 9:1-43**
-Acts 9:25 commentary: <i>a house on the city wall</i> is not included in the text
-**acts 18:1-28**
-Acts 18:17: Error saving resource( beatingSosthenese.jpg ) to firestore: File not found
-Acts 18:18a commentary: he had completed a Nazarite vow is not included in the text
-Acts 18:21b-22 commentary: went <i>inland</i> is not included in the text
-**acts 2:1-47**
-Acts 2:1-2 commentary: the believers in Jesus is not included in the text
-Acts 2:19b-20 commentary: the sun will appear dark <i>to people</i>, and the moon will appear red <i>to them</i> is not included in the text
-Acts 2:32 commentary: <i> his apostles</i> is not included in the text
-Acts 2:42-43 commentary: <i>remembered Jesus’ death by eating the Lord’s Meal</i> is not included in the text
-Acts 2:46 commentary: home groups is not included in the text
-**acts 28:1-32**
-Acts 28:8-9 commentary: God healed them, also is not included in the text
-Acts 28:10 commentary: <i></i> is not included in the text
-Acts 28:28-29 commentary:  29 <i>After Paul said these words, the Jews departed/left, arguing and disagreeing with each other.
-</i> is not included in the text

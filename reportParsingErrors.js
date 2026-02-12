@@ -155,6 +155,12 @@ function reportOnTemplateData(templateFile) {
             part.commentaries.map((commentary) => {
               const title = commentary.title;
 
+
+              if (!part.text.includes(title.trim())) {
+                const errorText = `${bookname} ${part.chapter}:${part.verse} commentary: ${title} is not included in the text\n`;
+                writeStream.write(errorText);
+              }
+
               commentary.resources.map((resource) => {
                 if (resource.errors) {
                   const errorText = `${bookname} ${part.chapter}:${part.verse} commentary: ${title} ${resource.errors[0]}\n`;
