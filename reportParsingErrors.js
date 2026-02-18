@@ -118,6 +118,18 @@ async function extractTemplateJson(zipFilePath, outputDir) {
   }
 }
 
+function hasConsecutiveDuplicateAnyPhrase(
+  text,
+  { caseInsensitive = true } = {},
+) {
+  if (typeof text !== "string") return false;
+
+  const flags = caseInsensitive ? "i" : "";
+  // Captures a minimal phrase then checks it repeats right after whitespace
+  const re = new RegExp(String.raw`(?:^|\s)(.+?)(?:\s+)\1(?:\s|$)`, flags);
+  return re.test(text);
+}
+
 function reportOnTemplateData(templateFile) {
   return new Promise((resolve, reject) => {
     readFile(templateFile, "utf8", (err, data) => {
@@ -155,9 +167,18 @@ function reportOnTemplateData(templateFile) {
             part.commentaries.map((commentary) => {
               const title = commentary.title;
 
+              if (commentary.title == commentary.content) {
+                const errorText = `${bookname} ${part.chapter}:${part.verse} highlighted text: ${title} is exact match of BEN Text Options\n`;
+                writeStream.write(errorText);
+              }
+
+              if (hasConsecutiveDuplicateAnyPhrase(commentary.content)) {
+                const errorText = `${bookname} ${part.chapter}:${part.verse} highlighted text: ${title}, BEN Text Options has consecutive duplicate phrases\n`;
+                writeStream.write(errorText);
+              }
 
               if (!part.text.includes(title.trim())) {
-                const errorText = `${bookname} ${part.chapter}:${part.verse} commentary: ${title} is not included in the text\n`;
+                const errorText = `${bookname} ${part.chapter}:${part.verse} highlighted text: ${title} is not included in the text\n`;
                 writeStream.write(errorText);
               }
 
