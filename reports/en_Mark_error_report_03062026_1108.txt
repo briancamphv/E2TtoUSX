@@ -1,0 +1,98 @@
+**Mark 1:1-33**
+Mark 11:11: Error saving resource( 03_FB_GNPI_079_Temple_Cleansing_1024.jpg ) to firestore: File not found
+Mark 11:11 highlighted text: <i>The temple courtyard</i> is not included in the text
+Mark 11:17 highlighted text: <i>the prophets’ books</i> is not included in the text
+Mark 11:31-32: Error saving resource( 13_FB_GNPI_079_Temple_Cleansing_1024.jpg ) to firestore: File not found
+Mark 11:31-32 highlighted text:  “If we reply, ‘God in heaven’, then he will ask, ‘So, why did you not believe him?’ 32 But we <i>must not </i>reply, ‘Human beings!’” is not included in the text
+**Mark 12:1-44**
+Mark 12:9-11 highlighted text: Keystone is not included in the text
+Mark 12:18-20 highlighted text: There <i>once</i> is not included in the text
+Mark 12:32-33 highlighted text: <i>Yahweh is</i> the only God, and that there is no other <i>true </i>god (but he). is not included in the text
+Mark 12:38-40 highlighted text: Watch out for the law teachers is not included in the text
+**Mark 13:1-37**
+Mark 13:3-6 highlighted text: Please tell us when these things will happen! And tell us what sign will announce that they will soon happen! is not included in the text
+Mark 13:22-23 highlighted text: <i>false/pretend</i> is not included in the text
+Mark 13:24-25 highlighted text: <i>what the prophet Isaiah wrote/said will happen:</i> is not included in the text
+Mark 13:28-31 highlighted text: Summer is not included in the text
+**Mark 14:1-72**
+Mark 14:8-9 highlighted text: OR She is not included in the text
+Mark 14:12 highlighted text: to start the <i>festival</i> is not included in the text
+Mark 14:22-24 highlighted text: <i>This cup/wine</i> is my blood  is not included in the text
+Mark 14:27-28 highlighted text: <i>Along the way to Olive Tree Hill</i> is not included in the text
+Mark 14:27-28 highlighted text: disown me is not included in the text
+Mark 14:29-31 highlighted text: before you hear the second <i>night-time trumpet (sound) called</i> ‘cockcrow’ is not included in the text
+Mark 14:43-44 highlighted text: With him was a crowd (who were) armed with swords and clubs. is not included in the text
+Mark 14:53-55 highlighted text: <i>put him to death</i> is not included in the text
+Mark 14:53-55 highlighted text: <i></i> is not included in the text
+Mark 14:62-64a highlighted text: Powerful <i>One’s</i> right side is not included in the text
+Mark 14:66-68 highlighted text: [At that moment, he heard the <i>first night-time</i> trumpet sound called cock-crow/cry.] is not included in the text
+Mark 14:69-71 highlighted text: to call down curses <i>on himself</i> is not included in the text
+Mark 14:72 highlighted text: the second <i>night-time trumpet sound</i> called cock-crow/cry is not included in the text
+**Mark 15:1-47**
+Mark 15:3-5 highlighted text: Pilate spoke again to Jesus. “You may reply is not included in the text
+Mark 15:19-20: Error saving resource( mocking spit hit king.jpg ) to firestore: File not found
+Mark 15:24-26 highlighted text: <i>nailed Jesus’ wrists/hands and ankles/feet</i> to a wooden cross is not included in the text
+Mark 15:24-26 highlighted text: <i>as it says in the Psalms</i> is not included in the text
+Mark 15:24-26 highlighted text: <i>divided up Jesus</i>’ clothes and they cast lots/dice to see who would take which piece is not included in the text
+Mark 15:24-26 highlighted text: 9 AM is not included in the text
+Mark 15:33-35 highlighted text: until 3 PM is not included in the text
+**Mark 16:1-20**
+Mark 16:1-2 highlighted text: to anoint is not included in the text
+Mark 16:3-5 highlighted text: <i>Seeing him</i> is not included in the text
+Mark 16:6 highlighted text: <i>So, the angel</i> is not included in the text
+Mark 16:12-13: Error saving resource( two disciples.jpg ) to firestore: File not found
+Mark 16:12-13 highlighted text: Jesus appeared <i>to them with/</i>in a changed/different body is not included in the text
+**Mark 2:1-28**
+Mark 2:3-4 highlighted text: <i>onto the flat roof</i> is not included in the text
+Mark 2:10-11 highlighted text: <i>I</i>, the Divine Human Son,  is not included in the text
+Mark 2:10-11 highlighted text: <i></i> is not included in the text
+Mark 2:17 highlighted text: <i>need a doctor</i> is not included in the text
+Mark 2:17 highlighted text: <i>to call good/righteous people</i> is not included in the text
+**Mark 1:1-45**
+Mark 1:1-3 highlighted text: This is how the Good News about Messiah Jesus began. 
+ is not included in the text
+Mark 1:12-13 highlighted text: surrounded with evil spirits, but <i>God’s</i> angels were serving him is not included in the text
+Mark 1:16-18 highlighted text: became Jesus’ disciples, BEN Text Options has consecutive duplicate phrases
+Mark 1:29-31 highlighted text: she began serving them food is not included in the text
+Mark 1:40-41 highlighted text: <i>to be unclean</i>. is not included in the text
+**Mark 3:1-35**
+Mark 3:20-21 highlighted text: did not have time even to eat is not included in the text
+Mark Mark 3:23-25: is less than the previous pericope's chapter of: 6
+Mark 3:28-30 highlighted text: <i>the Holy Spirit</i> is not included in the text
+Mark 3:31-32 highlighted text: <i>came home</i> is not included in the text
+**Mark 4:1-41**
+Mark 4:10-11 highlighted text: are <i>merely</i> is not included in the text
+Mark 4:12 highlighted text: <i>what the prophet Isaiah said</i> is not included in the text
+Mark 4:18-19 highlighted text: things will make them happy, is not included in the text
+Mark 4:21-23 highlighted text: <i>eventually</i> is not included in the text
+Mark 4:21-23 highlighted text: <i>Try to understand</i> is not included in the text
+Mark 4:21-23 highlighted text: <i></i> is not included in the text
+**Mark 5:1-43**
+Mark 5:14-15 highlighted text: <i>with him the man from whom he had expelled the demons</i> is not included in the text
+Mark 5:33-34 highlighted text: <i>came near to Jesus</i> is not included in the text
+Mark 5:33-34 highlighted text: <i>in me</i> is not included in the text
+**Mark 7:1-37**
+Mark 7:5-8 highlighted text: to obey men’s/humans’ commands <i>instead/rather than my commands</i>. is not included in the text
+Mark 7:5-8 highlighted text: You often disobey God’s command <i>(in order)</i> to  obey men’s/humans’ traditions is not included in the text
+Mark 7:11-13: Error saving resource( Jesus explains.jpg ) to firestore: File not found
+Mark 7:14-16 highlighted text: it is the <i>evil</i> things which come out from your body/mind, that make you unclean is not included in the text
+Mark 7:29-30 highlighted text: <i>God</i> has expelled/removed the demon from your daughter is not included in the text
+Mark 7:29-30 highlighted text: <i>lying on a bed</i> is not included in the text
+Mark 7:31-32 highlighted text: the <i>Gentile Decapolis </i> region is not included in the text
+**Mark 6:1-56**
+Mark 6:49-52 highlighted text: the significance that Jesus had increased the bread loaves is not included in the text
+**Mark 8:1-38,(9:1)**
+Mark 8:4-6 highlighted text: <i>Sir</i> is not included in the text
+Mark 8:4-6 highlighted text: <i>to the (whole) crowd</i> is not included in the text
+Mark 8:11-13 highlighted text: testing him <i>to see if</i> is not included in the text
+Mark 8:14-15 highlighted text: <i>Protect yourselves from</i> is not included in the text
+Mark 8:35-37 highlighted text: to keep their live will lose their life is not included in the text
+**Mark 9:1-50**
+Mark 9:7-8: Error saving resource( 07_FB_Jesus_Transfiguration_1024.jpg ) to firestore: File not found
+Mark 9:11-13 highlighted text: Elijah must come <i>back to earth</i> is not included in the text
+Mark 9:33-34 highlighted text: <i>they were ashamed</i> is not included in the text
+Mark 9:33-34 highlighted text: <i></i> is not included in the text
+Mark 9:49-50 highlighted text: <i>God will one day test</i> everyone by salting/sprinkling them with fire. is not included in the text
+**Mark 10:1-52**
+Mark 10:30-31 highlighted text: in the future world is not included in the text
+Mark 10:48-50 highlighted text: His cloak/coat is not included in the text

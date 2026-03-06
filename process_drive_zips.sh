@@ -50,7 +50,11 @@ for zip_file in "${zip_files[@]}"; do
   fi
 
   language="${name_parts[0]}"
-  bookname="${name_parts[1]}"
+  if [[ "${name_parts[1]}" =~ ^[0-9]+$ ]]; then
+     bookname="${name_parts[1]} ${name_parts[2]}"
+  else
+     bookname="${name_parts[1]}"
+  fi
   currentDateTime=$(date +"%m%d%Y_%H%M")
 
   report_file="./reports/${language}_${bookname}_error_report_${currentDateTime}.txt"
