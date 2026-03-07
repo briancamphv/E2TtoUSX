@@ -1,0 +1,62 @@
+**2 Timothy 1:1-18**
+II Timothy 1:3-4: Error saving resource( Paul w Timothée.jpg ) to firestore: File not found
+II Timothy 1:3-4 highlighted text: pendant mes prières du matin et du soir is not included in the text
+II Timothy 1:5: Error saving resource( Timothée w mom n Gma.jpg ) to firestore: File not found
+II Timothy 1:5 highlighted text: ta grand-mère Loïs et ta mère Eunice is not included in the text
+II Timothy 1:6-7: Error saving resource( Paul w Timothée.jpg ) to firestore: File not found
+II Timothy 1:8 highlighted text: ne jamais avoir honte de le faire, BEN Text Options has consecutive duplicate phrases
+II Timothy 1:8 highlighted text: ne jamais avoir honte de le faire is not included in the text
+II Timothy 1:11-12 highlighted text: <i>Dieu</i> m'a désigné pour être apôtre afin de proclamer et d'enseigner <i>son Message</i> is not included in the text
+II Timothy 1:13-14 highlighted text: le bon message is not included in the text
+**2 Timothy 2:1-26**
+II Timothy 2:1: Error saving resource( Paul w Timothée.jpg ) to firestore: File not found
+II Timothy 2:11-13 highlighted text: il ne peut jamais se nier ou se rejeter is not included in the text
+II Timothy 2:15-16: Error saving resource( Timothée kind.jpg ) to firestore: File not found
+II Timothy 2:20 highlighted text: <i>Tu vois</i> is not included in the text
+II Timothy 2:22: Error saving resource( Timothée like son.jpg ) to firestore: File not found
+II Timothy 2:22 highlighted text: tu ne dois pas faire is not included in the text
+II Timothy 2:23-24 highlighted text: des choses que des gens stupides et stupides  is not included in the text
+II Timothy 2:23-24 highlighted text: Être patient is not included in the text
+II Timothy 2:23-24 highlighted text: Faire des choses mal ou mauvaises envers toi is not included in the text
+**2 Timothy 3:1-17**
+II Timothy II Timothy 3:1: Error saving resource( FR_2Tim_3. ) to firestore: File not found
+II Timothy II Timothy 3:2-3: Error saving resource( FR_2Tim_3. ) to firestore: File not found
+II Timothy II Timothy 3:4-5: Error saving resource( FR_2Tim_3. ) to firestore: File not found
+II Timothy II Timothy 3:6-7: Error saving resource( FR_2Tim_3. ) to firestore: File not found
+II Timothy II Timothy 3:8: Error saving resource( FR_2Tim_3. ) to firestore: File not found
+II Timothy II Timothy 3:9: Error saving resource( FR_2Tim_3. ) to firestore: File not found
+II Timothy II Timothy 3:10-11a: Error saving resource( FR_2Tim_3. ) to firestore: File not found
+II Timothy II Timothy 3:11b-12: Error saving resource( FR_2Tim_3. ) to firestore: File not found
+II Timothy 3:11b-12 highlighted text: En fait, BEN Text Options has consecutive duplicate phrases
+II Timothy II Timothy 3:13: Error saving resource( FR_2Tim_3. ) to firestore: File not found
+II Timothy II Timothy 3:14-15: Error saving resource( FR_2Tim_3. ) to firestore: File not found
+II Timothy 3:14-15 highlighted text: <i>ceux </i> is not included in the text
+II Timothy 3:14-15 highlighted text: livres sacrés is not included in the text
+II Timothy II Timothy 3:16-17: Error saving resource( FR_2Tim_3. ) to firestore: File not found
+II Timothy 3:16-17 highlighted text: Dieu a inspiré toutes les Écritures, BEN Text Options has consecutive duplicate phrases
+**2 Timothy 4:1-22**
+II Timothy II Timothy 4:1: Error saving resource( FR_2Tim_4. ) to firestore: File not found
+II Timothy II Timothy 4:2: Error saving resource( FR_2Tim_4. ) to firestore: File not found
+II Timothy II Timothy 4:3-4: Error saving resource( FR_2Tim_4. ) to firestore: File not found
+II Timothy II Timothy 4:5: Error saving resource( FR_2Tim_4. ) to firestore: File not found
+II Timothy II Timothy 4:6-7: Error saving resource( FR_2Tim_4. ) to firestore: File not found
+II Timothy 4:6-7 highlighted text: J’ai mené bon combat is not included in the text
+II Timothy 4:6-7 highlighted text: <i>et </i>terminé la course is not included in the text
+II Timothy II Timothy 4:8: Error saving resource( FR_2Tim_4. ) to firestore: File not found
+II Timothy 4:8 highlighted text: une couronne de vainqueur is not included in the text
+II Timothy II Timothy 4:9-10: Error saving resource( FR_2Tim_4. ) to firestore: File not found
+II Timothy 4:9-10 highlighted text: il aime l’époque/le monde actuel is not included in the text
+II Timothy II Timothy 4:11-13: Error saving resource( FR_2Tim_4. ) to firestore: File not found
+II Timothy 4:11-13 highlighted text: très utile pour moi pour le travail ministériel is not included in the text
+II Timothy II Timothy 4:14-15: Error saving resource( FR_2Tim_4. ) to firestore: File not found
+II Timothy 4:14-15 highlighted text: Cuivrier is not included in the text
+II Timothy 4:14-15 highlighted text: <i></i> is exact match of BEN Text Options
+II Timothy 4:14-15 highlighted text: <i></i> is not included in the text
+II Timothy II Timothy 4:16-17: Error saving resource( FR_2Tim_4. ) to firestore: File not found
+II Timothy II Timothy 4:18: Error saving resource( FR_2Tim_4. ) to firestore: File not found
+II Timothy II Timothy 4:19-20: Error saving resource( FR_2Tim_4. ) to firestore: File not found
+II Timothy 4:19-20 highlighted text: la maisonnée/famille is not included in the text
+II Timothy II Timothy 4:20-21: Error saving resource( FR_2Tim_4. ) to firestore: File not found
+II Timothy 4:20-21 highlighted text: Avant l’hiver is not included in the text
+II Timothy II Timothy 4:21: Error saving resource( FR_2Tim_4. ) to firestore: File not found
+II Timothy 4:21 highlighted text: Sois gentil is not included in the text

@@ -1,0 +1,118 @@
+**1 Timothy 1:1-20**
+I Timothy 1:5 highlighted text: leur donner une bonne conscience is not included in the text
+I Timothy 1:6-7 highlighted text: les Écritures de Moïse is not included in the text
+I Timothy 1:6-7 highlighted text: ils veulent enseigner <i>les Écritures</i> de Moïse is not included in the text
+I Timothy 1:8-9a highlighted text: pour les personnes qui sont is not included in the text
+I Timothy 1:12-13: Error saving resource( Paul’s call.jpg ) to firestore: File not found
+I Timothy 1:12-13 highlighted text: Je faisais ces choses par ignorance is not included in the text
+I Timothy 1:12-13 highlighted text: tout en ne croyant toujours <i>pas en lui</i> is not included in the text
+I Timothy I Timothy 1:17: Error saving resource( FR_1Tim_1.17.mp3 ) to firestore: File not found
+I Timothy 1:19b-20 highlighted text: ont détruit leur foi en Jésus, comme un navire se détruit lorsqu’il s’écrase contre des rochers/le récif is not included in the text
+**1 Timothy 2:1-15**
+I Timothy I Timothy 2:1-2: Error saving resource( FR_1Tim_2. ) to firestore: File not found
+I Timothy I Timothy 2:3-4: Error saving resource( FR_1Tim_2. ) to firestore: File not found
+I Timothy I Timothy 2:5-6: Error saving resource( FR_1Tim_2. ) to firestore: File not found
+I Timothy 2:5-6 highlighted text: qui s'est donné pour acheter/rançonner/payer la liberté is not included in the text
+I Timothy I Timothy 2:7: Error saving resource( FR_1Tim_2. ) to firestore: File not found
+I Timothy I Timothy 2:8: Error saving resource( FR_1Tim_2. ) to firestore: File not found
+I Timothy 2:8 highlighted text: pour adorer Dieu <i>avec respect et révérence</i> is not included in the text
+I Timothy I Timothy 2:9: Error saving resource( FR_1Tim_2. ) to firestore: File not found
+I Timothy I Timothy 2:10: Error saving resource( FR_1Tim_2. ) to firestore: File not found
+I Timothy 2:10 highlighted text: Faire ce qui est bien is not included in the text
+I Timothy I Timothy 2:11-12: Error saving resource( FR_1Tim_2. ) to firestore: File not found
+I Timothy 2:11-12 highlighted text: rester silencieux is not included in the text
+I Timothy I Timothy 2:13-14: Error saving resource( FR_1Tim_2. ) to firestore: File not found
+I Timothy I Timothy 2:15: Error saving resource( FR_1Tim_2. ) to firestore: File not found
+I Timothy 2:15 highlighted text: <i></i> is exact match of BEN Text Options
+I Timothy 2:15 highlighted text: <i></i> is not included in the text
+**1 Timothy 3:1-16**
+I Timothy I Timothy 3:1: Error saving resource( FR_1Tim_3. ) to firestore: File not found
+I Timothy I Timothy 3:2: Error saving resource( FR_1Tim_3. ) to firestore: File not found
+I Timothy I Timothy 3:3: Error saving resource( FR_1Tim_3. ) to firestore: File not found
+I Timothy I Timothy 3:4: Error saving resource( FR_1Tim_3. ) to firestore: File not found
+I Timothy I Timothy 3:5: Error saving resource( FR_1Tim_3. ) to firestore: File not found
+I Timothy I Timothy 3:6: Error saving resource( FR_1Tim_3. ) to firestore: File not found
+I Timothy I Timothy 3:7: Error saving resource( FR_1Tim_3. ) to firestore: File not found
+I Timothy I Timothy 3:8: Error saving resource( FR_1Tim_3. ) to firestore: File not found
+I Timothy 3:8 highlighted text: <i>les diacres/officiers </i>de l’église doivent mériter le respect des autres is not included in the text
+I Timothy I Timothy 3:9-10: Error saving resource( FR_1Tim_3. ) to firestore: File not found
+I Timothy 3:9-10 highlighted text: ce qui vient de la foi <i>en Jésus</i> is not included in the text
+I Timothy 3:9-10 highlighted text: s’ls sont honnêtes is not included in the text
+I Timothy 3:9-10 highlighted text: <i></i> is exact match of BEN Text Options
+I Timothy 3:9-10 highlighted text: <i></i> is not included in the text
+I Timothy I Timothy 3:11: Error saving resource( FR_1Tim_3. ) to firestore: File not found
+I Timothy 3:11 highlighted text: les <i>diacres hommes</i>, les diacres <i>femmes</i> is not included in the text
+I Timothy I Timothy 3:12-13: Error saving resource( FR_1Tim_3. ) to firestore: File not found
+I Timothy I Timothy 3:14-15: Error saving resource( FR_1Tim_3. ) to firestore: File not found
+I Timothy 3:14-15 highlighted text: Nous sommes comme des piliers/poteaux et un fondement <i>dans la maison de Dieu, </i>en proclamant sa vérité/son message vrai., BEN Text Options has consecutive duplicate phrases
+I Timothy I Timothy 3:16: Error saving resource( FR_1Tim_3. ) to firestore: File not found
+**1 Timothy 4:1-16**
+I Timothy I Timothy 4:1: Error saving resource( FR_1Tim_4. ) to firestore: File not found
+I Timothy 4:1 highlighted text: <i>en Jésus</i> is not included in the text
+I Timothy I Timothy 4:2: Error saving resource( FR_1Tim_4. ) to firestore: File not found
+I Timothy I Timothy 4:3: Error saving resource( FR_1Tim_4. ) to firestore: File not found
+I Timothy I Timothy 4:4-5: Error saving resource( FR_1Tim_4. ) to firestore: File not found
+I Timothy 4:4-5 highlighted text: <i>nous ne sommes pas obligés</i> d’éviter le mariage, ni certains aliments, BEN Text Options has consecutive duplicate phrases
+I Timothy 4:4-5 highlighted text: <i>nous ne sommes pas obligés</i> d’éviter le mariage, ni certains aliments is not included in the text
+I Timothy 4:4-5 highlighted text: <i></i> is not included in the text
+I Timothy I Timothy 4:6: Error saving resource( FR_1Tim_4. ) to firestore: File not found
+I Timothy 4:6 highlighted text: <i>qui </i>t’ai transmis <i>mes</i> messages is not included in the text
+I Timothy I Timothy 4:7-8: Error saving resource( FR_1Tim_4. ) to firestore: File not found
+I Timothy I Timothy 4:9-10: Error saving resource( FR_1Tim_4. ) to firestore: File not found
+I Timothy 4:9-10 highlighted text: <i>pour </i>défendre is not included in the text
+I Timothy I Timothy 4:11: Error saving resource( FR_1Tim_4. ) to firestore: File not found
+I Timothy I Timothy 4:12: Error saving resource( FR_1Tim_4. ) to firestore: File not found
+I Timothy I Timothy 4:13-14: Error saving resource( FR_1Tim_4. ) to firestore: File not found
+I Timothy I Timothy 4:15: Error saving resource( FR_1Tim_4. ) to firestore: File not found
+I Timothy 4:15 highlighted text: <i>ton </i>progrès soit évident et clair pour tous is not included in the text
+I Timothy I Timothy 4:16: Error saving resource( FR_1Tim_4. ) to firestore: File not found
+I Timothy 4:16 highlighted text: car tant que tu les pratiquant is not included in the text
+**1 Timothy 5:1-25**
+I Timothy I Timothy 5:1-2: Error saving resource( FR_1Tim_5. ) to firestore: File not found
+I Timothy I Timothy 5:3-4: Error saving resource( FR_1Tim_5. ) to firestore: File not found
+I Timothy I Timothy 5:5-6: Error saving resource( FR_1Tim_5. ) to firestore: File not found
+I Timothy I Timothy 5:7-8: Error saving resource( FR_1Tim_5. ) to firestore: File not found
+I Timothy I Timothy 5:9-10: Error saving resource( FR_1Tim_5. ) to firestore: File not found
+I Timothy 5:9-10 highlighted text: Inscrit sur la liste pour recevoir le soutien de l'église is not included in the text
+I Timothy I Timothy 5:11-12: Error saving resource( FR_1Tim_5. ) to firestore: File not found
+I Timothy I Timothy 5:13: Error saving resource( FR_1Tim_5. ) to firestore: File not found
+I Timothy 5:13 highlighted text: à être paresseux is not included in the text
+I Timothy 5:13 highlighted text: Maison à une autre maison is not included in the text
+I Timothy I Timothy 5:14-15: Error saving resource( FR_1Tim_5. ) to firestore: File not found
+I Timothy 5:14-15 highlighted text: <i>te </i>critiquer is not included in the text
+I Timothy I Timothy 5:16: Error saving resource( FR_1Tim_5. ) to firestore: File not found
+I Timothy 5:16 highlighted text: Qui figurent sur la liste is not included in the text
+I Timothy I Timothy 5:17-18: Error saving resource( FR_1Tim_5. ) to firestore: File not found
+I Timothy 5:17-18 highlighted text: « Ne muselez pas ou n’affamez pas le bœuf qui bat <i>vos grains</i>, » is not included in the text
+I Timothy I Timothy 5:19-20: Error saving resource( FR_1Tim_5. ) to firestore: File not found
+I Timothy I Timothy 5:21: Error saving resource( FR_1Tim_5. ) to firestore: File not found
+I Timothy I Timothy 5:22-23: Error saving resource( FR_1Tim_5. ) to firestore: File not found
+I Timothy 5:22-23 highlighted text: Ne laisse pas cela arriver is not included in the text
+I Timothy I Timothy 5:23: Error saving resource( FR_1Tim_5. ) to firestore: File not found
+I Timothy I Timothy 5:24-25: Error saving resource( FR_1Tim_5. ) to firestore: File not found
+**1 Timothy 6:1-21**
+I Timothy I Timothy 6:1: Error saving resource( FR_1Tim_6. ) to firestore: File not found
+I Timothy I Timothy 6:2A: Error saving resource( FR_1Tim_6. ) to firestore: File not found
+I Timothy I Timothy 6:2b: Error saving resource( FR_1Tim_6. ) to firestore: File not found
+I Timothy 6:2b highlighted text: <i>que je t'écris</i> is not included in the text
+I Timothy I Timothy 6:3-4a: Error saving resource( FR_1Tim_6. ) to firestore: File not found
+I Timothy I Timothy 6:4b-5: Error saving resource( FR_1Tim_6. ) to firestore: File not found
+I Timothy 6:4b-5 highlighted text: Ce faux enseignant  is not included in the text
+I Timothy 6:4b-5 highlighted text: de gagnez beaucoup d'argent is not included in the text
+I Timothy I Timothy 6:6-8: Error saving resource( FR_1Tim_6. ) to firestore: File not found
+I Timothy I Timothy 6:9: Error saving resource( FR_1Tim_6. ) to firestore: File not found
+I Timothy I Timothy 6:10: Error saving resource( FR_1Tim_6. ) to firestore: File not found
+I Timothy I Timothy 6:11: Error saving resource( FR_1Tim_6. ) to firestore: File not found
+I Timothy 6:11 highlighted text: éviter/fuir ces choses is not included in the text
+I Timothy I Timothy 6:12: Error saving resource( FR_1Tim_6. ) to firestore: File not found
+I Timothy 6:12 highlighted text: foi en Jésus Messie is not included in the text
+I Timothy I Timothy 6:13: Error saving resource( FR_1Tim_6. ) to firestore: File not found
+I Timothy I Timothy 6:14-15a: Error saving resource( FR_1Tim_6. ) to firestore: File not found
+I Timothy I Timothy 6:15b-16: Error saving resource( FR_1Tim_6. ) to firestore: File not found
+I Timothy I Timothy 6:17: Error saving resource( FR_1Tim_6. ) to firestore: File not found
+I Timothy 6:17 highlighted text: Confiance / confiance sur is not included in the text
+I Timothy I Timothy 6:18-19: Error saving resource( FR_1Tim_6. ) to firestore: File not found
+I Timothy I Timothy 6:19-20a: Error saving resource( FR_1Tim_6. ) to firestore: File not found
+I Timothy 6:19-20a highlighted text: Idées antichrétiennes is not included in the text
+I Timothy 6:19-20a highlighted text: se sont détournés de leur foi <i>en Jésus</i> is not included in the text
+I Timothy I Timothy 6:20b: Error saving resource( FR_1Tim_6. ) to firestore: File not found

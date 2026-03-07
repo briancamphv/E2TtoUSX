@@ -1,0 +1,47 @@
+**Titus 1:1-16**
+Titus 1:2-3 highlighted text: avant que le temps ne commence is not included in the text
+Titus 1:8 highlighted text: Bienvenue is not included in the text
+Titus 1:8 highlighted text: Sois sage is not included in the text
+Titus 1:12-13a highlighted text: <i>nommé Épiménide</i> is not included in the text
+Titus 1:12-13a highlighted text: Menteurs.  is not included in the text
+Titus 1:12-13a highlighted text: Mangeurs paresseux/gourmands is not included in the text
+Titus 1:13b-14 highlighted text: les réprimandant sévèrement, jusqu'à ce que is not included in the text
+Titus 1:16 highlighted text: Incapable de faire quoi que ce soit d'utile is not included in the text
+**Titus 2:1-15**
+Titus 2:1: Error saving resource( Titus, fils avec Paul preaching.jpg ) to firestore: File not found
+Titus Titus 2:1: Error saving resource( FR_Tit_2. ) to firestore: File not found
+Titus Titus 2:2: Error saving resource( FR_Tit_2. ) to firestore: File not found
+Titus 2:3: Error saving resource( Apprendre aux femmes à teach.jpg ) to firestore: File not found
+Titus Titus 2:3: Error saving resource( FR_Tit_2. ) to firestore: File not found
+Titus 2:3 highlighted text: <i>aux autres</i> is not included in the text
+Titus Titus 2:4-5a: Error saving resource( FR_Tit_2. ) to firestore: File not found
+Titus 2:4-5a highlighted text: pour gérer ceux de leur maison is not included in the text
+Titus 2:5b: Error saving resource( Les femmes enseignent women.jpg ) to firestore: File not found
+Titus Titus 2:5b: Error saving resource( FR_Tit_2. ) to firestore: File not found
+Titus 2:6: Error saving resource( Paul et Young Tim.jpg ) to firestore: File not found
+Titus Titus 2:6: Error saving resource( FR_Tit_2. ) to firestore: File not found
+Titus 2:6 highlighted text: comporte-toi moralement is not included in the text
+Titus 2:7-8a: Error saving resource( Titus, fils avec Paul preaching.jpg ) to firestore: File not found
+Titus Titus 2:7-8a: Error saving resource( FR_Tit_2. ) to firestore: File not found
+Titus Titus 2:8b: Error saving resource( FR_Tit_2. ) to firestore: File not found
+Titus 2:8b highlighted text: avoir honte quand is not included in the text
+Titus 2:9-10a: Error saving resource( esclaves faithful.jpg ) to firestore: File not found
+Titus Titus 2:9-10a: Error saving resource( FR_Tit_2. ) to firestore: File not found
+Titus 2:9-10a highlighted text: Qu'est-ce qui est bien/juste is not included in the text
+Titus 2:10b: Error saving resource( enseigner slaves.jpg ) to firestore: File not found
+Titus Titus 2:10b: Error saving resource( FR_Tit_2. ) to firestore: File not found
+Titus 2:10b highlighted text: <i>ce que tu</i> enseignes sur Dieu qui est notre Sauveur is not included in the text
+Titus 2:11-12: Error saving resource( le salut pour all.jpg ) to firestore: File not found
+Titus Titus 2:11-12: Error saving resource( FR_Tit_2. ) to firestore: File not found
+Titus 2:13-14: Error saving resource( Jésus revient avec les saints et les anges christian.net.jpg ) to firestore: File not found
+Titus Titus 2:13-14: Error saving resource( FR_Tit_2. ) to firestore: File not found
+Titus 2:15: Error saving resource( Enseigner à authority.jpg ) to firestore: File not found
+Titus Titus 2:15: Error saving resource( FR_Tit_2. ) to firestore: File not found
+**Titus 3:1-15**
+Titus 3:3 highlighted text: <i>Apprenez-leur cette chanson :</i> is not included in the text
+Titus Titus 3:4-5: Error saving resource( FR_Tit_3. ) to firestore: File not found
+Titus Titus 1:6-7: is less than the previous pericope's chapter of: 3
+Titus 3:9 highlighted text: Arguments stupides is not included in the text
+Titus Titus 3:10-11: Error saving resource( FR_Tit_3.10-11.mp3 ) to firestore: File not found
+Titus 3:10-11 highlighted text: rejette/exclue celui-ci <i>de ce travail</i> is not included in the text
+Titus Titus 3:14: Error saving resource( FR_Tit_3.1 ) to firestore: File not found
