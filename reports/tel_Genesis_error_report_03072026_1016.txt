@@ -1,0 +1,18 @@
+**Genesis 2:4-25**
+Genesis 2:15-17 highlighted text: ఆ మనిషిని ఉంచి is not included in the text
+Genesis 2:15-17 highlighted text: సంరక్షించడాకి is not included in the text
+Genesis 2:18-20 highlighted text: తగిన జతగాడిని is not included in the text
+**Genesis 3:1-24**
+Genesis 3:1 highlighted text: ఆ సర్పం చాకచక్యంగా ఉంది is not included in the text
+Genesis 3:4-5: Error saving resource( Gen 3 6 Eve hmmm.jpgg ) to firestore: File not found
+Genesis 3:4-5 highlighted text: పాము అన్నాడు is not included in the text
+Genesis 3:4-5 highlighted text: మీ కళ్ళు తెరవబడి, మీరు గ్రహిస్తారు” is not included in the text
+Genesis 3:6 highlighted text: ఆమె కొన్ని కోసి  is not included in the text
+Genesis 3:6 highlighted text: కొన్ని ఇచ్చింది is not included in the text
+Genesis 3:8-9 highlighted text: యెహోవా తోటలో తిరుగుతున్నట్లు విన్నారు is not included in the text
+**Genesis 1:1-2:4a**
+Genesis Genesis 1:1: Error saving resource( TEL Gen 1 1.mp3.mp3 ) to firestore: File not found
+Genesis 1:2 highlighted text: దేవుని ఆత్మ  తిరుగుతూ ఉంది. is not included in the text
+Genesis 1:16-19 highlighted text: ఏలడానికి, BEN Text Options has consecutive duplicate phrases
+Genesis 1:20-21 highlighted text: దేవుడు సృష్టించాడు is not included in the text
+Genesis 2:2-3 highlighted text: దేవుడు విశ్రాంతి తీసుకున్నాడు. is not included in the text
