@@ -169,7 +169,21 @@ function reportOnTemplateData(templateFile) {
 
               if (commentary.title == commentary.content) {
                 const errorText = `${bookname} ${part.chapter}:${part.verse} highlighted text: ${title} is exact match of BEN Text Options\n`;
-                writeStream.write(errorText);
+
+                if (
+                  errorText.includes(
+                    "highlighted text: Â  is exact match of BEN Text Options",
+                  ) ||
+                  errorText.includes(
+                    "highlighted text:   is exact match of BEN Text Options",
+                  ) ||
+                  errorText.includes(
+                    "highlighted text:  is exact match of BEN Text Options",
+                  )
+                ) {
+                } else {
+                  writeStream.write(errorText);
+                }
               }
 
               if (hasConsecutiveDuplicateAnyPhrase(commentary.content)) {
@@ -179,7 +193,14 @@ function reportOnTemplateData(templateFile) {
 
               if (!part.text.includes(title.trim())) {
                 const errorText = `${bookname} ${part.chapter}:${part.verse} highlighted text: ${title} is not included in the text\n`;
-                writeStream.write(errorText);
+                if (
+                  errorText.includes(
+                    "highlighted text: <i></i> is not included in the text",
+                  )
+                ) {
+                } else {
+                  writeStream.write(errorText);
+                }
               }
 
               commentary.resources.map((resource) => {

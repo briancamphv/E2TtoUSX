@@ -1,0 +1,6 @@
+**Psalm 1**
+**Psalm 2**
+Psalms 2:12 highlighted text: <i>Humbly bow down and</i> kiss his son’s <i>feet</i> is not included in the text
+Prominent Theme(s):
+: Error saving resource( Psalm 2： Overview  LbL My King on Zion.mp4 ) to firestore: File not found
+passageOverview: Error saving resource( TBP Psalms Overview.mp4 ) to firestore: File not found
