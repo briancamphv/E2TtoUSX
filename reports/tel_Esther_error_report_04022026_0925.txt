@@ -1,0 +1,24 @@
+**Esther 10:1-3**
+**Esther 1:1–22**
+Esther 1:1-3 highlighted text:  అహష్వేరోషు అనే రాజు ఉండేవాడు. is not included in the text
+Esther 1:1-3 highlighted text: బలమైన రక్షిత పట్టణము is not included in the text
+**Esther 2:1–23**
+Esther 2:10-11 highlighted text: ఆమె ప్రజలు యూదులు is not included in the text
+Esther 2:16-17 highlighted text: అది అహష్వేరోషు రాజ్యమునకు ఏడవ సంవత్సరం is not included in the text
+**Esther 3:1–15**
+Esther 3:3-4 highlighted text: మోర్దెకైను అడిగిరి  “నీవు రాజు ఆజ్ఞను ఎందుకు అతిక్రమించుచున్నావు?” is not included in the text
+Esther 3:5-6 highlighted text: మోర్దెకై హామాను కు నమస్కరించలేదు కాబట్టి is not included in the text
+Esther 3:13 highlighted text:  చేయవలెనని is not included in the text
+Esther 3:14-15 highlighted text: చేయవలెనని is not included in the text
+**Esther 4:1–17**
+**Esther 5:1–14**
+Esther Esther 5:1: Error saving resource( Tel_Est 5 1mp3 ) to firestore: File not found
+**Esther 6:1–13**
+**Esther 7:1–10**
+**Esther 8:1–17**
+Esther Esther 8:11: Error saving resource( Tel_Est 8 11.mp3ss ) to firestore: File not found
+Esther 8:14 highlighted text: షూషా నగరంలోని తన కోటలో అధికారికముగా ప్రకటించెను is not included in the text
+**Esther 9:1–32**
+Esther 9:1 highlighted text: {వారి ఆస్తిని   స్వాధీనపరచుకొనుటకు} is not included in the text
+Esther 9:15 highlighted text: {ఆస్తి లేదా సంపదను} is not included in the text
+Esther 9:29-30 highlighted text: <i>{</i>యూదులు} is not included in the text

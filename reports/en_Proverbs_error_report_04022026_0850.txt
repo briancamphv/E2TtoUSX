@@ -1,0 +1,59 @@
+**Proverbs 11**
+**Proverbs 10**
+**Proverbs 12**
+**Proverbs 13**
+**Proverbs 14**
+**Proverbs 16**
+Proverbs 16:29-30: Error saving resource( 16 30 evil wink.jpg ) to firestore: File not found
+**Proverbs 19**
+Proverbs 19:15-16 highlighted text: will live forever is not included in the text
+Proverbs 19:21-22 highlighted text: That is why Yahweh approves even poor people <i>who are loyal</i>, and rejects those who deceive others. is not included in the text
+**Proverbs 2**
+**Proverbs 1**
+**Proverbs 20**
+Proverbs 20:27-28: Error saving resource( 20 27 examining lamp.jpg ) to firestore: File not found
+**Proverbs 21**
+**Proverbs 22**
+**Proverbs 23**
+Proverbs Proverbs 21:13-14: is less than the previous pericope's chapter of: 23
+Proverbs 23:29-30 highlighted text: have wounds/sores is not included in the text
+**Proverbs 24**
+Proverbs 24:13-14 highlighted text: <i>Say to your children:</i> is not included in the text
+Proverbs 24:21-22 highlighted text: <i>Say to your children:</i> is not included in the text
+**Proverbs 15**
+**Proverbs 25**
+Proverbs 25:25-26: Error saving resource( 25 25 muddy fountain.jpg ) to firestore: File not found
+**Proverbs 26**
+**Proverbs 27**
+Proverbs 27:13-14 highlighted text: Take someone’s coat is not included in the text
+**Proverbs 28**
+Proverbs 28:1-2 highlighted text: they will have is not included in the text
+Proverbs 28:17-18 highlighted text: lives honestly is not included in the text
+Proverbs 28:21-22: Error saving resource( 28 21 greed.jpg ) to firestore: File not found
+**Proverbs 29**
+Proverbs 29:13-14 highlighted text: keeps them both alive is not included in the text
+Proverbs 29:13-14 highlighted text: faithfully defends/protects poor people<i>’s rights</i> is not included in the text
+Proverbs 29:21-22: Error saving resource( 29 22 angry men.jpg ) to firestore: File not found
+**Proverbs 17**
+**Proverbs 31**
+Proverbs 31:10-11 highlighted text: Search for is not included in the text
+Proverbs 31:16-17: Error saving resource( 31 17 planting.jpg ) to firestore: File not found
+Proverbs 31:18-20 highlighted text: keeps burning all night (long) is not included in the text
+Proverbs 31:21-22 highlighted text: warm <i>bed</i> covers is not included in the text
+Proverbs 31:24-25: Error saving resource( 31 25 market selling ) to firestore: File not found
+Proverbs 31:26-27 highlighted text: <i></i> is exact match of BEN Text Options
+Proverbs 31:30-31: Error saving resource( 31 30 honor woman ) to firestore: File not found
+**Proverbs 3**
+**Proverbs 30**
+Proverbs 30:24-25: Error saving resource( 30 24 ants.jpg ) to firestore: File not found
+Proverbs 30:29-31 highlighted text: Three creatures walk proudly/fearlessly. Four creatures move about with confidence/boldness/pride. is not included in the text
+**Proverbs 4**
+**Proverbs 6**
+**Proverbs 9**
+**Proverbs 5**
+**Proverbs 7**
+**Proverbs 8**
+**Proverbs 18**
+Proverbs 18:7-8 highlighted text: <i>because other people may</i> kill them is not included in the text
+Proverbs 18:17-18: Error saving resource( 18 18 court witness.jpg ) to firestore: File not found
+Proverbs 18:23-24 highlighted text: who is closer than a brother does is not included in the text

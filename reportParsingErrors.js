@@ -187,11 +187,42 @@ function reportOnTemplateData(templateFile) {
               }
 
               if (hasConsecutiveDuplicateAnyPhrase(commentary.content)) {
-                const errorText = `${bookname} ${part.chapter}:${part.verse} highlighted text: ${title}, BEN Text Options has consecutive duplicate phrases\n`;
+                const errorText = `${bookname} ${part.chapter}:${part.verse} highlighted text: ${title}, BEN Text Options has consecutive duplicate phrases in ${commentary.content}\n`;
                 writeStream.write(errorText);
               }
 
-              if (!part.text.includes(title.trim())) {
+              const stripItalicTags = (str) => {
+                var retStr = str.replace(/<\/?i>/gi, "");
+
+                return retStr;
+              };
+
+              const normalize = (str = "") =>
+                str
+                  .replace(/<\/?i>/gi, "")
+                  .replace(/[\r\n]+/g, " ")
+                  .replace(/\u00A0/g, " ")
+                  .replace(/[“”]/g, '"')
+                  .replace(/[‘’]/g, "'")
+                  .replace(/\s+/g, " ")
+                  .trim();
+
+              const escapeRegex = (str) =>
+                str.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+
+              const buildFlexibleRegex = (text) => {
+                const cleanText = normalize(text);
+                const tokens = cleanText.split(/\s+/).map(escapeRegex);
+
+                return new RegExp(tokens.join(String.raw`\s+`), "i");
+              };
+
+              const regex = buildFlexibleRegex(title);
+              if (!normalize(part.text).match(regex)) {
+                console.log("regex:", regex);
+                console.log("title:", stripItalicTags(title.trim()));
+                console.log("part.text:", stripItalicTags(part.text));
+
                 const errorText = `${bookname} ${part.chapter}:${part.verse} highlighted text: ${title} is not included in the text\n`;
                 if (
                   errorText.includes(

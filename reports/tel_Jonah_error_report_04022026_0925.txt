@@ -1,0 +1,32 @@
+**Jonah 1**
+Jonah 1:1-2 highlighted text: <i>“నీనెవె అనే గొప్ప పట్టణం </i> is not included in the text
+Jonah 1:4-5 highlighted text: ప్రతి ఒక్కరూ తమ దేవుళ్లను రక్షించమని ప్రార్థించడం ప్రారంభించారు.  is not included in the text
+Jonah 1:7-8 highlighted text: ఈ కష్టమంతా ఎవరి వల్ల వచ్చిందో తెలుసుకోవడానికి is not included in the text
+**Jonah 3**
+passageOverview: Error saving resource( map.jpg ) to firestore: File not found
+**Jonah 2**
+Jonah 2:2 highlighted text: When I was about to descend way down into the place where dead people go
+చనిపోయినవారు వెళ్ళే చోటికి నేను దిగబోతున్నప్పుడు is not included in the text
+Jonah 2:3 highlighted text: పెద్ద అలలు నాపైకి ఎగిరిపోయాయి.
+ is not included in the text
+Jonah 2:4 highlighted text: అప్పుడు నేను ఇలా అనుకున్నాను, ‘నువ్వు నన్ను is not included in the text
+Jonah 2:6 highlighted text: నీవు నన్ను మృతులు వెళ్ళే ప్రదేశానికి దిగకుండా రక్షించావు.
+ is not included in the text
+Jonah 2:8 highlighted text: వారందరూ తమ పట్ల దయగా ప్రవర్తించగల is not included in the text
+Jonah 2:9 highlighted text: యెహోవా, నీవే మమ్మల్ని రక్షించగల సమర్థుడు.”
+ is not included in the text
+ 
+పరిస్థితి సమాచారం: Error saving resource( T ) to firestore: File not found
+**Jonah 4**
+Jonah 4:2 highlighted text: ఫిర్యాదు చేస్తూ
+ is not included in the text
+Jonah 4:2 commentary:  Error saving resource( TBP Visual-Commentary_-Exodus-34_6-7.mp4 ) to firestore: File not found
+Jonah 4:2 highlighted text: నన్ను చనిపోనివ్వు is not included in the text
+Jonah 4:2 highlighted text: నేను ఆ పట్టణాన్ని నాశనం చేయనందుకు నీకు ఎందుకు కోపం వచ్చింది? is not included in the text
+Jonah Jonah 4:3-4: Error saving resource( TEL Jonah 4 3_4.mp3 ) to firestore: File not found
+Jonah 4:7-8 highlighted text: ఒక పురుగును, BEN Text Options has consecutive duplicate phrases in లేదా ఒక కీటకం 
+లేదా ఒక కీటకం
+
+Jonah 4:9 highlighted text: అవును నిజమే! ఇప్పుడు నాకు చాలా కోపంగా ఉంది, నేను చనిపోవాలనుకుంటున్నాను is not included in the text
+Jonah 4:10-11 commentary: సరైనది, ఏది చెడ్డదో తెలియని వారు Error saving resource( Jonah4.11_right-left-hands.wav ) to firestore: File not found
+Jonah 4:10-11 commentary:  నేను కనికరం చూపడం సరైనదే Error saving resource( Jonah4.11_bad-attitude.wav ) to firestore: File not found
