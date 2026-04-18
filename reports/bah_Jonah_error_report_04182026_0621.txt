@@ -1,0 +1,10 @@
+**Jonah 1**
+**Jonah 2**
+**Jonah 3**
+Jonah 3:3 commentary: <i>seseorang harus berjalan kaki</i> selama tiga hari untuk <i>pergi ke semua tempat didalam </i>kota itu. Error saving resource( BAH Yunh3.3comment_3-day-walk.wav ) to firestore: File not found
+**Jonah 4**
+Jonah 4:2 commentary: <i>ya Allah, bertindak sangat baik dan penuh belas kasihan kepada semua orang. Engkau tidak cepat marah kepada orang yang melakukan hal-hal yang jahat. Engkau sangat mengasihi orang-orang, dan Engkau berubah pikiran tentang menghukum orang-orang berdosa ketika mereka bertobat.</i> ffmpeg exited with code 1: pipe:0: Invalid data found when processing input
+Cannot determine format of input stream 0:0 after EOF
+Error marking filters as finished
+Conversion failed!
+

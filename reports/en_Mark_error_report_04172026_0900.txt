@@ -1,0 +1,42 @@
+**Mark 10:1-52**
+Mark 10:13-14: audio file not found: undefined
+passageOverview: ffmpeg exited with code 1: pipe:0: Invalid data found when processing input
+Cannot determine format of input stream 0:0 after EOF
+Error marking filters as finished
+Conversion failed!
+
+passageOverview: Error saving resource( &list=PLH0Szn1yYNec6O3ZOZzAMb2WW2abJwzZ- ) to firestore: File not found
+**Mark 11:1-33**
+passageOverview: Error saving resource( &list=PLH0Szn1yYNec6O3ZOZzAMb2WW2abJwzZ- ) to firestore: File not found
+**Mark 12:1-44**
+**Mark 14:1-72**
+**Mark 1:1-45**
+Mark 1:6-8 commentary: and wild bees’ honey Error saving resource( Matt 3  4.jpg ) to firestore: File not found
+Mark 1:32-34 commentary: People from all across the town Error saving resource( many come evening.jpg ) to firestore: File not found
+passageOverview: Error saving resource( &list=PLH0Szn1yYNec6O3ZOZzAMb2WW2abJwzZ-Eng Mark Overview SQ TBP.mp4 ) to firestore: File not found
+**Mark 2:1-28**
+**Mark 3:1-35**
+**Mark 5:1-43**
+**Mark 4:1-41**
+Mark 4:33-34: audio file not found: undefined
+Mark 4:35-37: audio file not found: undefined
+passageOverview: ffmpeg exited with code 1: pipe:0: Invalid data found when processing input
+Cannot determine format of input stream 0:0 after EOF
+Error marking filters as finished
+Conversion failed!
+
+**Mark 6:1-56**
+**Mark 7:1-37**
+**Mark 8:1-38,(9:1)**
+Mark 8:34: audio file not found: undefined
+**Mark 9:1-50**
+Mark 9:25-26: audio file not found: undefined
+**Mark 13:1-37**
+**Mark 15:1-47**
+**Mark 16:1-20**
+passageOverview: ffmpeg exited with code 1: pipe:0: Invalid data found when processing input
+Cannot determine format of input stream 0:0 after EOF
+Error marking filters as finished
+Conversion failed!
+
+passageOverview: Error saving resource( &list=PLH0Szn1yYNec6O3ZOZzAMb2WW2abJwzZ- ) to firestore: File not found

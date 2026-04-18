@@ -1,0 +1,13 @@
+**Ruth 1:1-22**
+Ruth 1:3-4a highlighted text: వారు స్థిరపడిన తరువాత is not included in the text
+Ruth 1:8b-9a highlighted text: మీ చనిపోయిన భర్తలకు నమ్మకంగా is not included in the text
+Ruth 1:11 highlighted text: నా గర్భంలో కుమారులు లేరు is not included in the text
+**Ruth 2:1-23**
+Ruth 2:1: picture file not found: 16.jpg
+Ruth 2:1: Retry limit exceeded - {"config":{"method":"PUT","url":"https://storage.googleapis.com/upload/storage/v1/b/honeybeeobt-app.firebasestorage.app/o?name=1BP5s72VrTNPwOTjglWkcFFthS9Xbn7Eq%2F1BP5s72VrTNPwOTjglWkcFFthS9Xbn7Eq1ieshSYyVRNXkvJzrdLZzni3DdTuxHQOK.jpg&uploadType=resumable&upload_id=AMNfjG3dIJrUBKRN92DYYdCTL5qKoK6v-DWavhMVg3RLQwQCUqThTZ3RFwaWgUr3V0mcjOxR9Xp1Is9CPiEjuRWmt-RMJDbMeoAxA2YeIvIa6aI","headers":{"User-Agent":"gcloud-node-storage/7.15.2 google-api-nodejs-client/9.15.1","x-goog-api-client":"gl-node/22.22.0 gccl/7.15.2-CJS gccl-invocation-id/81f5e103-db77-42b2-a278-4ab5698e76f3","Content-Range":"bytes 0-*/*","Authorization":"<<REDACTED> - See `errorRedactor` option in `gaxios` for configuration>."},"body":{"_events":{},"_readableState":{"highWaterMark":65536,"buffer":[],"bufferIndex":0,"length":0,"pipes":[],"awaitDrainWriters":null},"_eventsCount":1},"signal":{},"responseType":"unknown"},"error":{"message":"request to https://storage.googleapis.com/upload/storage/v1/b/honeybeeobt-app.firebasestorage.app/o?name=1BP5s72VrTNPwOTjglWkcFFthS9Xbn7Eq%2F1BP5s72VrTNPwOTjglWkcFFthS9Xbn7Eq1ieshSYyVRNXkvJzrdLZzni3DdTuxHQOK.jpg&uploadType=resumable&upload_id=AMNfjG3dIJrUBKRN92DYYdCTL5qKoK6v-DWavhMVg3RLQwQCUqThTZ3RFwaWgUr3V0mcjOxR9Xp1Is9CPiEjuRWmt-RMJDbMeoAxA2YeIvIa6aI failed, reason: write EPIPE","type":"system","errno":"EPIPE","code":"EPIPE"},"code":"EPIPE"}
+Ruth 2:5-6 highlighted text: “యెహోవా నిన్ను ఆశీర్వదించును గాక!” is not included in the text
+Ruth 2:20 highlighted text: ఆ వ్యక్తి పొందగల is not included in the text
+**Ruth 3:1-18**
+**Ruth 4:1-22**
+Ruth 4:8-9 highlighted text:  నేను విడిపించాను is not included in the text
+Ruth 4:10 highlighted text: నేను విడిపించాను is not included in the text

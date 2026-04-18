@@ -1,6 +1,0 @@
-**Jonah 1**
-**Jonah 2**
-Jonah 2:9 highlighted text: Yahweh, you are the only one who is able to save us., BEN Text Options has consecutive duplicate phrases in OR Because it is Yahweh alone who saves/can save anyone.     
-Background info: Error saving resource( T ) to firestore: File not found
-**Jonah 3**
-**Jonah 4**

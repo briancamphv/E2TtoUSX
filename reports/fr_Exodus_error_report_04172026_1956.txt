@@ -1,0 +1,64 @@
+**Exodus 10:1-29**
+**Exodus 12a,:1-28**
+**Exodus 12:29-51**
+Exodus 12:40-42 highlighted text: les régiments sont partis is not included in the text
+Exodus 12:48-49 highlighted text: <i></i> is exact match of BEN Text Options
+**Exodus 13:1-22**
+Exodus 13:3-4 highlighted text: <i>Sortir de</i> is not included in the text
+Exodus 13:17 highlighted text: ne les a pas menés is not included in the text
+Exodus 13:17 highlighted text: Quand ils voient la guerre is not included in the text
+Exodus 13:19-20 highlighted text: depuis la ville de Succoth et campant à la ville d’Etham is not included in the text
+Exodus 13:21-22 highlighted text: Le pilier de feu la nuit était ou était toujours <i>visible</i> avant les gens is not included in the text
+**Exodus 1:1-22**
+Exodus 1:17-18 highlighted text: <i></i> is exact match of BEN Text Options
+passageOverview: Retry limit exceeded - {"config":{"method":"PUT","url":"https://storage.googleapis.com/upload/storage/v1/b/honeybeeobt-app.firebasestorage.app/o?name=1SsXrnsLGWHZRTeAzQ-GLHhX1Ilz5XIfr%2F1SsXrnsLGWHZRTeAzQ-GLHhX1Ilz5XIfr1HkELXkRos2c5bsgnfvhq_fCqKzVXZ4R6.mp4&uploadType=resumable&upload_id=AMNfjG3M_BSFQJbsRVF8fNmYNcKGoDQe_jYRPCORbYNGj7F4IJmWc1ve6KfDkAMemSQ9srn4ang-dynGn8QONmy4UgD53j7NaAJEPsTk9GIxG9c","headers":{"User-Agent":"gcloud-node-storage/7.15.2 google-api-nodejs-client/9.15.1","x-goog-api-client":"gl-node/22.22.0 gccl/7.15.2-CJS gccl-invocation-id/1af7af7a-fc13-43d0-9f6f-5ad8300543cd","Content-Range":"bytes 0-*/*","Authorization":"<<REDACTED> - See `errorRedactor` option in `gaxios` for configuration>."},"body":{"_events":{},"_readableState":{"highWaterMark":65536,"buffer":[],"bufferIndex":0,"length":0,"pipes":[],"awaitDrainWriters":null},"_eventsCount":1},"signal":{},"responseType":"unknown"},"error":{"message":"request to https://storage.googleapis.com/upload/storage/v1/b/honeybeeobt-app.firebasestorage.app/o?name=1SsXrnsLGWHZRTeAzQ-GLHhX1Ilz5XIfr%2F1SsXrnsLGWHZRTeAzQ-GLHhX1Ilz5XIfr1HkELXkRos2c5bsgnfvhq_fCqKzVXZ4R6.mp4&uploadType=resumable&upload_id=AMNfjG3M_BSFQJbsRVF8fNmYNcKGoDQe_jYRPCORbYNGj7F4IJmWc1ve6KfDkAMemSQ9srn4ang-dynGn8QONmy4UgD53j7NaAJEPsTk9GIxG9c failed, reason: socket hang up","type":"system","errno":"ECONNRESET","code":"ECONNRESET"},"code":"ECONNRESET"}
+**Exodus 14:1-31**
+Exodus 14:4 highlighted text: de changer d'avis is not included in the text
+Exodus 14:5 highlighted text: Ils ont changé d'avis is not included in the text
+Exodus 14:5 highlighted text: et arrêter de nous servir is not included in the text
+Exodus 14:6-7 highlighted text: chevaux attelés à is not included in the text
+Exodus 14:11-12 highlighted text: Qu'avez-vous fait en nous faisant sortir du pays d'Égypte !? is not included in the text
+Exodus 14:28-29 highlighted text: comme des murs is not included in the text
+**Exodus 2:1-25**
+Exodus 2:13-14A: audio file not found: FR_Ex_2.13-14a.mp3
+Exodus Exodus 2:13-14A: Error saving resource( FR_Ex_2.13-14a.mp3 ) to firestore: File not found
+Exodus 2:20-21a: audio file not found: undefined
+Exodus 2:20-21a highlighted text: Où est cet Égyptien <i>maintenant</i> ? Pourquoi l'avez-vous laissé là<i>, au puits d'eau </i>? is not included in the text
+**Exodus 3:1-22**
+Exodus 3:11-12 highlighted text: Non, je ne peux pas is not included in the text
+Exodus 3:14 highlighted text: <i></i> is exact match of BEN Text Options
+**Exodus 11:1-10**
+**Exodus 15:1-27**
+Exodus 15:1a highlighted text: chantèrent cette chanson is not included in the text
+Exodus 15:11-12 highlighted text: dans la terre is not included in the text
+Exodus 15:17-18 highlighted text: lieu sacré/saint is not included in the text
+Exodus 15:24-25a highlighted text: Génial is not included in the text
+**Exodus 5:1-23**
+**Exodus 6:1-30**
+Exodus 6:16-18 highlighted text: Les noms des descendants du fils de Levi étaient is not included in the text
+Exodus 6:26-27: picture file not found: Moses and Aaron.jpg
+Exodus 6:26-27: Retry limit exceeded - {"config":{"method":"PUT","url":"https://storage.googleapis.com/upload/storage/v1/b/honeybeeobt-app.firebasestorage.app/o?name=1y9jq5EtQRBTVJnkLO2rr2U8_yBZjaKG3%2F1y9jq5EtQRBTVJnkLO2rr2U8_yBZjaKG31dJHNJV9zHEkUgVIifIkEM8mmErluHOyi.jpg&uploadType=resumable&upload_id=AMNfjG1Z0xUcvlfDFOn6dd_1EHu1C0cqjfgtn_ypLwGnwvBPkNyfj9aZ_t8r4b_4pJrAuOIdIUQxiFslSAnwD8dWCDLGmuOc4CYGcXskMm1_EGg","headers":{"User-Agent":"gcloud-node-storage/7.15.2 google-api-nodejs-client/9.15.1","x-goog-api-client":"gl-node/22.22.0 gccl/7.15.2-CJS gccl-invocation-id/94bf0185-704f-42a5-a706-e1c2637a9398","Content-Range":"bytes 0-*/*","Authorization":"<<REDACTED> - See `errorRedactor` option in `gaxios` for configuration>."},"body":{"_events":{},"_readableState":{"highWaterMark":65536,"buffer":[],"bufferIndex":0,"length":0,"pipes":[],"awaitDrainWriters":null},"_eventsCount":1},"signal":{},"responseType":"unknown"},"error":{"message":"request to https://storage.googleapis.com/upload/storage/v1/b/honeybeeobt-app.firebasestorage.app/o?name=1y9jq5EtQRBTVJnkLO2rr2U8_yBZjaKG3%2F1y9jq5EtQRBTVJnkLO2rr2U8_yBZjaKG31dJHNJV9zHEkUgVIifIkEM8mmErluHOyi.jpg&uploadType=resumable&upload_id=AMNfjG1Z0xUcvlfDFOn6dd_1EHu1C0cqjfgtn_ypLwGnwvBPkNyfj9aZ_t8r4b_4pJrAuOIdIUQxiFslSAnwD8dWCDLGmuOc4CYGcXskMm1_EGg failed, reason: write EPIPE","type":"system","errno":"EPIPE","code":"EPIPE"},"code":"EPIPE"}
+**Exodus 7:1-25**
+Exodus 7:3-4 highlighted text: mon peuple israélien is not included in the text
+Exodus 7:13 highlighted text: <i>Pharaon ferait l'affaire</i> is not included in the text
+Exodus 7:17B-18 highlighted text: <i></i> is exact match of BEN Text Options
+**Exodus 9.1-35**
+Exodus 9:15-16: audio file not found: FR_Ex_9_15-16.mp3
+Exodus Exodus 9:15-16: Error saving resource( FR_Ex_9_15-16.mp3 ) to firestore: File not found
+**Exodus 4:1-31**
+Exodus 4:18 highlighted text: <i></i> is exact match of BEN Text Options
+Exodus 4:21: audio file not found: FR_Ex_4_21.mp3
+Exodus Exodus 4:21: Error saving resource( FR_Ex_4_21.mp3 ) to firestore: File not found
+**Exodus 8:1-32**
+Exodus 8:18-19 highlighted text: <i></i> is exact match of BEN Text Options
+**Exodus 16:1-36**
+Exodus 16:13-14: picture file not found: manne and quail myelllove.jpg
+Exodus 16:13-14: Error saving resource( manne and quail myelllove.jpg ) to firestore: File not found
+Exodus 16:17-18 highlighted text: <i></i> is exact match of BEN Text Options
+Exodus 16:31-32: picture file not found: 19_FB_Moses_Food_Water_1024.jpg
+Exodus 16:31-32: Retry limit exceeded - {"config":{"method":"PUT","url":"https://storage.googleapis.com/upload/storage/v1/b/honeybeeobt-app.firebasestorage.app/o?name=1hpMTqw0bYtuBJasZiqgQrK4y3DECYSeI%2F1hpMTqw0bYtuBJasZiqgQrK4y3DECYSeI1_zkQ1SPFtPsNwpaAXar8vVGww9DNMi7E.jpg&uploadType=resumable&upload_id=AMNfjG3zDqSsS3FuZ-EgfgcjZnbL83-freWOqzzi6G9VCvYuHzA5wtrs4DNdaJxqPZFI8cU-g44RV0983e6-FtgYHV4k0U7pt0DQSJE3GnEIzLM","headers":{"User-Agent":"gcloud-node-storage/7.15.2 google-api-nodejs-client/9.15.1","x-goog-api-client":"gl-node/22.22.0 gccl/7.15.2-CJS gccl-invocation-id/bc4062af-aef8-4d43-9995-15101e292d6f","Content-Range":"bytes 0-*/*","Authorization":"<<REDACTED> - See `errorRedactor` option in `gaxios` for configuration>."},"body":{"_events":{},"_readableState":{"highWaterMark":65536,"buffer":[],"bufferIndex":0,"length":0,"pipes":[],"awaitDrainWriters":null},"_eventsCount":1},"signal":{},"responseType":"unknown"},"error":{"message":"request to https://storage.googleapis.com/upload/storage/v1/b/honeybeeobt-app.firebasestorage.app/o?name=1hpMTqw0bYtuBJasZiqgQrK4y3DECYSeI%2F1hpMTqw0bYtuBJasZiqgQrK4y3DECYSeI1_zkQ1SPFtPsNwpaAXar8vVGww9DNMi7E.jpg&uploadType=resumable&upload_id=AMNfjG3zDqSsS3FuZ-EgfgcjZnbL83-freWOqzzi6G9VCvYuHzA5wtrs4DNdaJxqPZFI8cU-g44RV0983e6-FtgYHV4k0U7pt0DQSJE3GnEIzLM failed, reason: socket hang up","type":"system","errno":"ECONNRESET","code":"ECONNRESET"},"code":"ECONNRESET"}
+Exodus 16:33-34: picture file not found: manne jar for ark.jpg
+Exodus 16:33-34: Error saving resource( manne jar for ark.jpg ) to firestore: File not found
+Exodus 16:33-34 highlighted text: la gardera pour tous leurs descendants is not included in the text
+Exodus 16:33-34 highlighted text: Boîte des témoignages is not included in the text
+Exodus 16:33-34 highlighted text: pour la garder <i>en sécurité</i> is not included in the text

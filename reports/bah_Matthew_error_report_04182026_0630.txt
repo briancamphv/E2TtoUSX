@@ -1,0 +1,85 @@
+**Matthew 10:1-42**
+Matthew Matthew :3-4: is less than the previous pericope's chapter of: 10
+**Matthew 11:1-30**
+Matthew 11:4-5a highlighted text: Mereka melihat Yesus melakukan apa yang telah dinubuatkan oleh nabi Yesaya: is not included in the text
+Matthew 11:5b-6 highlighted text: yang tidak meragukan saya/siapa saya is not included in the text
+Matthew 11:9-10 highlighted text: Malachi berkata/menulis is not included in the text
+Matthew 11:11 highlighted text: siapa yang lebih baik/lebih hebat daripada is not included in the text
+Matthew 11:11 highlighted text: lebih baik/lebih besar daripada is not included in the text
+Matthew 11:12 highlighted text: hapus/tangkap is not included in the text
+Matthew 11:13-15 highlighted text: <i>Malachi menubuatkan</i> is not included in the text
+Matthew 11:19b highlighted text: Hikmat <i>Tuhan </i>terbukti benar is not included in the text
+Matthew 11:19b highlighted text: apa yang dicapainya is not included in the text
+Matthew 11:23-24 highlighted text: menghormati/mengagungkanmu di surga is not included in the text
+Matthew 11:27 highlighted text: ilahi/suci is not included in the text
+Matthew 11:27 highlighted text: Aku, Putra-Nya, memilih is not included in the text
+Matthew 11:28-30 highlighted text: beban yang mudah/ringan untuk dibawa. is not included in the text
+Matthew 11:28-30 highlighted text: (Seperti yang dikatakan nabi Yeremia.) is not included in the text
+**Matthew 13:1-35**
+Matthew 13:9: audio file not found:  BAH  Mat 13  9.mp3
+Matthew Matthew 13:9: Error saving resource(  BAH  Mat 13  9.mp3 ) to firestore: File not found
+**Matthew 12:1-50**
+Matthew 13:9-10: picture file not found:  02_FB_GNPI_031_Healing_Sabbath_1024.jpg24.jpg
+Matthew 13:9-10: Error saving resource(  02_FB_GNPI_031_Healing_Sabbath_1024.jpg24.jpg ) to firestore: File not found
+Matthew Matthew 12:11-12: is less than the previous pericope's chapter of: 13
+Matthew 12:13-14: picture file not found: 07_FB_GNPI_031_Healing_Sabbath_1024.jp 
+Matthew 12:13-14: Error saving resource( 07_FB_GNPI_031_Healing_Sabbath_1024.jp  ) to firestore: File not found
+Matthew Matthew :18: is less than the previous pericope's chapter of: 12
+Matthew Matthew 12:38-39: is less than the previous pericope's chapter of: 17
+**Matthew 15:1-39**
+**Matthew 16:1-28**
+**Matthew 14.1-36**
+passageOverview: Retry limit exceeded - "<!DOCTYPE html>\n<html lang=en>\n  <meta charset=utf-8>\n  <meta name=viewport content=\"initial-scale=1, minimum-scale=1, width=device-width\">\n  <title>Error 408 (Request Timeout)!!1</title>\n  <style>\n    *{margin:0;padding:0}html,code{font:15px/22px arial,sans-serif}html{background:#fff;color:#222;padding:15px}body{margin:7% auto 0;max-width:390px;min-height:180px;padding:30px 0 15px}* > body{background:url(//www.google.com/images/errors/robot.png) 100% 5px no-repeat;padding-right:205px}p{margin:11px 0 22px;overflow:hidden}ins{color:#777;text-decoration:none}a img{border:0}@media screen and (max-width:772px){body{background:none;margin-top:0;max-width:none;padding-right:0}}#logo{background:url(//www.google.com/images/branding/googlelogo/1x/googlelogo_color_150x54dp.png) no-repeat;margin-left:-5px}@media only screen and (min-resolution:192dpi){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat 0% 0%/100% 100%;-moz-border-image:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) 0}}@media only screen and (-webkit-min-device-pixel-ratio:2){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat;-webkit-background-size:100% 100%}}#logo{display:inline-block;height:54px;width:150px}\n  </style>\n  <a href=//www.google.com/><span id=logo aria-label=Google></span></a>\n  <p><b>408.</b> <ins>That’s an error.</ins>\n  <p>Your client has taken too long to issue its request.  <ins>That’s all we know.</ins>\n"
+**Matthew 18:1-35**
+**Matthew 17:1-27**
+**Matthew 1:1-25**
+passageOverview: Error saving resource( TBP  New-Testament-Overview.mp4 ) to firestore: File not found
+passageOverview: Error saving resource( TBP Matthew-1-13 Overview.mp4 ) to firestore: File not found
+**Matthew 19.1-30**
+**Matthew 20:1-34**
+**Matthew 21:1-46**
+**Matthew 23:1-39**
+**Matthew 22:1-46**
+Matthew 22:16b-17: audio file not found:  BAH  Mat 22 16b-17.mp3
+Matthew Matthew 22:16b-17: Error saving resource(  BAH  Mat 22 16b-17.mp3 ) to firestore: File not found
+**Matthew 24:1-35**
+Matthew 24:1-2: picture file not found:  temple Jeru big shot freebibleimages.jp
+Matthew 24:1-2: Error saving resource(  temple Jeru big shot freebibleimages.jp ) to firestore: File not found
+**Matthew 25:1-46**
+**Matthew 27.1-66**
+**Matthew 28.1-20**
+Matthew Matthew 25:16-17: is less than the previous pericope's chapter of: 28
+**Matthew 26:1-35**
+Matthew Matthew :67-68: is less than the previous pericope's chapter of: 26
+**Matthew 5:1-48**
+**Matthew 6:1-34**
+Tema(-Tema) Utama:: ffmpeg exited with code 1: pipe:0: Invalid data found when processing input
+Cannot determine format of input stream 0:0 after EOF
+Error marking filters as finished
+Conversion failed!
+
+**Matthew 7:1-29**
+Matthew Matthew 7:19-20: is less than the previous pericope's chapter of: 9
+Matthew 7:24-25: audio file not found:  BAH Mat 7  24-25.mp3
+Matthew Matthew 7:24-25: Error saving resource(  BAH Mat 7  24-25.mp3 ) to firestore: File not found
+Matthew 7:26-27: audio file not found:  BAH Mat 7  26-27.mp3
+Matthew Matthew 7:26-27: Error saving resource(  BAH Mat 7  26-27.mp3 ) to firestore: File not found
+Matthew 7:28-29: audio file not found:  BAH Mat 7  28-29.mp3
+Matthew Matthew 7:28-29: Error saving resource(  BAH Mat 7  28-29.mp3 ) to firestore: File not found
+**Matthew 8:1-34**
+Matthew Matthew 5:27: is less than the previous pericope's chapter of: 8
+**Matthew 9:1-38**
+**Matthew 3:1-17**
+Matthew 3:5-6 highlighted text: <i>dengan cara baru</i> is not included in the text
+Matthew 3:7 highlighted text: Tuhan murka kepadamu dan akan menghukummu! is not included in the text
+Matthew 3:8-9 highlighted text: akan menyelamatkanmu is not included in the text
+Matthew 3:8-9 highlighted text: batu–batu is not included in the text
+Matthew 3:12 highlighted text: Dengan cara yang sama, Tuhan siap… is not included in the text
+**Matthew 4:1-25**
+**Matthew 2:1-23**
+Matthew 2:1-2a: audio file not found:  BAH Mat 2 1-2.mp3
+Matthew Matthew 2:1-2a: Error saving resource(  BAH Mat 2 1-2.mp3 ) to firestore: File not found
+Matthew 2:7-8: audio file not found:  BAH Mat 2  7-8.mp3
+Matthew Matthew 2:7-8: Error saving resource(  BAH Mat 2  7-8.mp3 ) to firestore: File not found
+Matthew 2:22b-23: audio file not found:  BAH Mat 2 2b-23.mp3
+Matthew Matthew 2:22b-23: Error saving resource(  BAH Mat 2 2b-23.mp3 ) to firestore: File not found

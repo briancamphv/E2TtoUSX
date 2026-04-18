@@ -1,0 +1,23 @@
+**John 1:1-18**
+John 1:1 highlighted text: the Word was God. is not included in the text
+John 1:2-3 highlighted text: <i>God </i>created everything through <i>the Word</i>, and he did not create anything <i>else</i> without <i>the Word.</i> is not included in the text
+**John 4:1-54**
+John 4:4-5 commentary: <i>Because it was necessary for Jesus to pass through Samaria province</i> Error saving resource( map ) to firestore: File not found
+John 4:53-54 highlighted text: performed in Galilee, when he returned there from Judea. is not included in the text
+**John 3:1-36**
+John 3:5-6 highlighted text: born again is not included in the text
+John 3:16: audio file not found: undefined
+John 3:17: audio file not found: undefined
+John 3:18: audio file not found: undefined
+John 3:19-21: audio file not found: undefined
+John 3:22-24: audio file not found: undefined
+John 3:25-26: audio file not found: undefined
+John 3:27-28: audio file not found: undefined
+John 3:29-30: audio file not found: undefined
+John 3:29-30 highlighted text: ‘best man’ is not included in the text
+John 3:31-32: audio file not found: undefined
+John 3:33-34: audio file not found: undefined
+John 3:33-34 highlighted text: <i>power and help from</i> his <i>Holy</i> Spirit with no limits is not included in the text
+John 3:35-36: audio file not found: undefined
+**John 2:1-25**
+passageOverview: Error saving resource( TBP John-13-21 Overview.mp4 ) to firestore: File not found

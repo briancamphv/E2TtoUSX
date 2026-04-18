@@ -1,0 +1,82 @@
+**Acts para,rasul,11:1-30**
+**Acts para,rasul,10:1-48**
+Acts Acts :23a: is less than the previous pericope's chapter of: 10
+Acts 10:48: picture file not found:  baptized household.jpg0000
+Acts 10:48: Error saving resource(  baptized household.jpg0000 ) to firestore: File not found
+**Acts para,rasul,13:1-52**
+Acts Acts 13:21: is less than the previous pericope's chapter of: 16
+Acts 13:33b highlighted text: ditulis Daud dalam Mazmur is not included in the text
+passageOverview: Error saving resource(  Acts-13-28.mp4 ) to firestore: File not found
+**Acts para,rasul,12:1-25**
+Acts 12:25 highlighted text: Yohanes, yang disebut juga Markus is not included in the text
+**Acts para,rasul,14:1-28**
+Acts 14:14 highlighted text: <i>apa yang dikatakan orang-orang itu (dalam bahasa setempat mereka)</i> is not included in the text
+Acts 14:23 highlighted text: para rasul itu menyerahkan tua-tua itu kepada Tuhan Yesus, yang mereka percaya. is not included in the text
+Acts 14:27 highlighted text: Allah telah memampukan banyak orang bukan Yahudi untuk percaya kepada Yesus is not included in the text
+**Acts para,rasul,16:1-40**
+Acts 16:6 highlighted text: mencegah mereka. is not included in the text
+Acts 16:11-12 highlighted text: kami meninggalkan Neapolis dan pergi melalui darat ke Filipi. Itu adalah kota yang sangat penting di <i>provinsi</i> Makedonia, is not included in the text
+Acts Acts 15:20-21: is less than the previous pericope's chapter of: 16
+Acts 16:22 highlighted text: (<i>Namun, memukuli warga negara Romawi sebelum mereka diadili adalah melanggar hukum Romawi</i>.) is not included in the text
+Acts 16:31-34: picture file not found:  gave them a meal Bentley
+Acts 16:31-34: Error saving resource(  gave them a meal Bentley ) to firestore: File not found
+Acts 16:39 highlighted text: bahwa tidak seorang pun seharusnya memukul mereka. is not included in the text
+**Acts para,rasul,17:1-28**
+**Acts para,rasul,15:1-41**
+Acts :2 highlighted text: <i>untuk melakukannya</i> is not included in the text
+Acts :40 highlighted text: <i>pada perjalanan misi Paulus yang kedua</i> is not included in the text
+**Acts para,rasul,19:1-20**
+Acts 19:1-2a highlighted text: <i>Murid-murid Yesus </i> is not included in the text
+Acts 19:26 highlighted text: patung/gambar yang kita buat is not included in the text
+Acts 19:34 highlighted text: Artemis/Diana is not included in the text
+Acts 19:38 highlighted text: <i>kasus/tuduhan</i> is not included in the text
+**Acts para,rasul,18:1-28**
+Acts 18:17: picture file not found:  beatingSosthenese.jpg
+Acts 18:17: Error saving resource(  beatingSosthenese.jpg ) to firestore: File not found
+**Acts para,rasul,1:1-26**
+Acts 1:1-2a: picture file not found: 07_FB_GNPI_Acts_Ascension_1024.jpg 2.jpg
+Acts 1:1-2a: Error saving resource( 07_FB_GNPI_Acts_Ascension_1024.jpg 2.jpg ) to firestore: File not found
+Acts 1:5 highlighted text: membaptis orang-orang di dalam/dengan air is not included in the text
+Acts 1:18 highlighted text: Ketika/Setelah Yudas setuju untuk mengkhianati Yesus is not included in the text
+Acts 1:20 highlighted text: <i>dalam satu Mazmur/nyanyian</i> is not included in the text
+Acts 1:20 highlighted text: <i>dalam Mazmur/nyanyian lainnya</i> is not included in the text
+passageOverview: Error saving resource( TBP Acts-1-12 Overview.mp4 ) to firestore: File not found
+passageOverview: Error saving resource( &t=24sACT1_1-7 BAH TBP FT Indonez_SQ.mp4 ) to firestore: File not found
+**Acts para,rasul,20:1-38**
+**Acts para,rasul,23:1-35**
+Acts 23:4-5: picture file not found:  14_FB_Paul_Arrested_Jerusalem_1024
+Acts 23:4-5: Error saving resource(  14_FB_Paul_Arrested_Jerusalem_1024 ) to firestore: File not found
+**Acts para,rasul,21:1-40**
+**Acts para,rasul,24:1-27**
+**Acts para,rasul,22:1-30**
+**Acts para,rasul,26:1-32**
+Acts 26:9-10 highlighted text: melawan orang … itu is not included in the text
+Acts 26:9-10 highlighted text: orang yang bernama … itu is not included in the text
+Acts 26:32 highlighted text: “ Engkau dapat membebaskan orang ini <i>dari penjara</i> jika ia tidak meminta untuk diadili oleh Yang Mulia Kaisar.” is not included in the text
+**Acts para,rasul,27:1-44**
+Acts 27:13-14: picture file not found: 05_FB_Paul_Shipwrecked_1024.jp 
+Acts 27:13-14: Error saving resource( 05_FB_Paul_Shipwrecked_1024.jp  ) to firestore: File not found
+Acts 27:15-16: audio file not found:   BAH Kis 27 15-16.mp3
+Acts Acts 27:15-16: Error saving resource(   BAH Kis 27 15-16.mp3 ) to firestore: File not found
+**Acts para,rasul,4:1-37**
+Acts 4:11 commentary: batu yang paling penting Error saving resource( cornerstone stuffwithwords.com.jpg  cornerstone stockadobe.com.jpg ) to firestore: File not found
+Acts 4:18 highlighted text: tentang nama Yesus yang penuh kuasa is not included in the text
+Acts 4:25b-26 highlighted text: Bangsa-bangsa marah is not included in the text
+**Acts para,rasul,5:1-42**
+Acts 5:12 commentary: di halaman Bait Allah, di tempat yang disebut Serambi Salomo Error saving resource(  colonnade.jpg  Herods temple big.jpg ) to firestore: File not found
+**Acts para,rasul,8:1-19**
+Acts 8:27b highlighted text: dari Afrika is not included in the text
+**Acts para,rasul,9:1-43**
+Acts 9:29b-30 highlighted text: anggota-anggota jemaat is not included in the text
+**Acts para,rasul,28:1-32**
+**Acts para,rasul,2:1-47**
+Acts 2:3-4 highlighted text: sesuatu yang tampak seperti banyak nyala api. Nyala-nyala api ini terpisah satu sama lain, dan satu nyala api turun ke atas/di atas kepala setiap orang percaya is not included in the text
+Acts 2:47 highlighted text: membawa kepada mereka lebih banyak orang yang menjadi orang-orang percaya/murid-murid. is not included in the text
+passageOverview: ffmpeg exited with code 1: pipe:0: Invalid data found when processing input
+Cannot determine format of input stream 0:0 after EOF
+Error marking filters as finished
+Conversion failed!
+
+**Acts para,rasul,3:1-26**
+Acts 3:15: audio file not found:  BAH Kis 3 15.mp3
+Acts Acts 3:15: Error saving resource(  BAH Kis 3 15.mp3 ) to firestore: File not found

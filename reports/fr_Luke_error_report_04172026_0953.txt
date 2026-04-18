@@ -1,0 +1,68 @@
+**Luke 10:1-42**
+**Luke 13:1-35**
+**Luke 11:1-54**
+Luke 11:27-28 highlighted text: Dieu est beaucoup plus satisfait de is not included in the text
+Luke 11:53-54 highlighted text: hostile/haineux  is not included in the text
+**Luke 12:1-59**
+**Luke 15:1-32**
+Luke 15:3-4 highlighted text: <i>avec son compagnon</i> is not included in the text
+passageOverview: ffmpeg exited with code 1: pipe:0: Invalid data found when processing input
+Cannot determine format of input stream 0:0 after EOF
+Error marking filters as finished
+Conversion failed!
+
+**Luke 14:1-35**
+**Luke 16:1-31**
+Luke 16:8 highlighted text: pieux is not included in the text
+Thème(s) principal(s) :: Error saving resource(  Eng HtRtB 16 Parables TBP SQ.mp4 ) to firestore: File not found
+**Luke 17:1-37**
+Luke 17:18-19 highlighted text: Ce non juif is not included in the text
+Luke Luke 16:37: is less than the previous pericope's chapter of: 17
+**Luke 1:1-25**
+Luke 1:19 highlighted text: <i></i> is exact match of BEN Text Options
+**Luke 18:1-43**
+Luke 18:3-4a highlighted text: s’oppose à moi devant le tribunall is not included in the text
+**Luke 19:1-48**
+Luke 19:35-36 commentary: manteaux ffmpeg exited with code 1: pipe:0: Invalid data found when processing input
+Cannot determine format of input stream 0:0 after EOF
+Error marking filters as finished
+Conversion failed!
+
+**Luke 1:57-80**
+**Luke 1:26-56**
+**Luke 20:1-47**
+**Luke 21:1-37**
+Luke 21:34-35 highlighted text: sur le fait de gagner plus d'argent is not included in the text
+**Luke 22:1-71**
+**Luke 23:1-56**
+Luke 23:29-30 highlighted text: les plus heureux is not included in the text
+**Luke 24:1-53**
+Informations générales :: Error saving resource( crucifiction dict audio.mp3 ) to firestore: File not found
+**Luke 2:1-24**
+Luke 2:1: picture file not found:  Lk 2 1.jpg
+Luke 2:1: Error saving resource(  Lk 2 1.jpg ) to firestore: File not found
+**Luke 2:25-52**
+Luke 2:25: picture file not found: Lk 2 25.jpg
+Luke 2:25: Error saving resource( Lk 2 25.jpg ) to firestore: File not found
+Luke 2:39: picture file not found:  Lk 2 39.jpg
+Luke 2:39: Error saving resource(  Lk 2 39.jpg ) to firestore: File not found
+Luke 2:40: picture file not found:  Lk 2 40.jpg
+Luke 2:40: Error saving resource(  Lk 2 40.jpg ) to firestore: File not found
+Luke 2:41-42: picture file not found:  Lk 2 41-42.jpg
+Luke 2:41-42: Error saving resource(  Lk 2 41-42.jpg ) to firestore: File not found
+**Luke 7:1-50**
+**Luke 3:1-38**
+Luke 3:24-27 highlighted text: le fils de Matthat, le fils de Levi, le fils de Melchi is not included in the text
+**Luke 8:1-56**
+Luke 8:21 highlighted text: Ma mère et mes frères sont ces gens qui entendent le message de Dieu et y obéissent is not included in the text
+Luke 8:47: audio file not found: FR_Lk_8_47-.mp3
+Luke Luke 8:47: Error saving resource( FR_Lk_8_47-.mp3 ) to firestore: File not found
+**Luke 9:1-62**
+Luke 9:54: picture file not found:  fire fOU them.jpg
+Luke 9:54: Error saving resource(  fire fOU them.jpg ) to firestore: File not found
+**Luke 4:1-44**
+Luke Luke :36-37: is less than the previous pericope's chapter of: 4
+**Luke 5:1-39**
+**Luke 6:1-49**
+Luke 6:27-28: picture file not found:  03_FB_GNPI_033_Beatitudes_1024.jpg
+Luke 6:27-28: Error saving resource(  03_FB_GNPI_033_Beatitudes_1024.jpg ) to firestore: File not found

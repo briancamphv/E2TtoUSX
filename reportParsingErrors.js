@@ -24,8 +24,6 @@ var unzipDir = "";
 templates.map((template) => {
   const files = getFilePaths(template);
 
-  console.log("files", files);
-
   files.map(async (template) => {
     if (String(template).endsWith("zip")) {
       setTimeout(() => {
@@ -70,6 +68,13 @@ function getFilePaths(targetPath, recursive = false) {
   }
 
   throw new Error(`Unsupported path type: ${targetPath}`);
+}
+
+function checkFileExists(filePath) {
+  if (!fs.existsSync(filePath)) {
+    return false;
+  }
+  return true;
 }
 
 async function extractTemplateJson(zipFilePath, outputDir) {
@@ -131,6 +136,8 @@ function hasConsecutiveDuplicateAnyPhrase(
 }
 
 function reportOnTemplateData(templateFile) {
+  const baseDir = templateFile.replace(/template\.json$/i, "");
+
   return new Promise((resolve, reject) => {
     readFile(templateFile, "utf8", (err, data) => {
       if (err) {
@@ -144,8 +151,43 @@ function reportOnTemplateData(templateFile) {
         var prevChapter = 0;
 
         writeStream.write(`**${jsonData.textTitle.title}**\n`);
+
+        console.log("jsonData.sections[0].parts[0].chapter", jsonData.sections[0].parts[0].chapter);
+        if (jsonData.sections[0].parts[0].chapter === "1") {
+          if (
+            jsonData.bookInfo.summary == undefined ||
+            jsonData.bookInfo.summary == null ||
+            jsonData.bookInfo.summary.trim() === ""
+          ) {
+            const errorText = `${bookname} bookInfo summary is missing or empty\n`;
+            writeStream.write(errorText);
+          }
+        }
+
         jsonData.sections.map((section) => {
           section.parts.map((part) => {
+            const pictureExt = part.picture?.fileName.split(".").pop();
+            const audioExt = part.audio?.fileName.split(".").pop();
+
+            if (part.picture?.fileName == undefined) {
+            } else if (
+              !checkFileExists(
+                path.join(baseDir, part.picture?.id + "." + pictureExt),
+              )
+            ) {
+              const errorText = `${bookname} ${part.chapter}:${part.verse}: picture file not found: ${part.picture?.fileName}\n`;
+              writeStream.write(errorText);
+            }
+
+            if (
+              !checkFileExists(
+                path.join(baseDir, part.audio?.id + "." + audioExt),
+              )
+            ) {
+              const errorText = `${bookname} ${part.chapter}:${part.verse}: audio file not found: ${part.audio?.fileName}\n`;
+              writeStream.write(errorText);
+            }
+
             if (part.picture !== null && part.picture.errors) {
               const errorText = `${bookname} ${part.chapter}:${part.verse}: ${part.picture.errors[0]}\n`;
               writeStream.write(errorText);
@@ -186,10 +228,10 @@ function reportOnTemplateData(templateFile) {
                 }
               }
 
-              if (hasConsecutiveDuplicateAnyPhrase(commentary.content)) {
-                const errorText = `${bookname} ${part.chapter}:${part.verse} highlighted text: ${title}, BEN Text Options has consecutive duplicate phrases in ${commentary.content}\n`;
-                writeStream.write(errorText);
-              }
+              // if (hasConsecutiveDuplicateAnyPhrase(commentary.content)) {
+              //   const errorText = `${bookname} ${part.chapter}:${part.verse} highlighted text: ${title}, BEN Text Options has consecutive duplicate phrases in ${commentary.content}\n`;
+              //   writeStream.write(errorText);
+              // }
 
               const stripItalicTags = (str) => {
                 var retStr = str.replace(/<\/?i>/gi, "");
@@ -219,10 +261,6 @@ function reportOnTemplateData(templateFile) {
 
               const regex = buildFlexibleRegex(title);
               if (!normalize(part.text).match(regex)) {
-                console.log("regex:", regex);
-                console.log("title:", stripItalicTags(title.trim()));
-                console.log("part.text:", stripItalicTags(part.text));
-
                 const errorText = `${bookname} ${part.chapter}:${part.verse} highlighted text: ${title} is not included in the text\n`;
                 if (
                   errorText.includes(

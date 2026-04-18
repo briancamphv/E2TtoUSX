@@ -1,0 +1,14 @@
+**Esther 10:1-3**
+**Esther 3:1-15**
+**Esther 1:1-22**
+Esther bookInfo summary is missing or empty
+ऐतिहासिक संदर्भ:
+: Retry limit exceeded - {"config":{"method":"PUT","url":"https://storage.googleapis.com/upload/storage/v1/b/honeybeeobt-app.firebasestorage.app/o?name=1sakESIctJplv5MZDKV7ZvOiHO-JENbJy%2F1sakESIctJplv5MZDKV7ZvOiHO-JENbJy1Lrw3uzgJK7ZyNHfuKQ8wNOeYKIS2JIAr.mp4&uploadType=resumable&upload_id=AMNfjG1fkk3iIYT3bRKu1Z0hLFvJwTuB9-dudJZurK8IZOOkTK6yzhq5_IPfyQm0-wXEHvYyWPsWGhSLv6lr_SXHLJdVAYXFW6aJTbUYsaddr14","headers":{"User-Agent":"gcloud-node-storage/7.15.2 google-api-nodejs-client/9.15.1","x-goog-api-client":"gl-node/22.22.0 gccl/7.15.2-CJS gccl-invocation-id/0650ca21-640f-47fc-a026-a221b1176a9a","Content-Range":"bytes 0-*/*","Authorization":"<<REDACTED> - See `errorRedactor` option in `gaxios` for configuration>."},"body":{"_events":{},"_readableState":{"highWaterMark":65536,"buffer":[],"bufferIndex":0,"length":0,"pipes":[],"awaitDrainWriters":null},"_eventsCount":1},"signal":{},"responseType":"unknown"},"error":{"message":"request to https://storage.googleapis.com/upload/storage/v1/b/honeybeeobt-app.firebasestorage.app/o?name=1sakESIctJplv5MZDKV7ZvOiHO-JENbJy%2F1sakESIctJplv5MZDKV7ZvOiHO-JENbJy1Lrw3uzgJK7ZyNHfuKQ8wNOeYKIS2JIAr.mp4&uploadType=resumable&upload_id=AMNfjG1fkk3iIYT3bRKu1Z0hLFvJwTuB9-dudJZurK8IZOOkTK6yzhq5_IPfyQm0-wXEHvYyWPsWGhSLv6lr_SXHLJdVAYXFW6aJTbUYsaddr14 failed, reason: socket hang up","type":"system","errno":"ECONNRESET","code":"ECONNRESET"},"code":"ECONNRESET"}
+**Esther 4:1-17**
+**Esther 5:1-14**
+**Esther 6:1-13**
+**Esther 8:1-17**
+**Esther 7:1-10**
+**Esther 2:1-23**
+**Esther 9:1-32**
+Esther 9:23-24 commentary: छोटे-छोटे लकड़ी के टुकड़े फेंके थे Error saving resource( कास्टिंग pur.jpg ) to firestore: File not found

@@ -1,0 +1,26 @@
+**Titus 2:1-15**
+Titus 2:1: picture file not found: Titus, fils avec Paul preaching.jpg
+Titus 2:1: Error saving resource( Titus, fils avec Paul preaching.jpg ) to firestore: File not found
+Titus 2:3: picture file not found: Apprendre aux femmes à teach.jpg
+Titus 2:3: Error saving resource( Apprendre aux femmes à teach.jpg ) to firestore: File not found
+Titus 2:5b: picture file not found: Les femmes enseignent women.jpg
+Titus 2:5b: Error saving resource( Les femmes enseignent women.jpg ) to firestore: File not found
+Titus 2:6: picture file not found: Paul et Young Tim.jpg
+Titus 2:6: Error saving resource( Paul et Young Tim.jpg ) to firestore: File not found
+Titus 2:7-8a: picture file not found: Titus, fils avec Paul preaching.jpg
+Titus 2:7-8a: Error saving resource( Titus, fils avec Paul preaching.jpg ) to firestore: File not found
+Titus 2:9-10a: picture file not found: esclaves faithful.jpg
+Titus 2:9-10a: Error saving resource( esclaves faithful.jpg ) to firestore: File not found
+Titus 2:10b: picture file not found: enseigner slaves.jpg
+Titus 2:10b: Error saving resource( enseigner slaves.jpg ) to firestore: File not found
+Titus 2:11-12: picture file not found: le salut pour all.jpg
+Titus 2:11-12: Error saving resource( le salut pour all.jpg ) to firestore: File not found
+Titus 2:13-14: picture file not found: Jésus revient avec les saints et les anges christian.net.jpg
+Titus 2:13-14: Error saving resource( Jésus revient avec les saints et les anges christian.net.jpg ) to firestore: File not found
+Titus 2:15: picture file not found: Enseigner à authority.jpg
+Titus 2:15: Error saving resource( Enseigner à authority.jpg ) to firestore: File not found
+**Titus 3:1-15**
+Titus Titus 1:6-7: is less than the previous pericope's chapter of: 3
+Titus 3:10-11: audio file not found: FR_Tit_3.10-11.mp3
+Titus Titus 3:10-11: Error saving resource( FR_Tit_3.10-11.mp3 ) to firestore: File not found
+**Titus 1:1-16**

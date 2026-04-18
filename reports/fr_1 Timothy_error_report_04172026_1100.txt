@@ -1,0 +1,16 @@
+**1 Timothy 1:1-20**
+**1 Timothy 2:1-15**
+I Timothy 2:15 highlighted text: <i></i> is exact match of BEN Text Options
+**1 Timothy 4:1-16**
+**1 Timothy 3:1-16**
+I Timothy 3:9-10 highlighted text: <i></i> is exact match of BEN Text Options
+I Timothy 3:14-15: audio file not found: FR_1Tim_3.14-15.mp3
+I Timothy I Timothy 3:14-15: Error saving resource( FR_1Tim_3.14-15.mp3 ) to firestore: File not found
+I Timothy 3:16: audio file not found: FR_1Tim_3.16.mp3
+I Timothy I Timothy 3:16: Error saving resource( FR_1Tim_3.16.mp3 ) to firestore: File not found
+**1 Timothy 6:1-21**
+I Timothy 6:20a: audio file not found: FR_1Tim_6.19-20a.mp3
+I Timothy I Timothy 6:20a: Error saving resource( FR_1Tim_6.19-20a.mp3 ) to firestore: File not found
+I Timothy 6:20b: audio file not found: FR_1Tim_6.20b.mp3
+I Timothy I Timothy 6:20b: Error saving resource( FR_1Tim_6.20b.mp3 ) to firestore: File not found
+**1 Timothy 5:1-25**

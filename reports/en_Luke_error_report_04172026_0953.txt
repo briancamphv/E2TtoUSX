@@ -1,0 +1,51 @@
+**Luke 10:1-42**
+**Luke 11:1-54**
+**Luke 12:1-59**
+**Luke 15:1-32**
+passageOverview: ffmpeg exited with code 1: pipe:0: Invalid data found when processing input
+Cannot determine format of input stream 0:0 after EOF
+Error marking filters as finished
+Conversion failed!
+
+**Luke 16:1-31**
+Prominent Theme(s):: ffmpeg exited with code 1: pipe:0: Invalid data found when processing input
+Cannot determine format of input stream 0:0 after EOF
+Error marking filters as finished
+Conversion failed!
+
+**Luke 13:1-35**
+**Luke 16:1-31**
+Prominent Theme(s):: ffmpeg exited with code 1: pipe:0: Invalid data found when processing input
+Cannot determine format of input stream 0:0 after EOF
+Error marking filters as finished
+Conversion failed!
+
+**Luke 17:1-37**
+**Luke 18:1-43**
+**Luke 14:1-35**
+**Luke 1a:1-25**
+Luke 1:19 highlighted text: <i></i> is exact match of BEN Text Options
+**Luke 19:1-48**
+Luke 19:35-36 commentary:  cloaks ffmpeg exited with code 1: pipe:0: Invalid data found when processing input
+Cannot determine format of input stream 0:0 after EOF
+Error marking filters as finished
+Conversion failed!
+
+**Luke 1b:26-56**
+**Luke 20:1-47**
+**Luke 1c:57-80**
+**Luke 21:1-47**
+**Luke 22:1-71**
+**Luke 23:1-56**
+**Luke 4:1-44**
+**Luke 3:1-38**
+**Luke 5:1-39**
+**Luke 24:1-53**
+Background information:: Error saving resource( crucifiction dict audio.mp3 ) to firestore: File not found
+Historical context:: Error saving resource(    ) to firestore: File not found
+**Luke 6:1-49**
+**Luke 2a:1-24**
+**Luke 7:1-50**
+**Luke 9:1-62**
+**Luke 8:1-56**
+**Luke 2b:25-52**

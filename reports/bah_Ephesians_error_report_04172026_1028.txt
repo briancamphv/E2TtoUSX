@@ -1,0 +1,45 @@
+**Ephesians 1:1-23**
+Ephesians 1:1 highlighted text: Orang – orang kudus Allah is not included in the text
+Ephesians 1:2 highlighted text: <i>Aku berdoa</i> kiranya Allah Bapa kita dan Tuhan kita Yesus Mesias (akan) memberikan kepada kamu <i>semakin banyak </i>anugerah dan kedamaian. is not included in the text
+Ephesians 1:11 highlighted text: kita orang – orang Kristen is not included in the text
+Ephesians 1:21 highlighted text: <i>Mesias memiliki </i>kedudukan yang lebih tinggi dari pada is not included in the text
+passageOverview: Error saving resource( TBP Ephesians overview.mp4 ) to firestore: File not found
+passageOverview: ffmpeg exited with code 1: pipe:0: Invalid data found when processing input
+Cannot determine format of input stream 0:0 after EOF
+Error marking filters as finished
+Conversion failed!
+
+passageOverview: ffmpeg exited with code 1: pipe:0: Invalid data found when processing input
+Cannot determine format of input stream 0:0 after EOF
+Error marking filters as finished
+Conversion failed!
+
+**Ephesians 2:1-22**
+Ephesians 2:6 highlighted text: di surga yang <i>tertinggi</i> is not included in the text
+Ephesians 2:14a highlighted text: <i>untuk</i> kita semua is not included in the text
+Ephesians 2:14b-15 highlighted text: kelompok-kelompok is not included in the text
+Ephesians 2:18 highlighted text: <i>He did
+
+
+
+
+(Does not exist in the text)</i> is not included in the text
+**Ephesians 3:1-21**
+Ephesians 3:2-3 highlighted text: telah mengungkapkan is not included in the text
+Ephesians 3:11-12 highlighted text: as Christians
+(does not exist in source text) is not included in the text
+Ephesians 3:11-12 highlighted text: kita dapat secara terbuka is not included in the text
+**Ephesians 5:1-33**
+Ephesians 5:3-4 highlighted text: you have greedy desires
+ATAU kamu memiliki hasrat yang serakah
+-not in the text- is not included in the text
+Ephesians 5:9-10 highlighted text: ujilah selalu apa yang <i>kamu lakukan untuk memastikan bahwa hal itu</i> menyenangkan Tuhan. is not included in the text
+Ephesians 5:21 highlighted text: <i>Roh Kudus akan menolong kamu kamu senantiasa</i> is not included in the text
+Ephesians 5:25-26 highlighted text: <i>setelah jemaat</i> percaya akan janji-Nya is not included in the text
+Ephesians 5:33b highlighted text: Bagaimanapun juga, (itulah mengapa) aku katakan is not included in the text
+**Ephesians 4:1-32**
+Ephesians 4:25-27 highlighted text: (sebelum matahari terbenam) is not included in the text
+Ephesians 4:25-27 highlighted text: Lakukanlah <i>agar</i> kamu tidak membuat iblis mudah untuk menggodamu berbuat dosa is not included in the text
+Ephesians 4:31-32 highlighted text: memngampuni kamu is not included in the text
+**Ephesians 6:1-24**
+Ephesians 6:10-11 highlighted text: <i>membandingkan ini dengan</i> is not included in the text

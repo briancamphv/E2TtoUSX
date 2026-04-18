@@ -1,0 +1,18 @@
+**Jonah 1**
+Jonah 1:7-8 commentary: tirer au sort Error saving resource( Tirage au sort pic.jpg ) to firestore: File not found
+Jonah 1:10- 11: audio file not found: FR_jonah_1.10-11.mp3
+Jonah Jonah 1:10- 11: Error saving resource( FR_jonah_1.10-11.mp3 ) to firestore: File not found
+**Jonah 2**
+Jonah bookInfo summary is missing or empty
+Jonah 1:17: audio file not found: FR_jonas_1.17.mp3
+Jonah Jonah 1:17: Error saving resource( FR_jonas_1.17.mp3 ) to firestore: File not found
+Informations générales: Error saving resource( map.jpg ) to firestore: File not found
+**Jonah 3**
+Jonah 3:3 commentary: <i>qu'il fallait marcher</i> pendant trois jours pour <i>y aller partout</i> Error saving resource( Jonah3.3comment_3-day-walk.wav ) to firestore: File not found
+**Jonah 4**
+Jonah 4:2 commentary: Yahvé, ce que tu as fait Error saving resource( TBP Visual-Commentary_-Exodus-34_6-7.mp4 ) to firestore: File not found
+Jonah 4:2 highlighted text: Permets-moi de mourir is not included in the text
+Jonah 4:2 highlighted text: Ce n'est pas juste/bon pour vous d'être en colère parce que je n'ai pas détruit la ville is not included in the text
+Jonah 4:10-11 commentary: qui ne savent pas distinguer le bien du mal Error saving resource( Jonah4.11_right-left-hands.wav ) to firestore: File not found
+Jonah 4:10-11 highlighted text: Il y a aussi beaucoup d'animaux/bétail/vaches is not included in the text
+Jonah 4:10-11 commentary: Il est donc juste pour moi de Error saving resource( Jonah4.11_bad-attitude.wav ) to firestore: File not found
