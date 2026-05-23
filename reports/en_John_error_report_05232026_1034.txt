@@ -1,0 +1,42 @@
+**John 1:1-18**
+**John 2:1-25**
+passageOverview: Error saving resource( Eng John 1-12 Overview TBP SQ.mp4 ) to firestore: File not found
+**John 3:1-36**
+John 3:5-6 highlighted text: born again is not included in the text
+**John 5:1-24**
+John 5:7: picture file not found: 03_FB_GNPI_029_Lame_Man_1024.jpg
+John 5:7: Error saving resource( 03_FB_GNPI_029_Lame_Man_1024.jpg ) to firestore: File not found
+John 5:14-15: picture file not found: 13_FB_GNPI_029_Lame_Man_1024.jpg
+John 5:14-15: Error saving resource( 13_FB_GNPI_029_Lame_Man_1024.jpg ) to firestore: File not found
+John 5:20-21: picture file not found: Jesus Headshot 2026-05-05 at 2.29.00 PM
+John 5:20-21: Error saving resource( Jesus Headshot 2026-05-05 at 2.29.00 PM ) to firestore: File not found
+John 5:24: picture file not found: Jesus Headshot Finger raised 2026-05-05 at 2.31.26 PM
+John 5:24: Error saving resource( Jesus Headshot Finger raised 2026-05-05 at 2.31.26 PM ) to firestore: File not found
+John 5:24 highlighted text: they have already passed from death into life.  is not included in the text
+John 5:26-27: picture file not found: Jesus Headshot 2026-05-05 at 2.29.00 PM
+John 5:26-27: Error saving resource( Jesus Headshot 2026-05-05 at 2.29.00 PM ) to firestore: File not found
+John 5:26-27 highlighted text: to pronounce judgment <i>on human beings</i> is not included in the text
+John 5:30: picture file not found: Jesus Headshot Finger raised 2026-05-05 at 2.31.26 PM
+John 5:30: Error saving resource( Jesus Headshot Finger raised 2026-05-05 at 2.31.26 PM ) to firestore: File not found
+**John 5:25-47**
+John 5:31-32: picture file not found: Jesus Headshot 2026-05-05 at 2.29.00 PM
+John 5:31-32: Error saving resource( Jesus Headshot 2026-05-05 at 2.29.00 PM ) to firestore: File not found
+John 5:35-36 highlighted text: the things/actions/deeds that I do show even more clearly is not included in the text
+John 5:39-40: picture file not found: Jesus Headshot Finger raised 2026-05-05 at 2.31.26 PM
+John 5:39-40: Error saving resource( Jesus Headshot Finger raised 2026-05-05 at 2.31.26 PM ) to firestore: File not found
+John 5:44-45: picture file not found: Jesus Headshot Finger raised 2026-05-05 at 2.31.26 PM
+John 5:44-45: Error saving resource( Jesus Headshot Finger raised 2026-05-05 at 2.31.26 PM ) to firestore: File not found
+John 5:46-47: picture file not found: Jesus Headshot 2026-05-05 at 2.29.00 PM
+John 5:46-47: Error saving resource( Jesus Headshot 2026-05-05 at 2.29.00 PM ) to firestore: File not found
+John 5:46-47 highlighted text: And since is not included in the text
+**John 4:1-54**
+John 4:4-5 commentary: <i>Because it was necessary for Jesus to pass through Samaria province</i> Error saving resource( map ) to firestore: File not found
+John 4:19-20: picture file not found: 15_FB_GNPI_018_Samaritan_Woman_1024.jpg
+John 4:19-20: Error saving resource( 15_FB_GNPI_018_Samaritan_Woman_1024.jpg ) to firestore: File not found
+John 4:29-30: picture file not found: 08_FB_GNPI_019_Living_Water_1024.jpg
+John 4:29-30: Error saving resource( 08_FB_GNPI_019_Living_Water_1024.jpg ) to firestore: File not found
+John 4:34-35: picture file not found: 11_FB_GNPI_019_Living_Water_1024.jpg
+John 4:34-35: Error saving resource( 11_FB_GNPI_019_Living_Water_1024.jpg ) to firestore: File not found
+John 4:34-35 highlighted text: It is (like) food for me, to do what <i>God</i>, who sent me <i>here</i>, wants me to do, and to accomplish his work. is not included in the text
+John 4:51-52: picture file not found: 08_FB_GNPI_020_Officials_Son_1024.jpg
+John 4:51-52: Error saving resource( 08_FB_GNPI_020_Officials_Son_1024.jpg ) to firestore: File not found

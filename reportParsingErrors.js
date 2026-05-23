@@ -152,8 +152,13 @@ function reportOnTemplateData(templateFile) {
 
         writeStream.write(`**${jsonData.textTitle.title}**\n`);
 
-        console.log("jsonData.sections[0].parts[0].chapter", jsonData.sections[0].parts[0].chapter);
-        if (jsonData.sections[0].parts[0].chapter === "1") {
+        if (jsonData.sections?.[0]?.parts?.[0]?.chapter === undefined) {
+          writeStream.write(
+            `${bookname} ${jsonData.textTitle.bookName} no chapters are present\n`,
+          );
+        }
+   
+        if (jsonData.sections?.[0]?.parts?.[0]?.chapter !== undefined && jsonData.sections[0].parts[0].chapter === "1") {
           if (
             jsonData.bookInfo.summary == undefined ||
             jsonData.bookInfo.summary == null ||
@@ -299,6 +304,7 @@ function reportOnTemplateData(templateFile) {
         });
 
         console.log("unzipped", unzipDir);
+      
 
         resolve(); // ✅ Signals completion
       } catch (parseError) {

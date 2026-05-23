@@ -1,0 +1,8 @@
+**Jonah 1**
+**Jonah 3**
+**Jonah 2**
+Jonah bookInfo summary is missing or empty
+Jonah 1:17: audio file not found: FR_jonas_1.17.mp3
+Jonah Jonah 1:17: Error saving resource( FR_jonas_1.17.mp3 ) to firestore: File not found
+**Jonah 4**
+Jonah 4:2 commentary: Yahvé, ce que tu as fait Error saving resource( &dl=1 ) to firestore: File not found

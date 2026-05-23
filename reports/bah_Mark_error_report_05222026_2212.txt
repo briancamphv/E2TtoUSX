@@ -1,0 +1,26 @@
+**Mark 10:1-52**
+**Mark 11:1-33**
+**Mark 12:1-44**
+**Mark 13:1-37**
+**Mark 14:1-72**
+**Mark 15:1-47**
+Mark 15:1-2 commentary: “<i>Apa yang </i>kamu tanyakan<i> itu benar!</i>” Error saving resource( Jesus answers Pilate.jpg ) to firestore: File not found
+Mark 15:27-30 commentary: Orang-orang yang lewat Error saving resource( save yoursel.jpg ) to firestore: File not found
+Mark Mark :: is less than the previous pericope's chapter of: 15
+**Mark 4:1-41**
+**Mark 5:1-43**
+**Mark 7:1-37**
+Mark Mark :5-8: is less than the previous pericope's chapter of: 7
+Mark Mark :17-19: is less than the previous pericope's chapter of: 7
+**Mark 16:1-20**
+passageOverview: Retry limit exceeded - "<!DOCTYPE html>\n<html lang=en>\n  <meta charset=utf-8>\n  <meta name=viewport content=\"initial-scale=1, minimum-scale=1, width=device-width\">\n  <title>Error 408 (Request Timeout)!!1</title>\n  <style>\n    *{margin:0;padding:0}html,code{font:15px/22px arial,sans-serif}html{background:#fff;color:#222;padding:15px}body{margin:7% auto 0;max-width:390px;min-height:180px;padding:30px 0 15px}* > body{background:url(//www.google.com/images/errors/robot.png) 100% 5px no-repeat;padding-right:205px}p{margin:11px 0 22px;overflow:hidden}ins{color:#777;text-decoration:none}a img{border:0}@media screen and (max-width:772px){body{background:none;margin-top:0;max-width:none;padding-right:0}}#logo{background:url(//www.google.com/images/branding/googlelogo/1x/googlelogo_color_150x54dp.png) no-repeat;margin-left:-5px}@media only screen and (min-resolution:192dpi){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat 0% 0%/100% 100%;-moz-border-image:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) 0}}@media only screen and (-webkit-min-device-pixel-ratio:2){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat;-webkit-background-size:100% 100%}}#logo{display:inline-block;height:54px;width:150px}\n  </style>\n  <a href=//www.google.com/><span id=logo aria-label=Google></span></a>\n  <p><b>408.</b> <ins>That’s an error.</ins>\n  <p>Your client has taken too long to issue its request.  <ins>That’s all we know.</ins>\n"
+**Mark 8:1-38,(9:1)**
+**Mark 6:1-56**
+Mark 6:41-44 commentary: memecah-mecah roti itu Error saving resource( 05_FB_WDV_Feeding_5000_1024.jpg ) to firestore: File not found
+**Mark 9:1-50**
+**Mark 1:1-45**
+Mark 1:4-5: audio file not found: BAH Mr 1 4-5.mp3
+Mark Mark 1:4-5: Error saving resource( BAH Mr 1 4-5.mp3 ) to firestore: File not found
+Mark 1:6-8 commentary: dan madu lebah liar Error saving resource( Matt 3  4.jpg ) to firestore: File not found
+**Mark 3:1-35**
+Mark Mark 3:23-25: is less than the previous pericope's chapter of: 6

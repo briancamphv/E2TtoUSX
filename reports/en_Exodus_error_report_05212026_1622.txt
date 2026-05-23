@@ -1,0 +1,54 @@
+**Exodus ,11:1-10**
+**Exodus 10:1-29**
+**Exodus 12:29-51**
+**Exodus 12a:1-28**
+**Exodus 13:1-22**
+**Exodus 15:1-27**
+**Exodus 14:1-31**
+**Exodus 16:1-36**
+**Exodus 18:1-27**
+Exodus 18:18-19a highlighted text: <i></i> is exact match of BEN Text Options
+**Exodus 19:1-25**
+Exodus 19:18-19 highlighted text: <i></i> is exact match of BEN Text Options
+**Exodus 1:1-22**
+Exodus 1:17-18 highlighted text: <i></i> is exact match of BEN Text Options
+**Exodus 20:1-26**
+passageOverview: Retry limit exceeded - {"config":{"method":"PUT","url":"https://storage.googleapis.com/upload/storage/v1/b/honeybeeobt-app.firebasestorage.app/o?name=1vVFbUPuI5XyOLJ8o1s29o5z0C95csRgl%2F1vVFbUPuI5XyOLJ8o1s29o5z0C95csRgl1-SHzX9ukHay2wjYul4uBji1nKJ3hCI8U.mp4&uploadType=resumable&upload_id=AAVLpEjFy5bn_7YnpaSZGybi2Tx8z6NM9mLOSzFiz6Ao1LhT9ha-ROykTv6wHmLqjJea1IGhecSxgvPEbJL8r3RtQJiSTe50ozFAFgc-2es5SQ","headers":{"User-Agent":"gcloud-node-storage/7.15.2 google-api-nodejs-client/9.15.1","x-goog-api-client":"gl-node/22.22.2 gccl/7.15.2-CJS gccl-invocation-id/8268165a-9cfa-41fb-9376-663ddf947b86","Content-Range":"bytes 0-*/*","Authorization":"<<REDACTED> - See `errorRedactor` option in `gaxios` for configuration>."},"body":{"_events":{},"_readableState":{"highWaterMark":65536,"buffer":[],"bufferIndex":0,"length":0,"pipes":[],"awaitDrainWriters":null},"_eventsCount":1},"signal":{},"responseType":"unknown"},"error":{"message":"request to https://storage.googleapis.com/upload/storage/v1/b/honeybeeobt-app.firebasestorage.app/o?name=1vVFbUPuI5XyOLJ8o1s29o5z0C95csRgl%2F1vVFbUPuI5XyOLJ8o1s29o5z0C95csRgl1-SHzX9ukHay2wjYul4uBji1nKJ3hCI8U.mp4&uploadType=resumable&upload_id=AAVLpEjFy5bn_7YnpaSZGybi2Tx8z6NM9mLOSzFiz6Ao1LhT9ha-ROykTv6wHmLqjJea1IGhecSxgvPEbJL8r3RtQJiSTe50ozFAFgc-2es5SQ failed, reason: socket hang up","type":"system","errno":"ECONNRESET","code":"ECONNRESET"},"code":"ECONNRESET"}
+**Exodus 22:1-31**
+Exodus 22:16-17 highlighted text: <i></i> is exact match of BEN Text Options
+**Exodus 21:1-36**
+**Exodus 23:1-33**
+**Exodus 24:1-18**
+Exodus 24:13-14 highlighted text: <i></i> is exact match of BEN Text Options
+passageOverview: Error saving resource(   ) to firestore: File not found
+**Exodus 25:1-22**
+**Exodus 26:1-37**
+passageOverview: Error saving resource(   ) to firestore: File not found
+**Exodus 28:1-43**
+passageOverview: Error saving resource( &t=5s  ) to firestore: File not found
+**Exodus 27:1-22**
+**Exodus 29:1-46**
+**Exodus 2:1-25**
+**Exodus 30:1-38**
+**Exodus 31:1-18**
+**Exodus 35:1-35**
+**Exodus 36:1-38**
+**Exodus 37:1-29**
+**Exodus 38:1-31**
+**Exodus 32:1-35**
+**Exodus 39:1-43**
+**Exodus 3:1-22**
+Exodus 3:14 highlighted text: <i></i> is exact match of BEN Text Options
+**Exodus 40:1-38**
+**Exodus 4:1-31**
+Exodus 4:18 highlighted text: <i></i> is exact match of BEN Text Options
+**Exodus 7:1-25**
+Exodus 7:17b-18 highlighted text: <i></i> is exact match of BEN Text Options
+**Exodus 6:1-30**
+**Exodus 8:1-32**
+Exodus 8:18-19 highlighted text: <i></i> is exact match of BEN Text Options
+**Exodus 5:1-23**
+**Exodus 17:1-16**
+**Exodus 9.1-35**
+**Exodus 34:1-35**
+**Exodus 33:1-23**

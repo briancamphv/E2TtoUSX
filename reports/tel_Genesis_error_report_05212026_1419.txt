@@ -1,0 +1,320 @@
+**Genesis 11a:1–9**
+Genesis :: audio file not found: undefined
+Genesis Genesis :: is less than the previous pericope's chapter of: 11
+**Genesis 10:1–32**
+Genesis 10:2-5 highlighted text: యాపెతు కుమారులు
+ is not included in the text
+Genesis 10:8-9 highlighted text: శక్తివంతుడైన మొదటి మనిషి అతడే.
+ is not included in the text
+**Genesis ,12b:10-20**
+**Genesis 11b:10–31**
+**Genesis 14b:17–24**
+Genesis 14:18 highlighted text: పరమోన్నతుడైన దేవుడు is not included in the text
+**Genesis 12a:1-9**
+Genesis 12:1 highlighted text: నేను నీకు చూపబోవు దేశమునకు is exact match of BEN Text Options
+Genesis 12:8 highlighted text: యహ్వే నామమును ప్రకటించెను.
+ is not included in the text
+**Genesis 14a:1–16**
+**Genesis 13:1–18**
+**Genesis 15:1-21**
+**Genesis 17:1-14**
+Genesis Genesis no chapters are present
+**Genesis 17:1-14**
+Genesis Genesis no chapters are present
+**Genesis 17బి:15-27**
+Genesis Genesis no chapters are present
+**Genesis 1:1-2:4a**
+Genesis bookInfo summary is missing or empty
+Genesis 1:2 highlighted text: దేవుని ఆత్మ  తిరుగుతూ ఉంది. is not included in the text
+Genesis 1:3-5: audio file not found: TEL Gen 1 3-5,mp3
+Genesis 1:16-19 commentary: ఏలడానికి Error saving resource(   ) to firestore: File not found
+Genesis 1:20-21 highlighted text: దేవుడు సృష్టించాడు is not included in the text
+Genesis 1:26 commentary: దేవుడు, “మనం ఇప్పుడు మనలాంటి మనుషులను తయారు చేస్తాము Error saving resource( The Unseen Realm - documentary film with Dr. Michael S. Heiser ) to firestore: File not found
+Genesis 1:26 commentary: దేవుడు, “మనం ఇప్పుడు మనలాంటి మనుషులను తయారు చేస్తాము Error saving resource( . ) to firestore: File not found
+Genesis 1:26 commentary: మనలాంటి Error saving resource( Made IN the image of God | Unseen Realm 101 | Dr. Michael Heiser ) to firestore: File not found
+Genesis 2:2-3 highlighted text: దేవుడు విశ్రాంతి తీసుకున్నాడు. is not included in the text
+passageOverview: Error saving resource( &list=PLiz1z-VW-41_4Z3zQjwSr2kCfubhPJvui https://www.youtube.com/watch?v=Kcfj4k47PZg ) to firestore: File not found
+**Genesis 20:1-18**
+Genesis Genesis no chapters are present
+**Genesis 18a:1-15**
+Genesis Genesis no chapters are present
+**Genesis 21a:1-21**
+Genesis Genesis no chapters are present
+**Genesis 22:1-24**
+Genesis 22:13 highlighted text: పేరు పెట్టాడు is not included in the text
+Genesis 22:13 highlighted text: సమకూర్చును is not included in the text
+Genesis 22:13 highlighted text: ఈ రోజు వరకు is not included in the text
+Genesis 22:13 highlighted text: పరలోకమునుండి రెండవసారి అబ్రాహామును పిలిచాడు is not included in the text
+Genesis 22:13 highlighted text: నా స్వనామముతో is not included in the text
+Genesis 22:13 highlighted text: అనేకముగా is not included in the text
+Genesis 22:13 highlighted text: తమ శత్రువుల పట్టణాలను స్వాధీనపరచుకుంటుంది is not included in the text
+Genesis 22:13 highlighted text: నీవు నా ఆజ్ఞకు విధేయుడైనందున నీ సంతానము ద్వారా భూమిమీదనున్న ప్రజల సమూహాలన్నియు ఆశీర్వదింపబడును  is not included in the text
+Genesis 22:13 highlighted text: ఎవరో వచ్చి is not included in the text
+Genesis 22:13 highlighted text: పిల్లలను కనింది is not included in the text
+
+
+ప్రధాన అంశాలు:: Retry limit exceeded - "<!DOCTYPE html>\n<html lang=en>\n  <meta charset=utf-8>\n  <meta name=viewport content=\"initial-scale=1, minimum-scale=1, width=device-width\">\n  <title>Error 408 (Request Timeout)!!1</title>\n  <style>\n    *{margin:0;padding:0}html,code{font:15px/22px arial,sans-serif}html{background:#fff;color:#222;padding:15px}body{margin:7% auto 0;max-width:390px;min-height:180px;padding:30px 0 15px}* > body{background:url(//www.google.com/images/errors/robot.png) 100% 5px no-repeat;padding-right:205px}p{margin:11px 0 22px;overflow:hidden}ins{color:#777;text-decoration:none}a img{border:0}@media screen and (max-width:772px){body{background:none;margin-top:0;max-width:none;padding-right:0}}#logo{background:url(//www.google.com/images/branding/googlelogo/1x/googlelogo_color_150x54dp.png) no-repeat;margin-left:-5px}@media only screen and (min-resolution:192dpi){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat 0% 0%/100% 100%;-moz-border-image:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) 0}}@media only screen and (-webkit-min-device-pixel-ratio:2){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat;-webkit-background-size:100% 100%}}#logo{display:inline-block;height:54px;width:150px}\n  </style>\n  <a href=//www.google.com/><span id=logo aria-label=Google></span></a>\n  <p><b>408.</b> <ins>That’s an error.</ins>\n  <p>Your client has taken too long to issue its request.  <ins>That’s all we know.</ins>\n"
+**Genesis 22:1-24**
+Genesis 22:13 highlighted text: పేరు పెట్టాడు is not included in the text
+Genesis 22:13 highlighted text: సమకూర్చును is not included in the text
+Genesis 22:13 highlighted text: ఈ రోజు వరకు is not included in the text
+Genesis 22:13 highlighted text: పరలోకమునుండి రెండవసారి అబ్రాహామును పిలిచాడు is not included in the text
+Genesis 22:13 highlighted text: నా స్వనామముతో is not included in the text
+Genesis 22:13 highlighted text: అనేకముగా is not included in the text
+Genesis 22:13 highlighted text: తమ శత్రువుల పట్టణాలను స్వాధీనపరచుకుంటుంది is not included in the text
+Genesis 22:13 highlighted text: నీవు నా ఆజ్ఞకు విధేయుడైనందున నీ సంతానము ద్వారా భూమిమీదనున్న ప్రజల సమూహాలన్నియు ఆశీర్వదింపబడును  is not included in the text
+Genesis 22:13 highlighted text: ఎవరో వచ్చి is not included in the text
+Genesis 22:13 highlighted text: పిల్లలను కనింది is not included in the text
+
+
+ప్రధాన అంశాలు:: Retry limit exceeded - "<!DOCTYPE html>\n<html lang=en>\n  <meta charset=utf-8>\n  <meta name=viewport content=\"initial-scale=1, minimum-scale=1, width=device-width\">\n  <title>Error 408 (Request Timeout)!!1</title>\n  <style>\n    *{margin:0;padding:0}html,code{font:15px/22px arial,sans-serif}html{background:#fff;color:#222;padding:15px}body{margin:7% auto 0;max-width:390px;min-height:180px;padding:30px 0 15px}* > body{background:url(//www.google.com/images/errors/robot.png) 100% 5px no-repeat;padding-right:205px}p{margin:11px 0 22px;overflow:hidden}ins{color:#777;text-decoration:none}a img{border:0}@media screen and (max-width:772px){body{background:none;margin-top:0;max-width:none;padding-right:0}}#logo{background:url(//www.google.com/images/branding/googlelogo/1x/googlelogo_color_150x54dp.png) no-repeat;margin-left:-5px}@media only screen and (min-resolution:192dpi){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat 0% 0%/100% 100%;-moz-border-image:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) 0}}@media only screen and (-webkit-min-device-pixel-ratio:2){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat;-webkit-background-size:100% 100%}}#logo{display:inline-block;height:54px;width:150px}\n  </style>\n  <a href=//www.google.com/><span id=logo aria-label=Google></span></a>\n  <p><b>408.</b> <ins>That’s an error.</ins>\n  <p>Your client has taken too long to issue its request.  <ins>That’s all we know.</ins>\n"
+**Genesis 23:1-20**
+Genesis Genesis no chapters are present
+**Genesis 24:1-67**
+Genesis Genesis no chapters are present
+**Genesis 25:1-34**
+Genesis Genesis no chapters are present
+**Genesis 26:1-35**
+Genesis 26:7 highlighted text: సన్నిహితముగా is not included in the text
+Genesis 26:7 highlighted text: మరి నీవు ఆమె నా చెల్లెలు అని ఎందుకు చెప్పావు?”
+ is not included in the text
+Genesis 26:7 highlighted text: ఆమెతో పడుకొనినట్లయితే is not included in the text
+Genesis 26:7 highlighted text: చంపబడును is not included in the text
+Genesis 26:7 highlighted text: <i>
+ధాన్యమును విత్తిరి</i> is not included in the text
+Genesis 26:7 highlighted text: 
+
+అనేక గొర్రెలు మేకలు ఎద్దులు is not included in the text
+Genesis 26:7 highlighted text: యెహోవా ఇస్సాకును ఆశీర్వదించి అతనికి ధనవంతుడిని చేసినందున ఫిలిష్తీయులు ఇస్సాకుపై అసూయపడ్డారు. is not included in the text
+Genesis 26:7 highlighted text: చాలా ఎక్కువ is not included in the text
+Genesis 26:7 highlighted text: మా దేశాన్ని విడిచి వెళ్లుము.”
+ is not included in the text
+Genesis 26:7 highlighted text: అబ్రహం తవ్వాడు is not included in the text
+Genesis 26:7 highlighted text: అయితే గెరారు లోయలో నివసిస్తూ, అక్కడ తమ పశువులను కాసే ఇతర మనుష్యులు is not included in the text
+Genesis 26:7 highlighted text: ఇస్సాకు పశువులను కాచిన మనుష్యులతో is not included in the text
+Genesis 26:7 highlighted text: మాది is not included in the text
+Genesis 26:20b-21 highlighted text: <i>
+'</i>సిత్నా<i>' </i>అని పేరు పెట్టాడు<i>, </i>అతని భాషలో దాని అర్థం <i>'</i>వ్యతిరేకం<i>'</i> is not included in the text
+Genesis 26:20b-21 highlighted text: ఇక్కడ ఫలవంతం అవుతాము is not included in the text
+**Genesis 27:1-46**
+Genesis Genesis no chapters are present
+Genesis 27:42 highlighted text: నా జీవితం నన్ను విసిగించుచున్నారు is not included in the text
+**Genesis 28:1-22**
+Genesis Genesis no chapters are present
+Genesis 28:18 highlighted text: ప్రతిజ్ఞ is not included in the text
+Genesis 28:18 highlighted text: దేవుడు ఉంటే is not included in the text
+**Genesis 29:1-35**
+Genesis Genesis no chapters are present
+**Genesis 2:4-25**
+Genesis 2:8-9 commentary: జీవాన్నిచ్చే చెట్టును
+ Error saving resource( TBP Tree-of-Life.mp4 ) to firestore: File not found
+Genesis 2:8-9 commentary: జీవాన్నిచ్చే చెట్టును
+ Error saving resource(   ) to firestore: File not found
+Genesis 2:10-14 commentary: ఏదెను నుండి ఒక నది ప్రవహించింది Error saving resource( బైబిలు అంశాలు: దేవాలయం Temple ) to firestore: File not found
+Genesis 2:15-17 highlighted text: ఆ మనిషిని ఉంచి is not included in the text
+Genesis 2:15-17 highlighted text: సంరక్షించడాకి is not included in the text
+Genesis 2:18-20 highlighted text: తగిన జతగాడిని is not included in the text
+Genesis 2:21-23 commentary: కాబట్టి, నేను ఆమెను స్త్రీ అని పిలుస్తాను, ఎందుకంటే ఆమె నా నుండి తీసుకోబడింది Error saving resource( Eng theme Royal Priests1 Fall Tabernacle Gen 3-4 Ex 20 TBP SQ.mp4 ) to firestore: File not found
+పరిస్థితి సమాచారం
+: Error saving resource( Eng theme Royal Priests1 Fall Tabernacle Gen 3-4 Ex 20 TBP SQ.mp4 ) to firestore: File not found
+ప్రాముఖ్యమైన అంశాలు:: Error saving resource( బైబిలు అంశాలు: జీవవ్రుక్షం Tree of Lifeబైబిలు అంశాలు: దేవాలయం Templeదీవెన & శాపం Blessing & Curse ) to firestore: File not found
+**Genesis 30a:1-24**
+Genesis 30:15 highlighted text: precious gift
+అమూల్యమైన వరము is not included in the text
+Genesis 30:15 highlighted text:  పిల్లలు లేరనే కారణంతో is not included in the text
+**Genesis 30b:25-43**
+Genesis 30:32 highlighted text: నీ నుండి దొంగిలించితినని is not included in the text
+Genesis 30:32 highlighted text: తరువాత పిల్లలను కనినవి is not included in the text
+Genesis 30:32 highlighted text: పశువులు తరువాత పిల్లలను కనినప్పుడు, ఆ పిల్లలు చారలుగల, మచ్చలుగలవిగా పుట్టినవి. is not included in the text
+Genesis 30:32 highlighted text: బలమైన is not included in the text
+Genesis 30:32 highlighted text: యాకోబు అయ్యెను is not included in the text
+Genesis 30:32 highlighted text: అనేక is not included in the text
+**Genesis 31:1-55**
+Genesis Genesis no chapters are present
+**Genesis 32:1-32**
+Genesis 32:11 highlighted text: సముద్ర తీరంలోని ఇసుక రేణువులవలె is not included in the text
+Genesis 32:11 highlighted text: can is not included in the text
+Genesis 32:11 highlighted text: నలభై ఆవులు, పది ఎద్దులు is not included in the text
+Genesis 32:11 highlighted text: మీ సేవకుడైన యాకోబు is not included in the text
+Genesis 32:11 highlighted text: అతని కోపాన్ని శాంతింపజేయునేమో is not included in the text
+Genesis 32:11 highlighted text: నా ముందుగా is not included in the text
+Genesis 32:28 highlighted text: నీకు నా పేరు తెలుసు is not included in the text
+Genesis 32:28 highlighted text: అక్కడ యాకోబును ఆశీర్వదించాడు is not included in the text
+Genesis 32:28 highlighted text: వారు ఏ జంతువు యొక్క తుంటి కీలుకు అతుక్కొని ఉన్న స్నాయువును is not included in the text
+Genesis 32:28 highlighted text: తొడ నరము is not included in the text
+Genesis 32:28 highlighted text: తుంటి కీలు దగ్గర is not included in the text
+**Genesis 33:1-20**
+Genesis 33:14 highlighted text: అయితే is not included in the text
+Genesis 33:14 highlighted text: యాకోబు మరియు అతని కుటుంబము చివరకు సుక్కోతు అను స్థలమునకు వెళ్లిరి is not included in the text
+**Genesis 34:1-31**
+Genesis Genesis no chapters are present
+**Genesis 35a:1-15**
+Genesis Genesis no chapters are present
+**Genesis 36:1-43**
+Genesis Genesis no chapters are present
+**Genesis 37:1-36**
+Genesis Genesis no chapters are present
+Genesis 37:31 highlighted text: సాహసించలేదు. is not included in the text
+Genesis 37:31 highlighted text: చాలా రోజులు is not included in the text
+Genesis 37:31 highlighted text: పాతాళంలో is not included in the text
+Genesis 37:31 highlighted text: దానిని బట్టి is not included in the text
+Genesis 37:31 highlighted text: ఐగుప్తు రాజు అయిన ఫరోను is not included in the text
+**Genesis 35b:16-29**
+Genesis Genesis no chapters are present
+**Genesis 38:1-30**
+Genesis Genesis no chapters are present
+**Genesis 3:1-24**
+Genesis 3:1 highlighted text: అడవి జంతువులన్నిటికంటే చాలా చాకచక్యంగా ఉంది. ఆ సర్పం మాట్లాడగలిగింది. is not included in the text
+Genesis 3:4-5: picture file not found: Gen 3 6 Eve hmmm.jpgg
+Genesis 3:4-5: Error saving resource( Gen 3 6 Eve hmmm.jpgg ) to firestore: File not found
+Genesis 3:4-5 highlighted text: మీ కళ్ళు తెరవబడిమీరు గ్రహిస్తారు is not included in the text
+Genesis 3:6 highlighted text: కొన్ని పండ్లను భర్తకు ఇచ్చింది
+ is not included in the text
+Genesis 3:8-9 highlighted text: యెహోవా తోటలో తిరుగుతున్నట్లు విన్నారు.  is not included in the text
+Genesis 3:13-14 highlighted text: నువ్వు ఎల్లప్పుడూ నేలపై /నేలపైనే ఉంటావు. is not included in the text
+Genesis 3:15 commentary: ఒకేసారిగా Error saving resource( బైబిల్ గాధ The Story of the Bible ) to firestore: File not found
+Genesis 3:16 commentary: గర్భం ధరించి పిల్లలను కనే సమయంలో నీకు చాలా దుఃఖం, వేదన కలుగుతాయి Error saving resource( The Consequences of Original Sin Were Not What You Think ) to firestore: File not found
+Genesis 3:22 commentary: యెహోవా ఇలా అన్నాడు Error saving resource(  దైవిక సలహా మండలి The Divine Council ) to firestore: File not found
+passageOverview: Error saving resource( బైబిలు అంశాలు: జీవవ్రుక్షం Tree of Lifeసారాంశం: ఆదికాండం 1-11 Overview: Genesis 1-11 ) to firestore: File not found
+**Genesis 3:1-24**
+Genesis 3:1 highlighted text: అడవి జంతువులన్నిటికంటే చాలా చాకచక్యంగా ఉంది. ఆ సర్పం మాట్లాడగలిగింది. is not included in the text
+Genesis 3:4-5: picture file not found: Gen 3 6 Eve hmmm.jpgg
+Genesis 3:4-5: Error saving resource( Gen 3 6 Eve hmmm.jpgg ) to firestore: File not found
+Genesis 3:4-5 highlighted text: మీ కళ్ళు తెరవబడిమీరు గ్రహిస్తారు is not included in the text
+Genesis 3:6 highlighted text: కొన్ని పండ్లను భర్తకు ఇచ్చింది
+ is not included in the text
+Genesis 3:8-9 highlighted text: యెహోవా తోటలో తిరుగుతున్నట్లు విన్నారు.  is not included in the text
+Genesis 3:13-14 highlighted text: నువ్వు ఎల్లప్పుడూ నేలపై /నేలపైనే ఉంటావు. is not included in the text
+Genesis 3:15 commentary: ఒకేసారిగా Error saving resource( బైబిల్ గాధ The Story of the Bible ) to firestore: File not found
+Genesis 3:16 commentary: గర్భం ధరించి పిల్లలను కనే సమయంలో నీకు చాలా దుఃఖం, వేదన కలుగుతాయి Error saving resource( The Consequences of Original Sin Were Not What You Think ) to firestore: File not found
+Genesis 3:22 commentary: యెహోవా ఇలా అన్నాడు Error saving resource(  దైవిక సలహా మండలి The Divine Council ) to firestore: File not found
+passageOverview: Error saving resource( బైబిలు అంశాలు: జీవవ్రుక్షం Tree of Lifeసారాంశం: ఆదికాండం 1-11 Overview: Genesis 1-11 ) to firestore: File not found
+**Genesis 40:1-23**
+Genesis 40:8 highlighted text: పూలు పూశాయి is not included in the text
+Genesis 40:8 highlighted text: పండిన ద్రాక్ష గెలలను is not included in the text
+Genesis 40:8 highlighted text: <i>
+</i>దేవుడు వెంటనే ఆ కలకు అర్థం ఏమిటో యోసేపుకు తెలియజేశాడు is not included in the text
+Genesis 40:8 highlighted text: హెబ్రీయుల దేశం is not included in the text
+Genesis 40:8 highlighted text: చెరసాలలో వేయడానికి is not included in the text
+Genesis 40:8 highlighted text: పానదాయకుని కలకు శుభకరమైన అర్థం చెప్పబడటం చూసి is not included in the text
+Genesis 40:8 highlighted text: <i>
+</i>దేవుడు మరలా ఆ కలకు అర్థం ఏమిటో యోసేపుకు తెలియజేశాడు is not included in the text
+Genesis 40:8 highlighted text: ఇప్పటి నుండి మూడు రోజులలోపు is not included in the text
+Genesis 40:8 highlighted text: బయటకు పిలుస్తాడు is not included in the text
+Genesis 40:8 highlighted text: గుచ్చి  చంపివేయమని is not included in the text
+Genesis 40:8 highlighted text: గద్దలు is not included in the text
+Genesis 40:8 highlighted text: రాజుగారి పుట్టినరోజు is not included in the text
+Genesis 40:8 highlighted text: పెద్ద విందు is not included in the text
+Genesis 40:8 highlighted text: చంపివేయమని is not included in the text
+Genesis 40:8 highlighted text: యోసేపు ఆ ఇద్దరు వ్యక్తులకు వారి కలల భావం చెప్పినప్పుడు ఏమి జరుగుతుందని చెప్పాడో, అంతా అతను చెప్పినట్లే జరిగింది. 
+ is not included in the text
+**Genesis 41b:37-57**
+Genesis Genesis no chapters are present
+**Genesis 41ఎ:1-36**
+Genesis Genesis no chapters are present
+**Genesis 42:1-38**
+Genesis Genesis no chapters are present
+**Genesis 43:1-34**
+Genesis Genesis no chapters are present
+**Genesis 44:1-34**
+Genesis Genesis no chapters are present
+**Genesis 45:1-28**
+Genesis Genesis no chapters are present
+**Genesis 46:1-27**
+Genesis Genesis no chapters are present
+**Genesis 47:1-31**
+Genesis Genesis no chapters are present
+**Genesis 49:1-33**
+Genesis 49:19 highlighted text: రుచికరమైన is not included in the text
+Genesis 49:24 highlighted text: <i>
+
+మీ అన్నదమ్ముల మీద మరియు తమ్ముడి మీద</i> is not included in the text
+Genesis 49:24 highlighted text: క్రూరమైన తోడేళ్ళలా is not included in the text
+Genesis 49:24 highlighted text: ఎరను  is not included in the text
+Genesis 49:24 highlighted text: తగిన is not included in the text
+**Genesis 49:1-33**
+Genesis 49:19 highlighted text: రుచికరమైన is not included in the text
+Genesis 49:24 highlighted text: <i>
+
+మీ అన్నదమ్ముల మీద మరియు తమ్ముడి మీద</i> is not included in the text
+Genesis 49:24 highlighted text: క్రూరమైన తోడేళ్ళలా is not included in the text
+Genesis 49:24 highlighted text: ఎరను  is not included in the text
+Genesis 49:24 highlighted text: తగిన is not included in the text
+**Genesis 4:1-26**
+Genesis 4:1-2a: audio file not found: TEL Gen 4 1-2a.mp3
+Genesis Genesis 4:1-2a: Error saving resource( TEL Gen 4 1-2a.mp3 ) to firestore: File not found
+Genesis 4:2b-4: audio file not found: TEL Gen 4 2b-4.mp3
+Genesis Genesis 4:2b-4: Error saving resource( TEL Gen 4 2b-4.mp3 ) to firestore: File not found
+Genesis 4:5: audio file not found: TEL Gen 4 5.mp3
+Genesis Genesis 4:5: Error saving resource( TEL Gen 4 5.mp3 ) to firestore: File not found
+Genesis 4:6-7: audio file not found: TEL Gen 4 6-7.mp3
+Genesis Genesis 4:6-7: Error saving resource( TEL Gen 4 6-7.mp3 ) to firestore: File not found
+Genesis 4:8-: audio file not found: TEL Gen 4 8.mp3
+Genesis Genesis 4:8-: Error saving resource( TEL Gen 4 8.mp3 ) to firestore: File not found
+Genesis 4:9a: audio file not found: TEL Gen 4 9a.mp3
+Genesis Genesis 4:9a: Error saving resource( TEL Gen 4 9a.mp3 ) to firestore: File not found
+Genesis 4:9b-10: audio file not found: TEL Gen 4 9b-10.mp3
+Genesis Genesis 4:9b-10: Error saving resource( TEL Gen 4 9b-10.mp3 ) to firestore: File not found
+Genesis 4:11-12: audio file not found: TEL Gen 4 11-12.mp3
+Genesis Genesis 4:11-12: Error saving resource( TEL Gen 4 11-12.mp3 ) to firestore: File not found
+Genesis 4:13-14: audio file not found: TEL Gen 4 13-14.mp3
+Genesis Genesis 4:13-14: Error saving resource( TEL Gen 4 13-14.mp3 ) to firestore: File not found
+Genesis 4:15-16: audio file not found: TEL Gen 4 15-16.mp3
+Genesis Genesis 4:15-16: Error saving resource( TEL Gen 4 15-16.mp3 ) to firestore: File not found
+Genesis 4:17-: audio file not found: TEL Gen 4 17.mp3
+Genesis Genesis 4:17-: Error saving resource( TEL Gen 4 17.mp3 ) to firestore: File not found
+Genesis 4:18: audio file not found: TEL Gen 4 18.mp3
+Genesis Genesis 4:18: Error saving resource( TEL Gen 4 18.mp3 ) to firestore: File not found
+Genesis 4:19-21: audio file not found: TEL Gen 4 19-21.mp3
+Genesis Genesis 4:19-21: Error saving resource( TEL Gen 4 19-21.mp3 ) to firestore: File not found
+Genesis 4:22: audio file not found: TEL Gen 4 22.mp3
+Genesis Genesis 4:22: Error saving resource( TEL Gen 4 22.mp3 ) to firestore: File not found
+Genesis 4:23-24: audio file not found: TEL Gen 4 23-24.mp3
+Genesis Genesis 4:23-24: Error saving resource( TEL Gen 4 23-24.mp3 ) to firestore: File not found
+Genesis 4:25: audio file not found: TEL Gen 4 25.mp3
+Genesis Genesis 4:25: Error saving resource( TEL Gen 4 25.mp3 ) to firestore: File not found
+Genesis 4:26: audio file not found: TEL Gen 4 26.mp3
+Genesis Genesis 4:26: Error saving resource( TEL Gen 4 26.mp3 ) to firestore: File not found
+passageOverview: Error saving resource(  TBP The-City.mp4 ) to firestore: File not found
+**Genesis 5:1-32**
+**Genesis 5:1-32**
+**Genesis 6a:1-8**
+**Genesis 6b:9-22**
+**Genesis 7:1-24**
+Genesis 7:2-3 highlighted text: వాటిని బ్రతికించుటకు.
+ is not included in the text
+Genesis 7:4-5 highlighted text: నలభై రోజులు నలభై రాత్రులు is exact match of BEN Text Options
+Genesis 7:4-5 highlighted text: అలా చేసి is exact match of BEN Text Options
+Genesis 7:10-12 highlighted text: in the second month for that year, the 17th day
+ఆ సంవత్సరంలోని రెండవ నెల పదిహేడవ రోజున is not included in the text
+Genesis 7:10-12 highlighted text: began to spring up
+ఉబికి పొంగి is not included in the text
+Genesis 7:21-24 highlighted text: గాలిని పీల్చే is exact match of BEN Text Options
+Genesis 7:21-24 highlighted text: దేవుడు నాశనం చేశాడు is exact match of BEN Text Options
+**Genesis 8:1–22**
+Genesis 8:1a highlighted text: జ్ఞాపకముంచుకొనెను.
+ is not included in the text
+Genesis 8:13-14 highlighted text: మొదటి నెలలో (హెబ్రీ సంవత్సరములో) is not included in the text
+Genesis 8:15-17 highlighted text: భూమిమీద పాకుచున్న సమస్త ప్రాణులు is not included in the text
+**Genesis 9a:1–17**
+**Genesis 9బి:18–29**
+Genesis 9:18-19 highlighted text: షేము, హాము, యాఫేతు is not included in the text
+Genesis 9:18-19 highlighted text:  నోహు ముగ్గురు కుమారుల సంతతివలన సమస్త భూమి నిండెను. is not included in the text
+Genesis 9:20-22 highlighted text: కనానుకు తండ్రియైన హాము is not included in the text
+Genesis 9:24 highlighted text: తన చిన్న కుమారుడైన హాము తనయెడల ఎలా ప్రవర్తించెనో is not included in the text
+**Genesis 18b:16-33**
+Genesis 18:20-21 highlighted text: ఆయన ఎదుట నిలబడి ఉన్నాడు is not included in the text
+Genesis 18:20-21 highlighted text: నీతిమంతులను దుష్టులతో కలిసి నిజంగానే నాశనం చేస్తావా? is not included in the text
+Genesis 18:20-21 highlighted text: ఆ పట్టణంలో is not included in the text
+Genesis 18:20-21 highlighted text: నాశనం is not included in the text
+Genesis 18:20-21 highlighted text: నీకు తగినది కాదు is not included in the text
+Genesis 18:20-21 highlighted text: నా ప్రభువా is not included in the text
+Genesis 18:20-21 highlighted text: ప్రభువా is not included in the text
+Genesis 18:20-21 highlighted text: నా ప్రభువా is not included in the text
+Genesis 18:20-21 highlighted text: నా ప్రభువా is not included in the text
+Genesis 18:20-21 highlighted text: ఇంకొకసారి మాత్రమే is not included in the text
+Genesis 18:20-21 highlighted text: వెళ్లిపోయాడు is not included in the text
+**Genesis 19b:30-37**
+Genesis Genesis no chapters are present
+**Genesis 19ఎ:1-11**
+Genesis Genesis no chapters are present

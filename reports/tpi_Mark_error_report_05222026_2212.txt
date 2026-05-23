@@ -1,0 +1,9 @@
+**Mark 4:35-,41,yyn2,test**
+**Mark 5:1-43,yyn,draft**
+**Mark 5:21-43,for,yyn2,traim**
+**Mark 5:1-43,test,-cck+au**
+Mark 5:1-3 highlighted text:  arrived  is not included in the text
+Mark 5:24-26 highlighted text: i no orait liklik nogat
+ is not included in the text
+**Mark 1:32-39,yyn2,test**
+passageOverview: Error saving resource( &list=PLH0Szn1yYNec6O3ZOZzAMb2WW2abJwzZ-Mark Overview SQ TBP.mp4 ) to firestore: File not found

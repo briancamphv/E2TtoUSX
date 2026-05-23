@@ -10,6 +10,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "@mailchimp/mailchimp_marketing": "^3.0.80",
     "adm-zip": "^0.5.16",
     "fast-xml-parser": "^5.3.0",
     "jszip": "^3.10.1",

@@ -1,0 +1,1032 @@
+**Genesis ,50:1-26**
+Genesis 50:1: audio file not found: Hin Gen 50 1.mp3
+Genesis Genesis 50:1: Error saving resource( Hin Gen 50 1.mp3 ) to firestore: File not found
+Genesis 50:2: audio file not found:  Hin  Gen 50 2.mp3
+Genesis Genesis 50:2: Error saving resource(  Hin  Gen 50 2.mp3 ) to firestore: File not found
+Genesis 50:3: audio file not found:  Hin  Gen 50 3.mp3
+Genesis Genesis 50:3: Error saving resource(  Hin  Gen 50 3.mp3 ) to firestore: File not found
+Genesis 50:4: audio file not found:  Hin  Gen 50 4.mp3
+Genesis Genesis 50:4: Error saving resource(  Hin  Gen 50 4.mp3 ) to firestore: File not found
+Genesis 50:5: audio file not found:  Hin  Gen 50 5.mp3
+Genesis Genesis 50:5: Error saving resource(  Hin  Gen 50 5.mp3 ) to firestore: File not found
+Genesis 50:6-7: audio file not found:  Hin  Gen 50 6-7.mp3
+Genesis Genesis 50:6-7: Error saving resource(  Hin  Gen 50 6-7.mp3 ) to firestore: File not found
+Genesis 50:6-7 highlighted text: जाकर यूसुफ से कहो, ‘जाकर अपने पिता के शव को दफनाओ, जैसा कि तुमने प्रतिज्ञा की थी।’ is not included in the text
+Genesis 50:6-7 highlighted text:  All
+सभी is not included in the text
+Genesis 50:8-9: audio file not found:  Hin  Gen 50 8-9.mp3
+Genesis Genesis 50:8-9: Error saving resource(  Hin  Gen 50 8-9.mp3 ) to firestore: File not found
+Genesis 50:10: audio file not found:  Hin  Gen 50 10.mp3
+Genesis Genesis 50:10: Error saving resource(  Hin  Gen 50 10.mp3 ) to firestore: File not found
+Genesis 50:10 highlighted text: जहाँ तंबू लगाने के लिए पर्याप्त जगह और पानी था। is not included in the text
+Genesis 50:11: audio file not found: Hin Gen 50 11.mp3
+Genesis Genesis 50:11: Error saving resource( Hin Gen 50 11.mp3 ) to firestore: File not found
+Genesis 50:12-13: audio file not found: Hin  Gen 50 12-13.mp3
+Genesis Genesis 50:12-13: Error saving resource( Hin  Gen 50 12-13.mp3 ) to firestore: File not found
+Genesis 50:14: audio file not found:  Hin  Gen 50 14.mp3
+Genesis Genesis 50:14: Error saving resource(  Hin  Gen 50 14.mp3 ) to firestore: File not found
+Genesis 50:15-16: audio file not found: Hin Gen 50 15-16.mp3
+Genesis Genesis 50:15-16: Error saving resource( Hin Gen 50 15-16.mp3 ) to firestore: File not found
+Genesis 50:15-16 highlighted text: “मान लो यूसुफ अब भी हमसे घृणा करता है और उन सभी बुरे कामों का बदला लेने की कोशिश करता है जो हमने कई साल पहले उसके साथ किए थे?”
+ is not included in the text
+Genesis 50:17: audio file not found: Hin Gen 50 17.mp3
+Genesis Genesis 50:17: Error saving resource( Hin Gen 50 17.mp3 ) to firestore: File not found
+Genesis 50:18-19: audio file not found:  Hin  Gen 50 18-19.mp3
+Genesis Genesis 50:18-19: Error saving resource(  Hin  Gen 50 18-19.mp3 ) to firestore: File not found
+Genesis 50:18-19 highlighted text: तब यूसुफ के is not included in the text
+Genesis 50:18-19 highlighted text: उसके सामने ज़मीन पर गिर पड़े। is not included in the text
+Genesis 50:18-19 highlighted text:  
+मैं परमेश्वर नहीं हूँ, is not included in the text
+Genesis 50:20: audio file not found: Hin  Gen 50 20.mp3
+Genesis Genesis 50:20: Error saving resource( Hin  Gen 50 20.mp3 ) to firestore: File not found
+Genesis 50:21: audio file not found:  Hin  Gen 50 21.mp3
+Genesis Genesis 50:21: Error saving resource(  Hin  Gen 50 21.mp3 ) to firestore: File not found
+Genesis 50:22-23: audio file not found: Hin  Gen 50 22-23.mp3
+Genesis Genesis 50:22-23: Error saving resource( Hin  Gen 50 22-23.mp3 ) to firestore: File not found
+Genesis 50:24: audio file not found:  Hin  Gen 50 24.mp3
+Genesis Genesis 50:24: Error saving resource(  Hin  Gen 50 24.mp3 ) to firestore: File not found
+Genesis 50:25: audio file not found:  Hin  Gen 50 25.mp3
+Genesis Genesis 50:25: Error saving resource(  Hin  Gen 50 25.mp3 ) to firestore: File not found
+Genesis 50:26: audio file not found: Hin  Gen 50 26.mp3
+Genesis Genesis 50:26: Error saving resource( Hin  Gen 50 26.mp3 ) to firestore: File not found
+**Genesis 11a:1-9**
+**Genesis 1.1-2.4अ**
+Genesis bookInfo summary is missing or empty
+Genesis 1:9-10 highlighted text: पानी के ऊपर is not included in the text
+Genesis 1:9-10 highlighted text: पानी के नीचे is not included in the text
+Genesis 1:26 commentary: अपने जैसे मनुष्य Error saving resource( Made IN the image of God | Unseen Realm 101 | Dr. Michael Heiser ) to firestore: File not found
+passageOverview: Retry limit exceeded - "<!DOCTYPE html>\n<html lang=en>\n  <meta charset=utf-8>\n  <meta name=viewport content=\"initial-scale=1, minimum-scale=1, width=device-width\">\n  <title>Error 408 (Request Timeout)!!1</title>\n  <style>\n    *{margin:0;padding:0}html,code{font:15px/22px arial,sans-serif}html{background:#fff;color:#222;padding:15px}body{margin:7% auto 0;max-width:390px;min-height:180px;padding:30px 0 15px}* > body{background:url(//www.google.com/images/errors/robot.png) 100% 5px no-repeat;padding-right:205px}p{margin:11px 0 22px;overflow:hidden}ins{color:#777;text-decoration:none}a img{border:0}@media screen and (max-width:772px){body{background:none;margin-top:0;max-width:none;padding-right:0}}#logo{background:url(//www.google.com/images/branding/googlelogo/1x/googlelogo_color_150x54dp.png) no-repeat;margin-left:-5px}@media only screen and (min-resolution:192dpi){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat 0% 0%/100% 100%;-moz-border-image:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) 0}}@media only screen and (-webkit-min-device-pixel-ratio:2){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat;-webkit-background-size:100% 100%}}#logo{display:inline-block;height:54px;width:150px}\n  </style>\n  <a href=//www.google.com/><span id=logo aria-label=Google></span></a>\n  <p><b>408.</b> <ins>That’s an error.</ins>\n  <p>Your client has taken too long to issue its request.  <ins>That’s all we know.</ins>\n"
+**Genesis 10:1-32**
+**Genesis 12a:1-9**
+Genesis 12:1 commentary: <i>उन दिनों</i> Error saving resource( TBP Genesis-12-50.mp4 ) to firestore: File not found
+**Genesis 13:1-18**
+Genesis 13:8-9: audio file not found: Hin Gen 13 8-9.mp3
+Genesis Genesis 13:8-9: Error saving resource( Hin Gen 13 8-9.mp3 ) to firestore: File not found
+Genesis Genesis 12:14-15: is less than the previous pericope's chapter of: 13
+Genesis 12:14-15 highlighted text: उत्तर और दक्षिण, पूरब और पश्चिम, जहाँ तक तुम्हारी नज़र जाती है, देखो|
+ is not included in the text
+**Genesis 11b:10-31**
+Genesis 11:10-13 highlighted text: या और वह पिता बनता रहा is not included in the text
+Genesis 11:29-30 highlighted text: या फिर वह बच्चे पैदा नहीं कर पा रही थी। is not included in the text
+Genesis 11:31-32 highlighted text: या वह उसके साथ गया
+या उसके साथ ये लोग भी जा रहे थे is not included in the text
+**Genesis 14a:1-16**
+Genesis 14:1-2: audio file not found:  Hin Gen 14 1-2.mp3
+Genesis Genesis 14:1-2: Error saving resource(  Hin Gen 14 1-2.mp3 ) to firestore: File not found
+Genesis 14:7-8: audio file not found: Hin Gen 14 7-8.mp3
+Genesis Genesis 14:7-8: Error saving resource( Hin Gen 14 7-8.mp3 ) to firestore: File not found
+**Genesis 12b:10-20**
+**Genesis 14b:17-24**
+Genesis 14:18: audio file not found: Hin Gen 14 18.mp3
+Genesis Genesis 14:18: Error saving resource( Hin Gen 14 18.mp3 ) to firestore: File not found
+Genesis 14:19-20: audio file not found: Hin Gen 14 19-20.mp3
+Genesis Genesis 14:19-20: Error saving resource( Hin Gen 14 19-20.mp3 ) to firestore: File not found
+Genesis 14:22-23: audio file not found: Hin Gen 14 22-23.mp3
+Genesis Genesis 14:22-23: Error saving resource( Hin Gen 14 22-23.mp3 ) to firestore: File not found
+Genesis 14:22-23 highlighted text: यह मैं ही हूँ जिसने अब्राम को अमीर बनाया।’ is not included in the text
+Genesis 14:22-23 highlighted text:  
+सच में यह नहीं कह पाओगे, ‘यह मैं ही हूँ जिसने अब्राम को अमीर बनाया।’ is not included in the text
+**Genesis 15:1-21**
+Genesis 15:5: audio file not found:  Hin Gen 15 5.mp3
+Genesis Genesis 15:5: Error saving resource(  Hin Gen 15 5.mp3 ) to firestore: File not found
+Genesis 15:6: audio file not found: Hin Gen 15_6.mp3
+Genesis Genesis 15:6: Error saving resource( Hin Gen 15_6.mp3 ) to firestore: File not found
+**Genesis 16:1-16**
+Genesis 16:6 highlighted text: <i>
+</i>और अब्राम का घर छोड़ दिया। is not included in the text
+Genesis 16:7-8 highlighted text: यहोवा ने अपने दूत को हाजिरा से जलस्रोत पर मिलने भेजा। is not included in the text
+Genesis 16:7-8 commentary: यहोवा ने अपने दूत को हाजिरा से जलस्रोत पर मिलने भेजा। Error saving resource( TBP Angel-of-the-Lord.mp4 ) to firestore: File not found
+Genesis 16:7-8 commentary: यहोवा ने अपने दूत को हाजिरा से जलस्रोत पर मिलने भेजा। Error saving resource( Tbp प्रभु का दूत. ) to firestore: File not found
+Genesis 16:7-8 commentary: यहोवा ने अपने दूत को हाजिरा से जलस्रोत पर मिलने भेजा। Error saving resource( mp4 ) to firestore: File not found
+**Genesis 17b:15-27**
+Genesis 17:17-18: audio file not found: Hin Gen 17 17-18.mp3
+Genesis Genesis 17:17-18: Error saving resource( Hin Gen 17 17-18.mp3 ) to firestore: File not found
+Genesis 17:19: audio file not found: Hin Gen 17 19.mp3
+Genesis Genesis 17:19: Error saving resource( Hin Gen 17 19.mp3 ) to firestore: File not found
+**Genesis 17a:1-14**
+Genesis 17:1-2 highlighted text: मैं सर्वशक्तिमान परमेश्वर हूँ। is not included in the text
+Genesis 17:3-4 highlighted text: अनेक जातियों के लोग तुम्हारे वंशज होंगे।” is not included in the text
+Genesis 17:5-6 highlighted text: तुम्हारा नाम अब्राहम है। is not included in the text
+Genesis 17:13-14 highlighted text: अविश्वास किया है और मेरी वाचा का उल्लंघन किया है। is not included in the text
+**Genesis 18a:1-15**
+Genesis 18:1a highlighted text: <i>
+</i>उस वर्ष एक गर्म दिन, is not included in the text
+Genesis 18:10b-12 highlighted text: भला मुझे बच्चे को जन्म देने का सुख कैसे मिल सकता है?” is not included in the text
+**Genesis 18b:16-33**
+Genesis 18:20-21: audio file not found: Hin Gen 18  20-21.mp3
+Genesis Genesis 18:20-21: Error saving resource( Hin Gen 18  20-21.mp3 ) to firestore: File not found
+Genesis 18:25: audio file not found: Hin Gen 18  25.mp3
+Genesis Genesis 18:25: Error saving resource( Hin Gen 18  25.mp3 ) to firestore: File not found
+Genesis 18:28: audio file not found: Hin Gen 18 28.mp3
+Genesis Genesis 18:28: Error saving resource( Hin Gen 18 28.mp3 ) to firestore: File not found
+**Genesis 19a:1-11**
+Genesis 19:1: audio file not found: Hin Gen 19 1.mp3
+Genesis Genesis 19:1: Error saving resource( Hin Gen 19 1.mp3 ) to firestore: File not found
+Genesis 19:4-5: audio file not found: Hin Gen 19 4-5.mp3
+Genesis Genesis 19:4-5: Error saving resource( Hin Gen 19 4-5.mp3 ) to firestore: File not found
+Genesis 19:14 highlighted text: वादा किया था। is not included in the text
+Genesis 19:15: audio file not found: Hin Gen 19 15.mp3
+Genesis Genesis 19:15: Error saving resource( Hin Gen 19 15.mp3 ) to firestore: File not found
+Genesis 19:16: audio file not found: Hin Gen 19 16.mp3
+Genesis Genesis 19:16: Error saving resource( Hin Gen 19 16.mp3 ) to firestore: File not found
+Genesis 19:26: audio file not found: Hin Gen 19 26.mp3
+Genesis Genesis 19:26: Error saving resource( Hin Gen 19 26.mp3 ) to firestore: File not found
+Genesis 19:27-28: audio file not found: Hin Gen 19 27-28.mp3
+Genesis Genesis 19:27-28: Error saving resource( Hin Gen 19 27-28.mp3 ) to firestore: File not found
+**Genesis 19b:30-37**
+Genesis 19:30: audio file not found: Hin Gen 19 30.mp3
+Genesis Genesis 19:30: Error saving resource( Hin Gen 19 30.mp3 ) to firestore: File not found
+Genesis 19:31: audio file not found: Hin Gen 19 31.mp3
+Genesis Genesis 19:31: Error saving resource( Hin Gen 19 31.mp3 ) to firestore: File not found
+Genesis 19:32: audio file not found: Hin Gen 19 32.mp3
+Genesis Genesis 19:32: Error saving resource( Hin Gen 19 32.mp3 ) to firestore: File not found
+Genesis 19:33: audio file not found: Hin Gen 19 33.mp3
+Genesis Genesis 19:33: Error saving resource( Hin Gen 19 33.mp3 ) to firestore: File not found
+Genesis 19:33 highlighted text: वह उठी। is not included in the text
+Genesis 19:34: audio file not found: Hin Gen 19 34.mp3
+Genesis Genesis 19:34: Error saving resource( Hin Gen 19 34.mp3 ) to firestore: File not found
+Genesis 19:35: audio file not found: Hin Gen 19 35.mp3
+Genesis Genesis 19:35: Error saving resource( Hin Gen 19 35.mp3 ) to firestore: File not found
+Genesis 19:36: audio file not found: Hin Gen 19 36.mp3
+Genesis Genesis 19:36: Error saving resource( Hin Gen 19 36.mp3 ) to firestore: File not found
+Genesis 19:37-38: audio file not found: Hin Gen 19 37-38.mp3
+Genesis Genesis 19:37-38: Error saving resource( Hin Gen 19 37-38.mp3 ) to firestore: File not found
+**Genesis 20:1-18**
+Genesis 20:7: picture file not found: “
+Genesis 20:7: Error saving resource( “ ) to firestore: File not found
+Genesis 20:10-11 highlighted text: मैंने ये बातें इसलिए कहीं क्योंकि मैंने सोचा, ‘इस जगह के लोग परमेश्वर का आदर नहीं करते। अगर वे परमेश्वर का आदर नहींकरते, तो वे मुझे मार डालेंगे और मेरी पत्नी को ले जाएंगे।“ is not included in the text
+Genesis 20:13 highlighted text: तो मैंने उससे कहा, ‘तुम मेरे प्रति अपना सच्चा प्रेम इस प्रकार प्रकट कर सकती हो: हम जहाँ भी जाएँ is not included in the text
+Genesis 20:17-18: audio file not found: Hin Gen 20 17-18.mp3
+Genesis Genesis 20:17-18: Error saving resource( Hin Gen 20 17-18.mp3 ) to firestore: File not found
+Genesis 20:17-18 highlighted text: गर्भवती हो सकें। is not included in the text
+**Genesis 21a:1-21**
+Genesis 21:3-5: audio file not found: Hin Gen 21 3-5.mp3
+Genesis Genesis 21:3-5: Error saving resource( Hin Gen 21 3-5.mp3 ) to firestore: File not found
+Genesis 21:8: audio file not found:  Hin Gen 21 8.mp3
+Genesis Genesis 21:8: Error saving resource(  Hin Gen 21 8.mp3 ) to firestore: File not found
+Genesis 21:14: audio file not found: Hin Gen 21 14.mp3
+Genesis Genesis 21:14: Error saving resource( Hin Gen 21 14.mp3 ) to firestore: File not found
+Genesis 21:19: audio file not found: Hin Gen 21 19.mp3
+Genesis Genesis 21:19: Error saving resource( Hin Gen 21 19.mp3 ) to firestore: File not found
+Genesis 21:20-21: audio file not found:  Hin Gen 21 20-21.mp3
+Genesis Genesis 21:20-21: Error saving resource(  Hin Gen 21 20-21.mp3 ) to firestore: File not found
+**Genesis 21ब:22-34**
+Genesis 21:24-25: audio file not found: Hin Gen 21 24-25.mp3
+Genesis Genesis 21:24-25: Error saving resource( Hin Gen 21 24-25.mp3 ) to firestore: File not found
+Genesis 21:28-29: audio file not found: Hin Gen 21 28-29.mp3
+Genesis Genesis 21:28-29: Error saving resource( Hin Gen 21 28-29.mp3 ) to firestore: File not found
+**Genesis 22:1-24**
+Genesis 22:1 highlighted text: मैं सुन रहा हूँ।” is not included in the text
+Genesis 22:9: audio file not found: Hin Gen 22 9.mp3
+Genesis Genesis 22:9: Error saving resource( Hin Gen 22 9.mp3 ) to firestore: File not found
+Genesis 22:10-11: audio file not found: Hin Gen 22 10-11.mp3
+Genesis Genesis 22:10-11: Error saving resource( Hin Gen 22 10-11.mp3 ) to firestore: File not found
+Genesis 22:12: audio file not found: Hin Gen 22 12.mp3
+Genesis Genesis 22:12: Error saving resource( Hin Gen 22 12.mp3 ) to firestore: File not found
+Genesis 22:13: audio file not found: Hin Gen 22 13.mp3
+Genesis Genesis 22:13: Error saving resource( Hin Gen 22 13.mp3 ) to firestore: File not found
+Genesis 22:14: audio file not found: Hin Gen 22 14.mp3
+Genesis Genesis 22:14: Error saving resource( Hin Gen 22 14.mp3 ) to firestore: File not found
+Genesis 22:15-17: audio file not found: Hin Gen 22 15-17.mp3
+Genesis Genesis 22:15-17: Error saving resource( Hin Gen 22 15-17.mp3 ) to firestore: File not found
+Genesis 22:18: audio file not found: Hin Gen 22 18.mp3
+Genesis Genesis 22:18: Error saving resource( Hin Gen 22 18.mp3 ) to firestore: File not found
+Genesis 22:19: audio file not found: Hin  Gen 22 19.mp3
+Genesis Genesis 22:19: Error saving resource( Hin  Gen 22 19.mp3 ) to firestore: File not found
+Genesis 22:20: audio file not found: Hin Gen 22 20.mp3
+Genesis Genesis 22:20: Error saving resource( Hin Gen 22 20.mp3 ) to firestore: File not found
+Genesis 22:21-23a: audio file not found: Hin Gen 22 21-23.mp3
+Genesis Genesis 22:21-23a: Error saving resource( Hin Gen 22 21-23.mp3 ) to firestore: File not found
+Genesis 22:23-b-24: audio file not found: Hin Gen 22 23-24.mp3
+Genesis Genesis 22:23-b-24: Error saving resource( Hin Gen 22 23-24.mp3 ) to firestore: File not found
+**Genesis 23:1-20**
+Genesis 23:3-4: audio file not found: Hin Gen 23 3-4.mp3
+Genesis Genesis 23:3-4: Error saving resource( Hin Gen 23 3-4.mp3 ) to firestore: File not found
+Genesis 23:5-6 highlighted text: एक शक्तिशाली राजकुमार is not included in the text
+Genesis 23:7-8a: audio file not found:  Hin Gen 23 7.mp3
+Genesis Genesis 23:7-8a: Error saving resource(  Hin Gen 23 7.mp3 ) to firestore: File not found
+Genesis 23:11: audio file not found: Hin Gen 23 11.mp3
+Genesis Genesis 23:11: Error saving resource( Hin Gen 23 11.mp3 ) to firestore: File not found
+Genesis 23:14-15: audio file not found: Hin Gen 23 14-15.mp3
+Genesis Genesis 23:14-15: Error saving resource( Hin Gen 23 14-15.mp3 ) to firestore: File not found
+Genesis 23:16: audio file not found: Hin Gen 23 16.mp3
+Genesis Genesis 23:16: Error saving resource( Hin Gen 23 16.mp3 ) to firestore: File not found
+Genesis 23:17-18: audio file not found:  Hin Gen 23 17-18.mp3
+Genesis Genesis 23:17-18: Error saving resource(  Hin Gen 23 17-18.mp3 ) to firestore: File not found
+Genesis 23:19: audio file not found: Hin Gen 23 19-20 .mp3
+Genesis Genesis 23:19: Error saving resource( Hin Gen 23 19-20 .mp3 ) to firestore: File not found
+**Genesis 24:1-67**
+Genesis 24:1: audio file not found: Hin Gen 24 1.mp3
+Genesis Genesis 24:1: Error saving resource( Hin Gen 24 1.mp3 ) to firestore: File not found
+Genesis 24:2: audio file not found: Hin Gen 24 2.mp3
+Genesis Genesis 24:2: Error saving resource( Hin Gen 24 2.mp3 ) to firestore: File not found
+Genesis 24:2 highlighted text: एक गंभीर प्रतिज्ञा/प्रतिज्ञा करो। is not included in the text
+Genesis 24:3-4: audio file not found: Hin Gen 24 3-4.mp3
+Genesis Genesis 24:3-4: Error saving resource( Hin Gen 24 3-4.mp3 ) to firestore: File not found
+Genesis 24:5 highlighted text: उस देश में जाओ जिसे मैंने छोड़ा है is not included in the text
+Genesis 24:6-7a: audio file not found: Hin Gen 24 6-7a.mp3
+Genesis Genesis 24:6-7a: Error saving resource( Hin Gen 24 6-7a.mp3 ) to firestore: File not found
+Genesis 24:7b: audio file not found: Hin Gen 24 7b.mp3
+Genesis Genesis 24:7b: Error saving resource( Hin Gen 24 7b.mp3 ) to firestore: File not found
+Genesis 24:8: audio file not found: Hin Gen 24 8.mp3
+Genesis Genesis 24:8: Error saving resource( Hin Gen 24 8.mp3 ) to firestore: File not found
+Genesis 24:9: audio file not found: Hin Gen 24 9.mp3
+Genesis Genesis 24:9: Error saving resource( Hin Gen 24 9.mp3 ) to firestore: File not found
+Genesis 24:10: audio file not found:  Hin Gen 24 10.mp3
+Genesis Genesis 24:10: Error saving resource(  Hin Gen 24 10.mp3 ) to firestore: File not found
+Genesis 24:11: audio file not found: hin Gen 24 11.mp3
+Genesis Genesis 24:11: Error saving resource( hin Gen 24 11.mp3 ) to firestore: File not found
+Genesis 24:12-13: audio file not found: Hin Gen 24 12-13.mp3
+Genesis Genesis 24:12-13: Error saving resource( Hin Gen 24 12-13.mp3 ) to firestore: File not found
+Genesis 24:14: audio file not found: Hin Gen 24 14.mp3
+Genesis Genesis 24:14: Error saving resource( Hin Gen 24 14.mp3 ) to firestore: File not found
+Genesis 24:15: audio file not found: Hin Gen 24 15.mp3
+Genesis Genesis 24:15: Error saving resource( Hin Gen 24 15.mp3 ) to firestore: File not found
+Genesis 24:15 highlighted text:  
+सेवक की प्रार्थना समाप्त होने से पहले ही, is not included in the text
+Genesis 24:16-17: audio file not found: Hin Gen 24 16-17.mp3
+Genesis Genesis 24:16-17: Error saving resource( Hin Gen 24 16-17.mp3 ) to firestore: File not found
+Genesis 24:16-17 highlighted text: , कुंवारी युवती थी, जिसके साथ किसी पुरुष का यौन संबंध नहीं था is not included in the text
+Genesis 24:18-19: audio file not found: Hin Gen 24 18-19.mp3
+Genesis Genesis 24:18-19: Error saving resource( Hin Gen 24 18-19.mp3 ) to firestore: File not found
+Genesis 24:20-21: audio file not found: Hin Gen 24 20-21.mp3
+Genesis Genesis 24:20-21: Error saving resource( Hin Gen 24 20-21.mp3 ) to firestore: File not found
+Genesis 24:22-23: audio file not found: Hin Gen 24 22-23.mp3
+Genesis Genesis 24:22-23: Error saving resource( Hin Gen 24 22-23.mp3 ) to firestore: File not found
+Genesis 24:24-25: audio file not found: Hin Gen 24 24-25.mp3
+Genesis Genesis 24:24-25: Error saving resource( Hin Gen 24 24-25.mp3 ) to firestore: File not found
+Genesis 24:26-27: audio file not found: Hin Gen 24 26-27.mp3
+Genesis Genesis 24:26-27: Error saving resource( Hin Gen 24 26-27.mp3 ) to firestore: File not found
+Genesis 24:28-29: audio file not found: Hin Gen 24 28-29.mp3
+Genesis Genesis 24:28-29: Error saving resource( Hin Gen 24 28-29.mp3 ) to firestore: File not found
+Genesis 24:30: audio file not found: Hin Gen 24 30.mp3
+Genesis Genesis 24:30: Error saving resource( Hin Gen 24 30.mp3 ) to firestore: File not found
+Genesis 24:32b: audio file not found: Hin Gen 24 32b.mp3
+Genesis Genesis 24:32b: Error saving resource( Hin Gen 24 32b.mp3 ) to firestore: File not found
+Genesis 24:33-34: audio file not found: Hin Gen 24 33-34.mp3
+Genesis Genesis 24:33-34: Error saving resource( Hin Gen 24 33-34.mp3 ) to firestore: File not found
+Genesis 24:35: audio file not found: Hin Gen 24 35.mp3
+Genesis Genesis 24:35: Error saving resource( Hin Gen 24 35.mp3 ) to firestore: File not found
+Genesis 24:36-37: audio file not found: Hin Gen 24 36-37.mp3
+Genesis Genesis 24:36-37: Error saving resource( Hin Gen 24 36-37.mp3 ) to firestore: File not found
+Genesis 24:38-39: audio file not found: hin Gen 24 38-39.mp3
+Genesis Genesis 24:38-39: Error saving resource( hin Gen 24 38-39.mp3 ) to firestore: File not found
+Genesis 24:41: audio file not found: Hin Gen 24 41.mp3
+Genesis Genesis 24:41: Error saving resource( Hin Gen 24 41.mp3 ) to firestore: File not found
+Genesis 24:42-43a: audio file not found: Hin Gen 24 42.mp3
+Genesis Genesis 24:42-43a: Error saving resource( Hin Gen 24 42.mp3 ) to firestore: File not found
+Genesis 24:43b: audio file not found: Hin Gen 24 43.mp3
+Genesis Genesis 24:43b: Error saving resource( Hin Gen 24 43.mp3 ) to firestore: File not found
+Genesis 24:44: audio file not found: Hin Gen 24 44.mp3
+Genesis Genesis 24:44: Error saving resource( Hin Gen 24 44.mp3 ) to firestore: File not found
+Genesis 24:45: audio file not found: Hin Gen 24 45.mp3
+Genesis Genesis 24:45: Error saving resource( Hin Gen 24 45.mp3 ) to firestore: File not found
+Genesis 24:46: audio file not found: Hin Gen 24 46.mp3
+Genesis Genesis 24:46: Error saving resource( Hin Gen 24 46.mp3 ) to firestore: File not found
+Genesis 24:47: audio file not found: Hin Gen 24 47.mp3
+Genesis Genesis 24:47: Error saving resource( Hin Gen 24 47.mp3 ) to firestore: File not found
+Genesis 24:49: audio file not found: Hin Gen 24 49.mp3
+Genesis Genesis 24:49: Error saving resource( Hin Gen 24 49.mp3 ) to firestore: File not found
+Genesis 24:50-51: audio file not found: Hin  Gen 24 50-51.mp3
+Genesis Genesis 24:50-51: Error saving resource( Hin  Gen 24 50-51.mp3 ) to firestore: File not found
+Genesis 24:52-53: audio file not found: Hin  Gen 24 52-53.mp3
+Genesis Genesis 24:52-53: Error saving resource( Hin  Gen 24 52-53.mp3 ) to firestore: File not found
+Genesis 24:54: audio file not found: Hin  Gen 24 54.mp3
+Genesis Genesis 24:54: Error saving resource( Hin  Gen 24 54.mp3 ) to firestore: File not found
+Genesis 24:55-56: audio file not found: Hin  Gen 24 55-56.mp3
+Genesis Genesis 24:55-56: Error saving resource( Hin  Gen 24 55-56.mp3 ) to firestore: File not found
+Genesis 24:57-58: audio file not found: Hin  Gen 24 57-58.mp3
+Genesis Genesis 24:57-58: Error saving resource( Hin  Gen 24 57-58.mp3 ) to firestore: File not found
+Genesis 24:59-60a: audio file not found: Hin  Gen 24 59-60a.mp3
+Genesis Genesis 24:59-60a: Error saving resource( Hin  Gen 24 59-60a.mp3 ) to firestore: File not found
+Genesis 24:60b: audio file not found: Hin  Gen 24 60b.mp3
+Genesis Genesis 24:60b: Error saving resource( Hin  Gen 24 60b.mp3 ) to firestore: File not found
+Genesis 24:61: audio file not found: Hin  Gen 24 61.mp3
+Genesis Genesis 24:61: Error saving resource( Hin  Gen 24 61.mp3 ) to firestore: File not found
+Genesis 24:62: audio file not found: Hin  Gen 24 62.mp3
+Genesis Genesis 24:62: Error saving resource( Hin  Gen 24 62.mp3 ) to firestore: File not found
+Genesis 24:63: audio file not found: Hin  Gen 24 63.mp3
+Genesis Genesis 24:63: Error saving resource( Hin  Gen 24 63.mp3 ) to firestore: File not found
+Genesis 24:64-65a: audio file not found: Hin  Gen 24 64-65a.mp3
+Genesis Genesis 24:64-65a: Error saving resource( Hin  Gen 24 64-65a.mp3 ) to firestore: File not found
+Genesis 24:65b: audio file not found: Hin  Gen 24 65b.mp3
+Genesis Genesis 24:65b: Error saving resource( Hin  Gen 24 65b.mp3 ) to firestore: File not found
+Genesis 24:66: audio file not found: Hin  Gen 24 66.mp3
+Genesis Genesis 24:66: Error saving resource( Hin  Gen 24 66.mp3 ) to firestore: File not found
+Genesis 24:67: audio file not found: Hin  Gen 24 67.mp3
+Genesis Genesis 24:67: Error saving resource( Hin  Gen 24 67.mp3 ) to firestore: File not found
+**Genesis 25:1-34**
+Genesis 25:1-2: audio file not found: HIn Gen 25 1-2.mp3
+Genesis Genesis 25:1-2: Error saving resource( HIn Gen 25 1-2.mp3 ) to firestore: File not found
+Genesis 25:3-4: audio file not found: HIn  Gen 25 3-4.mp3
+Genesis Genesis 25:3-4: Error saving resource( HIn  Gen 25 3-4.mp3 ) to firestore: File not found
+Genesis 25:5-6: audio file not found:  HIn  Gen 25 5-6.mp3
+Genesis Genesis 25:5-6: Error saving resource(  HIn  Gen 25 5-6.mp3 ) to firestore: File not found
+Genesis 25:7-8: audio file not found: HIn  Gen 25 7-8.mp3
+Genesis Genesis 25:7-8: Error saving resource( HIn  Gen 25 7-8.mp3 ) to firestore: File not found
+Genesis 25:9-10: audio file not found: HIn  Gen 25 9-10.mp3
+Genesis Genesis 25:9-10: Error saving resource( HIn  Gen 25 9-10.mp3 ) to firestore: File not found
+Genesis 25:11: audio file not found: HIn  Gen 25 11.mp3
+Genesis Genesis 25:11: Error saving resource( HIn  Gen 25 11.mp3 ) to firestore: File not found
+Genesis 25:12: audio file not found: HIn  Gen 25 12.mp3
+Genesis Genesis 25:12: Error saving resource( HIn  Gen 25 12.mp3 ) to firestore: File not found
+Genesis 25:13-15: audio file not found: HIn  Gen 25 13-15.mp3
+Genesis Genesis 25:13-15: Error saving resource( HIn  Gen 25 13-15.mp3 ) to firestore: File not found
+Genesis 25:16: audio file not found: HIn  Gen 25 16.mp3
+Genesis Genesis 25:16: Error saving resource( HIn  Gen 25 16.mp3 ) to firestore: File not found
+Genesis 25:17: audio file not found:  HIn  Gen 25 17.mp3
+Genesis Genesis 25:17: Error saving resource(  HIn  Gen 25 17.mp3 ) to firestore: File not found
+Genesis 25:18: audio file not found:  HIn  Gen 25 18.mp3
+Genesis Genesis 25:18: Error saving resource(  HIn  Gen 25 18.mp3 ) to firestore: File not found
+Genesis 25:19-20: audio file not found: HIn  Gen 25 19-20.mp3
+Genesis Genesis 25:19-20: Error saving resource( HIn  Gen 25 19-20.mp3 ) to firestore: File not found
+Genesis 25:21: audio file not found: HIn  Gen 25 21.mp3
+Genesis Genesis 25:21: Error saving resource( HIn  Gen 25 21.mp3 ) to firestore: File not found
+Genesis 25:21 highlighted text:  
+गर्भ धारण करने में असमर्थ थी। is not included in the text
+Genesis 25:22: audio file not found: HIn  Gen 25 22.mp3
+Genesis Genesis 25:22: Error saving resource( HIn  Gen 25 22.mp3 ) to firestore: File not found
+Genesis 25:23: audio file not found: HIn  Gen 25 23.mp3
+Genesis Genesis 25:23: Error saving resource( HIn  Gen 25 23.mp3 ) to firestore: File not found
+Genesis 25:24-25: audio file not found: HIn  Gen 25 24-25.mp3
+Genesis Genesis 25:24-25: Error saving resource( HIn  Gen 25 24-25.mp3 ) to firestore: File not found
+Genesis 25:24-25 highlighted text: 'बालों वाला' is not included in the text
+Genesis 25:26: audio file not found: HIn  Gen 25 26.mp3
+Genesis Genesis 25:26: Error saving resource( HIn  Gen 25 26.mp3 ) to firestore: File not found
+Genesis 25:27-28: audio file not found:  HIn  Gen 25 27-28.mp3
+Genesis Genesis 25:27-28: Error saving resource(  HIn  Gen 25 27-28.mp3 ) to firestore: File not found
+Genesis 25:29-30a: audio file not found: HIn  Gen 25 29-30.mp3
+Genesis Genesis 25:29-30a: Error saving resource( HIn  Gen 25 29-30.mp3 ) to firestore: File not found
+Genesis 25:30b: audio file not found: HIn  Gen 25 30b.mp3
+Genesis Genesis 25:30b: Error saving resource( HIn  Gen 25 30b.mp3 ) to firestore: File not found
+Genesis 25:31-32: audio file not found: HIn  Gen 25 31-32.mp3
+Genesis Genesis 25:31-32: Error saving resource( HIn  Gen 25 31-32.mp3 ) to firestore: File not found
+Genesis 25:33: audio file not found: HIn  Gen 25 33.mp3
+Genesis Genesis 25:33: Error saving resource( HIn  Gen 25 33.mp3 ) to firestore: File not found
+Genesis 25:34: audio file not found:  HIn  Gen 25 34.mp3
+Genesis Genesis 25:34: Error saving resource(  HIn  Gen 25 34.mp3 ) to firestore: File not found
+**Genesis 26:1-25**
+Genesis 26:1: audio file not found: Hin Gen 26 1.mp3
+Genesis Genesis 26:1: Error saving resource( Hin Gen 26 1.mp3 ) to firestore: File not found
+Genesis 26:2: audio file not found:  Hin  Gen 26 2.mp3
+Genesis Genesis 26:2: Error saving resource(  Hin  Gen 26 2.mp3 ) to firestore: File not found
+Genesis 26:3: audio file not found:  Hin  Gen 26 3.mp3
+Genesis Genesis 26:3: Error saving resource(  Hin  Gen 26 3.mp3 ) to firestore: File not found
+Genesis 26:4: audio file not found:  Hin  Gen 26 4.mp3
+Genesis Genesis 26:4: Error saving resource(  Hin  Gen 26 4.mp3 ) to firestore: File not found
+Genesis 26:5-6: audio file not found:  Hin  Gen 26 5-6.mp3
+Genesis Genesis 26:5-6: Error saving resource(  Hin  Gen 26 5-6.mp3 ) to firestore: File not found
+Genesis 26:7: audio file not found:  Hin  Gen 26 7.mp3
+Genesis Genesis 26:7: Error saving resource(  Hin  Gen 26 7.mp3 ) to firestore: File not found
+Genesis 26:8: audio file not found:  Hin  Gen 26 8.mp3
+Genesis Genesis 26:8: Error saving resource(  Hin  Gen 26 8.mp3 ) to firestore: File not found
+Genesis 26:9: audio file not found:  Hin  Gen 26 9.mp3
+Genesis Genesis 26:9: Error saving resource(  Hin  Gen 26 9.mp3 ) to firestore: File not found
+Genesis 26:10: audio file not found: Hin Gen 26 10.mp3
+Genesis Genesis 26:10: Error saving resource( Hin Gen 26 10.mp3 ) to firestore: File not found
+Genesis 26:11: audio file not found:  Hin  Gen 26 11.mp3
+Genesis Genesis 26:11: Error saving resource(  Hin  Gen 26 11.mp3 ) to firestore: File not found
+Genesis 26:12-14a: audio file not found: Hin  Gen 26 12-14a.mp3
+Genesis Genesis 26:12-14a: Error saving resource( Hin  Gen 26 12-14a.mp3 ) to firestore: File not found
+Genesis 26:14b-15: audio file not found:  Hin  Gen 26 14b-15.mp3
+Genesis Genesis 26:14b-15: Error saving resource(  Hin  Gen 26 14b-15.mp3 ) to firestore: File not found
+Genesis 26:16-17: audio file not found:  Hin  Gen 26 16-17.mp3
+Genesis Genesis 26:16-17: Error saving resource(  Hin  Gen 26 16-17.mp3 ) to firestore: File not found
+Genesis 26:16-17 highlighted text:  more numerous
+अधिक is not included in the text
+Genesis 26:16-17 highlighted text: to leave our area/land
+हमारे क्षेत्र/भूमि को छोड़ दो। is not included in the text
+Genesis 26:18: audio file not found: Hin  Gen 26 18.mp3
+Genesis Genesis 26:18: Error saving resource( Hin  Gen 26 18.mp3 ) to firestore: File not found
+Genesis 26:19-20a: audio file not found:  Hin  Gen 26 19-20.mp3
+Genesis Genesis 26:19-20a: Error saving resource(  Hin  Gen 26 19-20.mp3 ) to firestore: File not found
+Genesis 26:20b-21: audio file not found:  Hin  Gen 26 20b-21.mp3
+Genesis Genesis 26:20b-21: Error saving resource(  Hin  Gen 26 20b-21.mp3 ) to firestore: File not found
+Genesis 26:20b-21 highlighted text: <i>
+उसका नाम </i>सित्रा  रखा, जिसका उसकी भाषा में अर्थ है 'विरोध'। is not included in the text
+Genesis 26:22: audio file not found:  Hin  Gen 26 22.mp3
+Genesis Genesis 26:22: Error saving resource(  Hin  Gen 26 22.mp3 ) to firestore: File not found
+Genesis 26:23-24: audio file not found:  Hin  Gen 26 23-24.mp3
+Genesis Genesis 26:23-24: Error saving resource(  Hin  Gen 26 23-24.mp3 ) to firestore: File not found
+Genesis 26:25: audio file not found:  Hin  Gen 26 25.mp3
+Genesis Genesis 26:25: Error saving resource(  Hin  Gen 26 25.mp3 ) to firestore: File not found
+Genesis 26:26-27: audio file not found: Hin  Gen 26 26-27.mp3
+Genesis Genesis 26:26-27: Error saving resource( Hin  Gen 26 26-27.mp3 ) to firestore: File not found
+Genesis 26:28: audio file not found: Hin Gen 26 28.mp3
+Genesis Genesis 26:28: Error saving resource( Hin Gen 26 28.mp3 ) to firestore: File not found
+Genesis 26:29: audio file not found:  Hin  Gen 26 29.mp3
+Genesis Genesis 26:29: Error saving resource(  Hin  Gen 26 29.mp3 ) to firestore: File not found
+Genesis 26:30-31: audio file not found:  Hin  Gen 26 30-31.mp3
+Genesis Genesis 26:30-31: Error saving resource(  Hin  Gen 26 30-31.mp3 ) to firestore: File not found
+Genesis 26:32-33: audio file not found:  Hin  Gen 26 32-33.mp3
+Genesis Genesis 26:32-33: Error saving resource(  Hin  Gen 26 32-33.mp3 ) to firestore: File not found
+Genesis 26:34-35: audio file not found:  Hin  Gen 26 34-35.mp3
+Genesis Genesis 26:34-35: Error saving resource(  Hin  Gen 26 34-35.mp3 ) to firestore: File not found
+**Genesis 27:1-46**
+Genesis 27:1-2: audio file not found: Hin Gen 27 1-2.mp3
+Genesis Genesis 27:1-2: Error saving resource( Hin Gen 27 1-2.mp3 ) to firestore: File not found
+Genesis 27:3-4: audio file not found:  Hin  Gen 27 3-4.mp3
+Genesis Genesis 27:3-4: Error saving resource(  Hin  Gen 27 3-4.mp3 ) to firestore: File not found
+Genesis 27:5-6: audio file not found: Hin Gen 27 5-6.mp3
+Genesis Genesis 27:5-6: Error saving resource( Hin Gen 27 5-6.mp3 ) to firestore: File not found
+Genesis 27:7: audio file not found:  Hin Gen 27 7.mp3
+Genesis Genesis 27:7: Error saving resource(  Hin Gen 27 7.mp3 ) to firestore: File not found
+Genesis 27:8-10: audio file not found:  Hin Gen 27 8-10.mp3
+Genesis Genesis 27:8-10: Error saving resource(  Hin Gen 27 8-10.mp3 ) to firestore: File not found
+Genesis 27:11-12: audio file not found:  Hin Gen 27 11-12.mp3
+Genesis Genesis 27:11-12: Error saving resource(  Hin Gen 27 11-12.mp3 ) to firestore: File not found
+Genesis 27:13-14: audio file not found:  Hin Gen 27 13-14.mp3
+Genesis Genesis 27:13-14: Error saving resource(  Hin Gen 27 13-14.mp3 ) to firestore: File not found
+Genesis 27:15-16: audio file not found:  Hin Gen 27 15-16.mp3
+Genesis Genesis 27:15-16: Error saving resource(  Hin Gen 27 15-16.mp3 ) to firestore: File not found
+Genesis 27:17-18: audio file not found:  Hin Gen 27 17-18.mp3
+Genesis Genesis 27:17-18: Error saving resource(  Hin Gen 27 17-18.mp3 ) to firestore: File not found
+Genesis 27:17-18 highlighted text: which son
+कौन से पुत्र is not included in the text
+Genesis 27:19-20: audio file not found:  Hin Gen 27 19-20.mp3
+Genesis Genesis 27:19-20: Error saving resource(  Hin Gen 27 19-20.mp3 ) to firestore: File not found
+Genesis 27:21-22: audio file not found:  Hin Gen 27 21-22.mp3
+Genesis Genesis 27:21-22: Error saving resource(  Hin Gen 27 21-22.mp3 ) to firestore: File not found
+Genesis 27:23-24: audio file not found:  Hin Gen 27 23-24.mp3
+Genesis Genesis 27:23-24: Error saving resource(  Hin Gen 27 23-24.mp3 ) to firestore: File not found
+Genesis 27:25-26: audio file not found:  Hin Gen 27 25-26.mp3
+Genesis Genesis 27:25-26: Error saving resource(  Hin Gen 27 25-26.mp3 ) to firestore: File not found
+Genesis 27:27: audio file not found: Hin  Gen 27 27.mp3
+Genesis Genesis 27:27: Error saving resource( Hin  Gen 27 27.mp3 ) to firestore: File not found
+Genesis 27:27 highlighted text: मेरे बेटे से उस खेत की तरह खुशबू आ रही है is not included in the text
+Genesis 27:28: audio file not found: Hin  Gen 27 28.mp3
+Genesis Genesis 27:28: Error saving resource( Hin  Gen 27 28.mp3 ) to firestore: File not found
+Genesis 27:29: audio file not found: Hin  Gen 27 29.mp3
+Genesis Genesis 27:29: Error saving resource( Hin  Gen 27 29.mp3 ) to firestore: File not found
+Genesis 27:30-31: audio file not found: Hin  Gen 27 30-31.mp3
+Genesis Genesis 27:30-31: Error saving resource( Hin  Gen 27 30-31.mp3 ) to firestore: File not found
+Genesis 27:32-33: audio file not found: Hin  Gen 27 32-33.mp3
+Genesis Genesis 27:32-33: Error saving resource( Hin  Gen 27 32-33.mp3 ) to firestore: File not found
+Genesis 27:34-35: audio file not found:  Hin Gen 27 34-35.mp3
+Genesis Genesis 27:34-35: Error saving resource(  Hin Gen 27 34-35.mp3 ) to firestore: File not found
+Genesis 27:36: audio file not found:  Hin Gen 27 36.mp3
+Genesis Genesis 27:36: Error saving resource(  Hin Gen 27 36.mp3 ) to firestore: File not found
+Genesis 27:37: audio file not found:  Hin Gen 27 37.mp3
+Genesis Genesis 27:37: Error saving resource(  Hin Gen 27 37.mp3 ) to firestore: File not found
+Genesis 27:38: audio file not found:  Hin Gen 27 38.mp3
+Genesis Genesis 27:38: Error saving resource(  Hin Gen 27 38.mp3 ) to firestore: File not found
+Genesis 27:39-40: audio file not found:  Hin  Gen 27 39-40.mp3
+Genesis Genesis 27:39-40: Error saving resource(  Hin  Gen 27 39-40.mp3 ) to firestore: File not found
+Genesis 27:41: audio file not found:  Hin Gen 27 41.mp3
+Genesis Genesis 27:41: Error saving resource(  Hin Gen 27 41.mp3 ) to firestore: File not found
+Genesis 27:42: audio file not found: Hin Gen 27 42.mp3
+Genesis Genesis 27:42: Error saving resource( Hin Gen 27 42.mp3 ) to firestore: File not found
+Genesis 27:43-44: audio file not found:  Hin Gen 27 43-44.mp3
+Genesis Genesis 27:43-44: Error saving resource(  Hin Gen 27 43-44.mp3 ) to firestore: File not found
+Genesis 27:45: audio file not found:  Hin Gen 27 45.mp3
+Genesis Genesis 27:45: Error saving resource(  Hin Gen 27 45.mp3 ) to firestore: File not found
+**Genesis 28:1-22**
+Genesis 28:2: audio file not found:  Hin Gen 28 2.mp3
+Genesis Genesis 28:2: Error saving resource(  Hin Gen 28 2.mp3 ) to firestore: File not found
+Genesis 28:6-7: audio file not found: Hin Gen 28 6-7.mp3
+Genesis Genesis 28:6-7: Error saving resource( Hin Gen 28 6-7.mp3 ) to firestore: File not found
+Genesis 28:6-7 highlighted text: उसने यह भी सुना था कि इसहाक ने याकूब को आशीष देते हुए कहा था is not included in the text
+Genesis 28:6-7 highlighted text: उससे कहा 
+ is not included in the text
+Genesis 28:11b: audio file not found: Hin Gen 28  11b.mp3
+Genesis Genesis 28:11b: Error saving resource( Hin Gen 28  11b.mp3 ) to firestore: File not found
+Genesis 28:12 highlighted text: सीढ़ी is exact match of BEN Text Options
+Genesis 28:22: audio file not found: Hin Gen 28 22.mp3
+Genesis Genesis 28:22: Error saving resource( Hin Gen 28 22.mp3 ) to firestore: File not found
+**Genesis 30a:1-24**
+Genesis 30:7-8: audio file not found: Hin Gen 30 7-8.mp3
+Genesis Genesis 30:7-8: Error saving resource( Hin Gen 30 7-8.mp3 ) to firestore: File not found
+Genesis 30:14: audio file not found: Hin Gen 30 14-.mp3
+Genesis Genesis 30:14: Error saving resource( Hin Gen 30 14-.mp3 ) to firestore: File not found
+Genesis 30:15: audio file not found: Hin Gen 30 15.mp3
+Genesis Genesis 30:15: Error saving resource( Hin Gen 30 15.mp3 ) to firestore: File not found
+Genesis 30:16: audio file not found: Hin Gen 30 16.mp3
+Genesis Genesis 30:16: Error saving resource( Hin Gen 30 16.mp3 ) to firestore: File not found
+Genesis 30:22-23 highlighted text:  
+संतानहीनता के कारण मुझे जो शर्मिंदगी महसूस होती थी, उसे दूर कर दिया है is not included in the text
+**Genesis 2:4-25**
+**Genesis 30b:25-43**
+Genesis 30:25-26: audio file not found: Hin Gen 30 25-26.mp3
+Genesis Genesis 30:25-26: Error saving resource( Hin Gen 30 25-26.mp3 ) to firestore: File not found
+Genesis 30:27-28: audio file not found: Hin Gen 30 27-28.mp3
+Genesis Genesis 30:27-28: Error saving resource( Hin Gen 30 27-28.mp3 ) to firestore: File not found
+Genesis 30:30: audio file not found: Hin Gen 30 30.mp3
+Genesis Genesis 30:30: Error saving resource( Hin Gen 30 30.mp3 ) to firestore: File not found
+Genesis 30:31 highlighted text:  
+तुम यहाँ मेरे साथ रहोगे, इसके लिए मैं तुम्हें क्या वेतन दूँ? is not included in the text
+Genesis 30:32: picture file not found: 04_FB_Jacob_Returns_1024.jp
+Genesis 30:32: Error saving resource( 04_FB_Jacob_Returns_1024.jp ) to firestore: File not found
+Genesis 32:33-34 highlighted text: कि मैंने उन्हें तुमसे चुराया है।
+ is not included in the text
+Genesis Genesis 30:35: is less than the previous pericope's chapter of: 32
+Genesis 30:38b-39 highlighted text: बाद में जब पशुओं ने अपने बच्चों को जन्म दिया, तो ये बच्चे धारीदार, चित्तीदार या धब्बेदार थे। is not included in the text
+Genesis 30:41: audio file not found: Hin Gen 30 41.mp3
+Genesis Genesis 30:41: Error saving resource( Hin Gen 30 41.mp3 ) to firestore: File not found
+Genesis 30:42: audio file not found: Hin Gen 30 42.mp3
+Genesis Genesis 30:42: Error saving resource( Hin Gen 30 42.mp3 ) to firestore: File not found
+Genesis 30:43 highlighted text: याकूब बहुत धनी हो गया। is not included in the text
+**Genesis 34:1-31**
+Genesis 34:1: audio file not found: HIn Gen 34 1.mp3
+Genesis Genesis 34:1: Error saving resource( HIn Gen 34 1.mp3 ) to firestore: File not found
+Genesis 34:1 highlighted text: 1 दीना याकूब और लिआ की बेटी थी। एक दिन दीना कुछ से मिलने गई। is not included in the text
+Genesis 34:7 highlighted text: के साथ जबरदस्ती कुकर्म किया is not included in the text
+Genesis 34:8-9: audio file not found: HIn Gen 34 8-9.mp3
+Genesis Genesis 34:8-9: Error saving resource( HIn Gen 34 8-9.mp3 ) to firestore: File not found
+Genesis 34:15-16: audio file not found: HIn Gen 34 15-16.mp3
+Genesis Genesis 34:15-16: Error saving resource( HIn Gen 34 15-16.mp3 ) to firestore: File not found
+Genesis 34:22: audio file not found: HIn Gen 34 22.mp3
+Genesis Genesis 34:22: Error saving resource( HIn Gen 34 22.mp3 ) to firestore: File not found
+Genesis 34:25 highlighted text:  
+पीड़ा से व्याकुल थे is not included in the text
+Genesis 34:31 highlighted text: हम शकेम को अनुमति नहीं दे सकते थे is not included in the text
+**Genesis 29:1-35**
+Genesis 6 याकूब ने उनसे पूछा, “क्या लाबान ठीक है?”उन्होंने उत्तर दिया, “हाँ, वह ठीक है। देखो! उसकी बेटी राहेल अपनी भेड़ों के साथ आ रही है!”:29 highlighted text: 7 is not included in the text
+Genesis 6 याकूब ने उनसे पूछा, “क्या लाबान ठीक है?”उन्होंने उत्तर दिया, “हाँ, वह ठीक है। देखो! उसकी बेटी राहेल अपनी भेड़ों के साथ आ रही है!”:29 highlighted text: 8-9 is not included in the text
+Genesis 6 याकूब ने उनसे पूछा, “क्या लाबान ठीक है?”उन्होंने उत्तर दिया, “हाँ, वह ठीक है। देखो! उसकी बेटी राहेल अपनी भेड़ों के साथ आ रही है!”:29 highlighted text: 10 is not included in the text
+Genesis 6 याकूब ने उनसे पूछा, “क्या लाबान ठीक है?”उन्होंने उत्तर दिया, “हाँ, वह ठीक है। देखो! उसकी बेटी राहेल अपनी भेड़ों के साथ आ रही है!”:29 highlighted text: 11-12 is not included in the text
+Genesis 6 याकूब ने उनसे पूछा, “क्या लाबान ठीक है?”उन्होंने उत्तर दिया, “हाँ, वह ठीक है। देखो! उसकी बेटी राहेल अपनी भेड़ों के साथ आ रही है!”:29 commentary:   Error saving resource( यदि आपके पास परिवार के सदस्यों के एक-दूसरे को अभिवादन करने के तरीके के लिए कोई शब्द है, तो उस शब्द का प्रयोग यहां करें। ) to firestore: File not found
+Genesis 6 याकूब ने उनसे पूछा, “क्या लाबान ठीक है?”उन्होंने उत्तर दिया, “हाँ, वह ठीक है। देखो! उसकी बेटी राहेल अपनी भेड़ों के साथ आ रही है!”:29 highlighted text: 13-14a is not included in the text
+Genesis Genesis 25 अगली सुबह, याकूब यह देखकर दंग रह गया कि उसके साथ लिआ थी! इसलिए वह लाबान के पास गया और उससे क्रोधित होकर बोला, {“तुमने मुझसे किया वादा तोड़ दिया! तुम जानते हो कि मैंने राहेल से विवाह करने के लिए तुम्हारे लिए मेहनत की थी, पर तुमने मुझे धोखा दिया!}”:29: is less than the previous pericope's chapter of: 6 याकूब ने उनसे पूछा, “क्या लाबान ठीक है?”उन्होंने उत्तर दिया, “हाँ, वह ठीक है। देखो! उसकी बेटी राहेल अपनी भेड़ों के साथ आ रही है!”
+Genesis 25 अगली सुबह, याकूब यह देखकर दंग रह गया कि उसके साथ लिआ थी! इसलिए वह लाबान के पास गया और उससे क्रोधित होकर बोला, {“तुमने मुझसे किया वादा तोड़ दिया! तुम जानते हो कि मैंने राहेल से विवाह करने के लिए तुम्हारे लिए मेहनत की थी, पर तुमने मुझे धोखा दिया!}”:29 commentary:   Error saving resource( अपनी भाषा में ऐसे अलंकारिक प्रश्न या कथन का प्रयोग करें जो क्रोध को व्यक्त करते हों। ) to firestore: File not found
+Genesis 25 अगली सुबह, याकूब यह देखकर दंग रह गया कि उसके साथ लिआ थी! इसलिए वह लाबान के पास गया और उससे क्रोधित होकर बोला, {“तुमने मुझसे किया वादा तोड़ दिया! तुम जानते हो कि मैंने राहेल से विवाह करने के लिए तुम्हारे लिए मेहनत की थी, पर तुमने मुझे धोखा दिया!}”:29 highlighted text: 26 is not included in the text
+Genesis 25 अगली सुबह, याकूब यह देखकर दंग रह गया कि उसके साथ लिआ थी! इसलिए वह लाबान के पास गया और उससे क्रोधित होकर बोला, {“तुमने मुझसे किया वादा तोड़ दिया! तुम जानते हो कि मैंने राहेल से विवाह करने के लिए तुम्हारे लिए मेहनत की थी, पर तुमने मुझे धोखा दिया!}”:29 highlighted text: 27-28 is not included in the text
+Genesis 25 अगली सुबह, याकूब यह देखकर दंग रह गया कि उसके साथ लिआ थी! इसलिए वह लाबान के पास गया और उससे क्रोधित होकर बोला, {“तुमने मुझसे किया वादा तोड़ दिया! तुम जानते हो कि मैंने राहेल से विवाह करने के लिए तुम्हारे लिए मेहनत की थी, पर तुमने मुझे धोखा दिया!}”:29 highlighted text: 29 is not included in the text
+Genesis 25 अगली सुबह, याकूब यह देखकर दंग रह गया कि उसके साथ लिआ थी! इसलिए वह लाबान के पास गया और उससे क्रोधित होकर बोला, {“तुमने मुझसे किया वादा तोड़ दिया! तुम जानते हो कि मैंने राहेल से विवाह करने के लिए तुम्हारे लिए मेहनत की थी, पर तुमने मुझे धोखा दिया!}”:29 commentary:   Error saving resource( उत्पत्ति 30:4-7 में याकूब के बिलाह से बच्चे होंगे। ) to firestore: File not found
+Genesis 25 अगली सुबह, याकूब यह देखकर दंग रह गया कि उसके साथ लिआ थी! इसलिए वह लाबान के पास गया और उससे क्रोधित होकर बोला, {“तुमने मुझसे किया वादा तोड़ दिया! तुम जानते हो कि मैंने राहेल से विवाह करने के लिए तुम्हारे लिए मेहनत की थी, पर तुमने मुझे धोखा दिया!}”:29 highlighted text: 30 is not included in the text
+Genesis 25 अगली सुबह, याकूब यह देखकर दंग रह गया कि उसके साथ लिआ थी! इसलिए वह लाबान के पास गया और उससे क्रोधित होकर बोला, {“तुमने मुझसे किया वादा तोड़ दिया! तुम जानते हो कि मैंने राहेल से विवाह करने के लिए तुम्हारे लिए मेहनत की थी, पर तुमने मुझे धोखा दिया!}”:29 commentary:   Error saving resource( हिब्रू भाषा में इस वाक्य में कोई क्रिया नहीं है, इसलिए क्रिया को पहले वाक्य से ही समझा जाना चाहिए। ) to firestore: File not found
+**Genesis 31:1-55**
+Genesis 31:8 highlighted text: मुझसे कहा, ‘चित्तीदार जानवर ही मैं तुम्हें तुम्हारी मजदूरी के रूप में दूंगा is not included in the text
+Genesis 31:14-15 highlighted text: , न ही उनकी संपत्ति में हमारा कोई हिस्सा होगा। is not included in the text
+Genesis 31:25 highlighted text: caught up with Jacob, where he
+के पास पहुँचा, जहाँ याकूब is not included in the text
+Genesis 31:32 highlighted text: मार डालेंगे। is not included in the text
+Genesis 31:32 highlighted text: राहेल ने लाबान की लकड़ी की मूर्तियाँ चुरा ली थीं। is not included in the text
+Genesis 31:33: audio file not found: Hin Gen 31  33.mp3
+Genesis Genesis 31:33: Error saving resource( Hin Gen 31  33.mp3 ) to firestore: File not found
+Genesis 31:37 highlighted text: उसे मेरे और तुम्हारे रिश्तेदारों is not included in the text
+Genesis 31:42b highlighted text: तुम्हें बताया कि तुमने मेरे साथ जो किया वह गलत था। is not included in the text
+Genesis 31:53 highlighted text: अपने पिता इसहाक के परमेश्वर के is not included in the text
+**Genesis 32:1-32**
+Genesis 32:1-2: audio file not found: Hin Gen 32 1-2.mp3
+Genesis Genesis 32:1-2: Error saving resource( Hin Gen 32 1-2.mp3 ) to firestore: File not found
+Genesis 32:3: audio file not found:  Hin  Gen 32 3.mp3
+Genesis Genesis 32:3: Error saving resource(  Hin  Gen 32 3.mp3 ) to firestore: File not found
+Genesis 32:4: audio file not found:  Hin  Gen 32 4.mp3
+Genesis Genesis 32:4: Error saving resource(  Hin  Gen 32 4.mp3 ) to firestore: File not found
+Genesis 32:5: audio file not found:  Hin  Gen 32 5.mp3
+Genesis Genesis 32:5: Error saving resource(  Hin  Gen 32 5.mp3 ) to firestore: File not found
+Genesis 32:5 highlighted text: मैं यह संदेश भेज रहा हूँ is not included in the text
+Genesis 32:5 highlighted text: आपको महोदय  is not included in the text
+Genesis 32:6: audio file not found:  Hin  Gen 32 6.mp3
+Genesis Genesis 32:6: Error saving resource(  Hin  Gen 32 6.mp3 ) to firestore: File not found
+Genesis 32:7-8: audio file not found:  Hin  Gen 32 7-8.mp3
+Genesis Genesis 32:7-8: Error saving resource(  Hin  Gen 32 7-8.mp3 ) to firestore: File not found
+Genesis 32:9: audio file not found:  Hin  Gen 32 9.mp3
+Genesis Genesis 32:9: Error saving resource(  Hin  Gen 32 9.mp3 ) to firestore: File not found
+Genesis 32:10: audio file not found:  Hin  Gen 32 10.mp3
+Genesis Genesis 32:10: Error saving resource(  Hin  Gen 32 10.mp3 ) to firestore: File not found
+Genesis 32:11: audio file not found:  Hin  Gen 32 11.mp3
+Genesis Genesis 32:11: Error saving resource(  Hin  Gen 32 11.mp3 ) to firestore: File not found
+Genesis 32:12: audio file not found:  Hin  Gen 32 12.mp3
+Genesis Genesis 32:12: Error saving resource(  Hin  Gen 32 12.mp3 ) to firestore: File not found
+Genesis 32:13-15: audio file not found: Hin  Gen 32 13-15.mp3
+Genesis Genesis 32:13-15: Error saving resource( Hin  Gen 32 13-15.mp3 ) to firestore: File not found
+Genesis 32:16: audio file not found:  Hin  Gen 32 16.mp3
+Genesis Genesis 32:16: Error saving resource(  Hin  Gen 32 16.mp3 ) to firestore: File not found
+Genesis 32:17-18: audio file not found:  Hin  Gen 32 17-18.mp3
+Genesis Genesis 32:17-18: Error saving resource(  Hin  Gen 32 17-18.mp3 ) to firestore: File not found
+Genesis 32:19-20a: audio file not found:  Hin  Gen 3219-20a.mp3
+Genesis Genesis 32:19-20a: Error saving resource(  Hin  Gen 3219-20a.mp3 ) to firestore: File not found
+Genesis 32:20b-21: audio file not found:  Hin  Gen 32 20b-21.mp3
+Genesis Genesis 32:20b-21: Error saving resource(  Hin  Gen 32 20b-21.mp3 ) to firestore: File not found
+Genesis 32:22-23: audio file not found: Hin  Gen 32 22-23.mp3
+Genesis Genesis 32:22-23: Error saving resource( Hin  Gen 32 22-23.mp3 ) to firestore: File not found
+Genesis 32:22-23 highlighted text: के एक उथले स्थान is not included in the text
+Genesis 32:24-25: audio file not found: Hin  Gen 32 24-25.mp3
+Genesis Genesis 32:24-25: Error saving resource( Hin  Gen 32 24-25.mp3 ) to firestore: File not found
+Genesis 32:26-27: audio file not found: Hin  Gen 32 26-27.mp3
+Genesis Genesis 32:26-27: Error saving resource( Hin  Gen 32 26-27.mp3 ) to firestore: File not found
+Genesis 32:28: audio file not found:  Hin  Gen 32 28.mp3
+Genesis Genesis 32:28: Error saving resource(  Hin  Gen 32 28.mp3 ) to firestore: File not found
+Genesis 32:29-30: audio file not found: Hin  Gen 32 29-30.mp3
+Genesis Genesis 32:29-30: Error saving resource( Hin  Gen 32 29-30.mp3 ) to firestore: File not found
+Genesis 32:29-30 highlighted text: he blessed Jacob there
+उसने याकूब को वहीं आशीर्वाद दिया। is not included in the text
+Genesis 32:31-32: audio file not found:  Hin  Gen 32 31-32.mp3
+Genesis Genesis 32:31-32: Error saving resource(  Hin  Gen 32 31-32.mp3 ) to firestore: File not found
+**Genesis 35a:1-15**
+Genesis 35:4: audio file not found: Hin Gen 35 4.mp3
+Genesis Genesis 35:4: Error saving resource( Hin Gen 35 4.mp3 ) to firestore: File not found
+Genesis 35:5-6: audio file not found: Hin Gen 35 5-6.mp3
+Genesis Genesis 35:5-6: Error saving resource( Hin Gen 35 5-6.mp3 ) to firestore: File not found
+Genesis 35:11-12 highlighted text: तब परमेश्वर ने याकूब से कहा is not included in the text
+**Genesis 35ख:16-29**
+Genesis 35:16: audio file not found:  Hin Gen 35 16.mp3
+Genesis Genesis 35:16: Error saving resource(  Hin Gen 35 16.mp3 ) to firestore: File not found
+Genesis 35:17: audio file not found:  Hin Gen 35 17.mp3
+Genesis Genesis 35:17: Error saving resource(  Hin Gen 35 17.mp3 ) to firestore: File not found
+Genesis 35:18: audio file not found:  Hin Gen 35 18.mp3
+Genesis Genesis 35:18: Error saving resource(  Hin Gen 35 18.mp3 ) to firestore: File not found
+Genesis 35:19-20: audio file not found:  Hin Gen 35 19-20.mp3
+Genesis Genesis 35:19-20: Error saving resource(  Hin Gen 35 19-20.mp3 ) to firestore: File not found
+Genesis 35:21: audio file not found:  Hin Gen 35 21.mp3
+Genesis Genesis 35:21: Error saving resource(  Hin Gen 35 21.mp3 ) to firestore: File not found
+Genesis 35:22: audio file not found:  Hin Gen 35 22.mp3
+Genesis Genesis 35:22: Error saving resource(  Hin Gen 35 22.mp3 ) to firestore: File not found
+Genesis 35:22, 26b: audio file not found: Hin Gen 35 22n26b.mp3
+Genesis Genesis 35:22, 26b: Error saving resource( Hin Gen 35 22n26b.mp3 ) to firestore: File not found
+Genesis 35:23-24: audio file not found:  Hin Gen 35 23-24.mp3
+Genesis Genesis 35:23-24: Error saving resource(  Hin Gen 35 23-24.mp3 ) to firestore: File not found
+Genesis 35:25-26a: audio file not found:  Hin Gen 35 25-26.mp3
+Genesis Genesis 35:25-26a: Error saving resource(  Hin Gen 35 25-26.mp3 ) to firestore: File not found
+Genesis 35:27: audio file not found:  Hin Gen 35 27.mp3
+Genesis Genesis 35:27: Error saving resource(  Hin Gen 35 27.mp3 ) to firestore: File not found
+Genesis 35:28-29: audio file not found:  Hin Gen 35 28-29.mp3
+Genesis Genesis 35:28-29: Error saving resource(  Hin Gen 35 28-29.mp3 ) to firestore: File not found
+पृष्ठभूमि की जानकारी: Error saving resource( इस टिप्पणी का ऑडियोकरण करें ) to firestore: File not found
+**Genesis 36:1-43**
+Genesis 36:1: audio file not found: Hin Gen 36 1.mp3
+Genesis Genesis 36:1: Error saving resource( Hin Gen 36 1.mp3 ) to firestore: File not found
+Genesis 36:4-5: audio file not found: Hin Gen 36 4-5.mp3
+Genesis Genesis 36:4-5: Error saving resource( Hin Gen 36 4-5.mp3 ) to firestore: File not found
+Genesis 36:34-35: audio file not found: Hin Gen 36 34-35.mp3
+Genesis Genesis 36:34-35: Error saving resource( Hin Gen 36 34-35.mp3 ) to firestore: File not found
+Genesis 36:39 highlighted text: उसकी पत्नी का नाम महेताबेल था। वह मेजाहब की पुत्री और मत्रेद की पोती थी। is not included in the text
+Genesis 36:40-42: audio file not found: Hin Gen 36 40-42.mp3
+Genesis Genesis 36:40-42: Error saving resource( Hin Gen 36 40-42.mp3 ) to firestore: File not found
+**Genesis 39:1-23**
+Genesis 39:2-3: audio file not found: Hin Gen 39 2-3.mp3
+Genesis Genesis 39:2-3: Error saving resource( Hin Gen 39 2-3.mp3 ) to firestore: File not found
+Genesis 39:6b-7 highlighted text: उसके मालिक पोतिपर की पत्नी is not included in the text
+Genesis 39:6b-7 highlighted text: को देखकर मोहित हो गई is not included in the text
+Genesis Genesis :11-12: is less than the previous pericope's chapter of: 39
+Genesis 39:13-14 highlighted text: मेरे साथ बलात्कार करने की is not included in the text
+Genesis 39:15-16: audio file not found: Hin Gen 39 15-16.mp3
+Genesis Genesis 39:15-16: Error saving resource( Hin Gen 39 15-16.mp3 ) to firestore: File not found
+Genesis 39:17-18 highlighted text: मुझे अपमानित करने की is not included in the text
+**Genesis 38:1-30**
+Genesis 38:1: audio file not found: Hin Gen 38 1.mp3
+Genesis Genesis 38:1: Error saving resource( Hin Gen 38 1.mp3 ) to firestore: File not found
+Genesis 38:2-3: audio file not found: Hin  Gen 38 2-3.mp3
+Genesis Genesis 38:2-3: Error saving resource( Hin  Gen 38 2-3.mp3 ) to firestore: File not found
+Genesis 38:4-5: audio file not found:  Hin  Gen 38 4-5.mp3
+Genesis Genesis 38:4-5: Error saving resource(  Hin  Gen 38 4-5.mp3 ) to firestore: File not found
+Genesis 38:6-8: audio file not found:  Hin  Gen 38 6-8.mp3
+Genesis Genesis 38:6-8: Error saving resource(  Hin  Gen 38 6-8.mp3 ) to firestore: File not found
+Genesis 38:6-8 highlighted text: इसलिए तुम्हें उसकी विधवा से विवाह करना होगा is not included in the text
+Genesis 38:9-10: audio file not found:  Hin  Gen 38 9-10.mp3
+Genesis Genesis 38:9-10: Error saving resource(  Hin  Gen 38 9-10.mp3 ) to firestore: File not found
+Genesis 38:11: audio file not found:  Hin  Gen 38 11.mp3
+Genesis Genesis 38:11: Error saving resource(  Hin  Gen 38 11.mp3 ) to firestore: File not found
+Genesis 38:12-13: audio file not found:  Hin  Gen 38 12-13.mp3
+Genesis Genesis 38:12-13: Error saving resource(  Hin  Gen 38 12-13.mp3 ) to firestore: File not found
+Genesis 38:14: audio file not found:  Hin  Gen 38 14.mp3
+Genesis Genesis 38:14: Error saving resource(  Hin  Gen 38 14.mp3 ) to firestore: File not found
+Genesis 38:14 highlighted text: <i>
+पवित्र वेश्या
+
+</i> is not included in the text
+Genesis 38:15-16: audio file not found:  Hin  Gen 38 15-16.mp3
+Genesis Genesis 38:15-16: Error saving resource(  Hin  Gen 38 15-16.mp3 ) to firestore: File not found
+Genesis 38:17-18a: audio file not found:  Hin  Gen 38 17-18.mp3
+Genesis Genesis 38:17-18a: Error saving resource(  Hin  Gen 38 17-18.mp3 ) to firestore: File not found
+Genesis 38:18b-19: audio file not found: Hin  Gen 28 18b-19.mp3
+Genesis Genesis 38:18b-19: Error saving resource( Hin  Gen 28 18b-19.mp3 ) to firestore: File not found
+Genesis 38:20-21: audio file not found:  Hin  Gen 38 20-21.mp3
+Genesis Genesis 38:20-21: Error saving resource(  Hin  Gen 38 20-21.mp3 ) to firestore: File not found
+Genesis 38:22-23: audio file not found:  Hin  Gen 38 22-23.mp3
+Genesis Genesis 38:22-23: Error saving resource(  Hin  Gen 38 22-23.mp3 ) to firestore: File not found
+Genesis 38:22-23 highlighted text: कहा, यहाँ कोई पवित्र वेश्या नहीं थी is not included in the text
+Genesis 38:24: audio file not found:  Hin  Gen 38 24.mp3
+Genesis Genesis 38:24: Error saving resource(  Hin  Gen 38 24.mp3 ) to firestore: File not found
+Genesis 38:25: audio file not found:  Hin  Gen 38 25.mp3
+Genesis Genesis 38:25: Error saving resource(  Hin  Gen 38 25.mp3 ) to firestore: File not found
+Genesis 38:26: audio file not found: Hin  Gen 38 26.mp3
+Genesis Genesis 38:26: Error saving resource( Hin  Gen 38 26.mp3 ) to firestore: File not found
+Genesis 38:27-28: audio file not found:  Hin  Gen 38 27-28.mp3
+Genesis Genesis 38:27-28: Error saving resource(  Hin  Gen 38 27-28.mp3 ) to firestore: File not found
+Genesis 38:29: audio file not found:  Hin  Gen 38 29.mp3
+Genesis Genesis 38:29: Error saving resource(  Hin  Gen 38 29.mp3 ) to firestore: File not found
+Genesis 38:30: audio file not found: Hin  Gen 38 30.mp3
+Genesis Genesis 38:30: Error saving resource( Hin  Gen 38 30.mp3 ) to firestore: File not found
+**Genesis 37:1-36**
+Genesis 37:1-2a highlighted text:  
+निम्नलिखित में इतिहास का पुनर्कथन किया गया है। is not included in the text
+Genesis 37:2b: audio file not found: Hin Gen 37 2b.mp3
+Genesis Genesis 37:2b: Error saving resource( Hin Gen 37 2b.mp3 ) to firestore: File not found
+Genesis 37:4: audio file not found: Hin Gen 37 4.mp3
+Genesis Genesis 37:4: Error saving resource( Hin Gen 37 4.mp3 ) to firestore: File not found
+Genesis 37:8 highlighted text: क्या तुम सोचते हो कि एक दिन तुम हम पर राज करोगे? क्या तुम यह कह रहे हो कि एक दिन तुम हमारे राजा बनोगे?”
+ is not included in the text
+Genesis 37:10: audio file not found: Hin Gen 37 10.mp3
+Genesis Genesis 37:10: Error saving resource( Hin Gen 37 10.mp3 ) to firestore: File not found
+Genesis 37:10 highlighted text: क्या तुम यह कह रहे हो कि एक दिन तुम्हारी माँ और  मैं is not included in the text
+Genesis 37:34 highlighted text:  
+कई दिनों तक 
+ is not included in the text
+Genesis 37:35: audio file not found: Hin Gen 37 35.mp3
+Genesis Genesis 37:35: Error saving resource( Hin Gen 37 35.mp3 ) to firestore: File not found
+**Genesis 40:1-23**
+Genesis 40:1-2: audio file not found: Hin Gen 40 1-2.mp3
+Genesis Genesis 40:1-2: Error saving resource( Hin Gen 40 1-2.mp3 ) to firestore: File not found
+Genesis 40:1-2 highlighted text: did things that displeased him
+कुछ ऐसा किया जिससे राजा अप्रसन्न हो गया is not included in the text
+Genesis 40:6-7 highlighted text: देखा कि वे दोनों उदास/चिंतित लग रहे थे। is not included in the text
+Genesis 40:9-11 highlighted text: पके हुए अंगूरों के गुच्छे is not included in the text
+Genesis 40:14-15: audio file not found: Hin Gen 40 14-15.mp3
+Genesis Genesis 40:14-15: Error saving resource( Hin Gen 40 14-15.mp3 ) to firestore: File not found
+Genesis 40:14-15 highlighted text:  
+मुझे जेल में डालना is not included in the text
+Genesis 40:16-17: audio file not found: Hin Gen 40 16-17.mp3
+Genesis Genesis 40:16-17: Error saving resource( Hin Gen 40 16-17.mp3 ) to firestore: File not found
+Genesis 40:20 highlighted text: एक भव्य भोज is not included in the text
+**Genesis 3:1-24**
+**Genesis 42:1-38**
+Genesis 42:1-2: audio file not found: Hin  Gen 42 1-2.mp3
+Genesis Genesis 42:1-2: Error saving resource( Hin  Gen 42 1-2.mp3 ) to firestore: File not found
+Genesis 42:1-2 highlighted text: तुम लोग यूँ ही एक-दूसरे को देखते मत बैठे रहो is not included in the text
+Genesis 42:3-5: audio file not found:  Hin  Gen 42 3-5.mp3
+Genesis Genesis 42:3-5: Error saving resource(  Hin  Gen 42 3-5.mp3 ) to firestore: File not found
+Genesis 42:6: audio file not found:  Hin  Gen 42 6.mp3
+Genesis Genesis 42:6: Error saving resource(  Hin  Gen 42 6.mp3 ) to firestore: File not found
+Genesis 42:7: audio file not found:  Hin  Gen 42 7.mp3
+Genesis Genesis 42:7: Error saving resource(  Hin  Gen 42 7.mp3 ) to firestore: File not found
+Genesis 42:8-9: audio file not found:  Hin  Gen 42 8-9.mp3
+Genesis Genesis 42:8-9: Error saving resource(  Hin  Gen 42 8-9.mp3 ) to firestore: File not found
+Genesis 42:10-11: audio file not found:  Hin  Gen 42 10-12.mp3
+Genesis Genesis 42:10-11: Error saving resource(  Hin  Gen 42 10-12.mp3 ) to firestore: File not found
+Genesis 42:13: audio file not found: Hin  Gen 42 13.mp3
+Genesis Genesis 42:13: Error saving resource( Hin  Gen 42 13.mp3 ) to firestore: File not found
+Genesis 42:14-15: audio file not found: Hin  Gen 42 14-15.mp3
+Genesis Genesis 42:14-15: Error saving resource( Hin  Gen 42 14-15.mp3 ) to firestore: File not found
+Genesis 42:16: audio file not found:  Hin  Gen 42 16.mp3
+Genesis Genesis 42:16: Error saving resource(  Hin  Gen 42 16.mp3 ) to firestore: File not found
+Genesis 42:17-19a: audio file not found:  Hin  Gen 42 17-19a.mp3
+Genesis Genesis 42:17-19a: Error saving resource(  Hin  Gen 42 17-19a.mp3 ) to firestore: File not found
+Genesis 42:19b-20: audio file not found: Hin Gen 42 19b-20.mp3
+Genesis Genesis 42:19b-20: Error saving resource( Hin Gen 42 19b-20.mp3 ) to firestore: File not found
+Genesis 42:19b-20 highlighted text: . मैं तुम्हें मृत्युदंड नहीं दूँगा is not included in the text
+Genesis 42:21: audio file not found:  Hin  Gen 42 21.mp3
+Genesis Genesis 42:21: Error saving resource(  Hin  Gen 42 21.mp3 ) to firestore: File not found
+Genesis 42:22: audio file not found: Hin  Gen 42 22.mp3
+Genesis Genesis 42:22: Error saving resource( Hin  Gen 42 22.mp3 ) to firestore: File not found
+Genesis 42:23: audio file not found: Hin  Gen 42 23.mp3
+Genesis Genesis 42:23: Error saving resource( Hin  Gen 42 23.mp3 ) to firestore: File not found
+Genesis 42:24: audio file not found:  Hin  Gen 42 24.mp3
+Genesis Genesis 42:24: Error saving resource(  Hin  Gen 42 24.mp3 ) to firestore: File not found
+Genesis 42:25: audio file not found: Hin  Gen 42 25.mp3
+Genesis Genesis 42:25: Error saving resource( Hin  Gen 42 25.mp3 ) to firestore: File not found
+Genesis 42:26-27: audio file not found: Hin  Gen 42 26-27.mp3
+Genesis Genesis 42:26-27: Error saving resource( Hin  Gen 42 26-27.mp3 ) to firestore: File not found
+Genesis 42:26-27 highlighted text: उसकी बोरी में अनाज के ऊपर is not included in the text
+Genesis 42:28: audio file not found:  Hin  Gen 42 28.mp3
+Genesis Genesis 42:28: Error saving resource(  Hin  Gen 42 28.mp3 ) to firestore: File not found
+Genesis 42:29-30: audio file not found:  Hin  Gen 42 29-30.mp3
+Genesis Genesis 42:29-30: Error saving resource(  Hin  Gen 42 29-30.mp3 ) to firestore: File not found
+Genesis 42:31-32: audio file not found: Hin  Gen 42 31-32.mp3
+Genesis Genesis 42:31-32: Error saving resource( Hin  Gen 42 31-32.mp3 ) to firestore: File not found
+Genesis 42:33: audio file not found:  Hin  Gen 42 33.mp3
+Genesis Genesis 42:33: Error saving resource(  Hin  Gen 42 33.mp3 ) to firestore: File not found
+Genesis 42:34: audio file not found:  Hin  Gen 42 34.mp3
+Genesis Genesis 42:34: Error saving resource(  Hin  Gen 42 34.mp3 ) to firestore: File not found
+Genesis 42:35: audio file not found:  Hin  Gen 42 35.mp3
+Genesis Genesis 42:35: Error saving resource(  Hin  Gen 42 35.mp3 ) to firestore: File not found
+Genesis 42:36: audio file not found:  Hin  Gen 42 36.mp3
+Genesis Genesis 42:36: Error saving resource(  Hin  Gen 42 36.mp3 ) to firestore: File not found
+Genesis 42:37: audio file not found:  Hin  Gen 42 37.mp3
+Genesis Genesis 42:37: Error saving resource(  Hin  Gen 42 37.mp3 ) to firestore: File not found
+Genesis 42:38: audio file not found: Hin  Gen 42 38.mp3
+Genesis Genesis 42:38: Error saving resource( Hin  Gen 42 38.mp3 ) to firestore: File not found
+Genesis 42:38 highlighted text: मैं दुःख से मर जाऊँगा is not included in the text
+**Genesis 41क:1-36**
+Genesis 41:1-2: audio file not found: Hin Gen 41 1-2.mp3
+Genesis Genesis 41:1-2: Error saving resource( Hin Gen 41 1-2.mp3 ) to firestore: File not found
+Genesis 41:5-7a: audio file not found:  Hin Gen 41 5-7a.mp3
+Genesis Genesis 41:5-7a: Error saving resource(  Hin Gen 41 5-7a.mp3 ) to firestore: File not found
+Genesis 41:7b-8 highlighted text: उसे उसके सपने का अर्थ नहीं बता सका is not included in the text
+Genesis 41:13: audio file not found:  Hin Gen 41 13.mp3
+Genesis Genesis 41:13: Error saving resource(  Hin Gen 41 13.mp3 ) to firestore: File not found
+Genesis 41:14 highlighted text: राजा के is not included in the text
+Genesis 41:16: audio file not found:  Hin Gen 41 16.mp3
+Genesis Genesis 41:16: Error saving resource(  Hin Gen 41 16.mp3 ) to firestore: File not found
+Genesis 41:19-21: audio file not found: Hin Gen 41 19-21.mp3
+Genesis Genesis 41:19-21: Error saving resource( Hin Gen 41 19-21.mp3 ) to firestore: File not found
+Genesis 41:19-21 highlighted text: तरह ही बदसूरत is not included in the text
+Genesis 41:21-24a highlighted text: पतली और मुरझाई हुई is not included in the text
+Genesis 41:24b-25: audio file not found: Hin Gen 41 24b-25.mp3
+Genesis Genesis 41:24b-25: Error saving resource( Hin Gen 41 24b-25.mp3 ) to firestore: File not found
+Genesis 41:26-27 highlighted text: तक अकाल is not included in the text
+Genesis 41:28-30a highlighted text: .
+भोजन बहुत कम होगा। is not included in the text
+Genesis 41:35: audio file not found: Hin Gen 41 35.mp3
+Genesis Genesis 41:35: Error saving resource( Hin Gen 41 35.mp3 ) to firestore: File not found
+Genesis 41:36: audio file not found:  Hin Gen 41 36.mp3
+Genesis Genesis 41:36: Error saving resource(  Hin Gen 41 36.mp3 ) to firestore: File not found
+**Genesis 43:1-34**
+Genesis 43:5-6: audio file not found: Hin Gen 43 5-6.mp3
+Genesis Genesis 43:5-6: Error saving resource( Hin Gen 43 5-6.mp3 ) to firestore: File not found
+Genesis 43:8-9a highlighted text:  
+और हम तुरंत चलेंगे, ताकि हम सब (और हमारे बच्चे भी) is not included in the text
+Genesis 43:14: audio file not found: Hin Gen 43 14.mp3
+Genesis Genesis 43:14: Error saving resource( Hin Gen 43 14.mp3 ) to firestore: File not found
+Genesis 43:16-17: audio file not found: Hin Gen 43 16-17.mp3
+Genesis Genesis 43:16-17: Error saving resource( Hin Gen 43 16-17.mp3 ) to firestore: File not found
+Genesis 43:27b-28: audio file not found: Hin Gen 4327b-28.mp3
+Genesis Genesis 43:27b-28: Error saving resource( Hin Gen 4327b-28.mp3 ) to firestore: File not found
+Genesis 43:33: audio file not found: Hin Gen 43 33.mp3
+Genesis Genesis 43:33: Error saving resource( Hin Gen 43 33.mp3 ) to firestore: File not found
+**Genesis 45:1-28**
+Genesis 45:1: audio file not found: Hin Gen 45 1.mp3
+Genesis Genesis 45:1: Error saving resource( Hin Gen 45 1.mp3 ) to firestore: File not found
+Genesis 45:5: audio file not found:  Hin Gen 45 5.mp3
+Genesis Genesis 45:5: Error saving resource(  Hin Gen 45 5.mp3 ) to firestore: File not found
+Genesis 45:11: audio file not found:  Hin Gen 45 11.mp3
+Genesis Genesis 45:11: Error saving resource(  Hin Gen 45 11.mp3 ) to firestore: File not found
+Genesis 45:12-13: audio file not found:  Hin Gen 45 12-13.mp3
+Genesis Genesis 45:12-13: Error saving resource(  Hin Gen 45 12-13.mp3 ) to firestore: File not found
+Genesis 45:16: audio file not found: Hin Gen 45 16.mp3
+Genesis Genesis 45:16: Error saving resource( Hin Gen 45 16.mp3 ) to firestore: File not found
+Genesis 45:23-24: audio file not found: Hin Gen 45 23-24.mp3
+Genesis Genesis 45:23-24: Error saving resource( Hin Gen 45 23-24.mp3 ) to firestore: File not found
+**Genesis 44:1-34**
+Genesis 44:1-2: audio file not found: Hin Gen 44 1-2.mp3
+Genesis Genesis 44:1-2: Error saving resource( Hin Gen 44 1-2.mp3 ) to firestore: File not found
+Genesis 44:3-5 highlighted text: भविष्यवाणी करने के लिए is not included in the text
+Genesis 44:7-9: audio file not found:  Hin Gen 44 7-9.mp3
+Genesis Genesis 44:7-9: Error saving resource(  Hin Gen 44 7-9.mp3 ) to firestore: File not found
+Genesis 44:7-9 highlighted text: भविष्यवाणी करने के लिए is not included in the text
+Genesis 44:14-15: audio file not found:  Hin Gen 44 14-15.mp3
+Genesis Genesis 44:14-15: Error saving resource(  Hin Gen 44 14-15.mp3 ) to firestore: File not found
+Genesis 44:16: audio file not found: Hin Gen 44 16.mp3
+Genesis Genesis 44:16: Error saving resource( Hin Gen 44 16.mp3 ) to firestore: File not found
+Genesis 44:21: audio file not found: Hin Gen 44 21.mp3
+Genesis Genesis 44:21: Error saving resource( Hin Gen 44 21.mp3 ) to firestore: File not found
+Genesis 44:22: audio file not found: Hin Gen 44 22.mp3
+Genesis Genesis 44:22: Error saving resource( Hin Gen 44 22.mp3 ) to firestore: File not found
+Genesis 44:25-26: audio file not found: Hin Gen 44 25-26.mp3
+Genesis Genesis 44:25-26: Error saving resource( Hin Gen 44 25-26.mp3 ) to firestore: File not found
+Genesis 44:32: audio file not found:  Hin Gen 44 32.mp3
+Genesis Genesis 44:32: Error saving resource(  Hin Gen 44 32.mp3 ) to firestore: File not found
+Genesis 44:32 highlighted text: शर्म/अपराधबोध महसूस होगा।।’ is not included in the text
+**Genesis 46:1-27**
+Genesis 46:8: audio file not found: Hin Gen 46 8.mp3
+Genesis Genesis 46:8: Error saving resource( Hin Gen 46 8.mp3 ) to firestore: File not found
+Genesis 46:8 highlighted text: याकूब के साथ मिस्र गए थे: is not included in the text
+Genesis 46:9-10 highlighted text: सबसे बड़ा पुत्र is not included in the text
+Genesis 46:11-12: audio file not found: Hin Gen 46 11-12.mp3
+Genesis Genesis 46:11-12: Error saving resource( Hin Gen 46 11-12.mp3 ) to firestore: File not found
+Genesis 46:26-27 highlighted text: वे सब 70 लोग थे। is not included in the text
+Genesis 46:32-33: picture file not found: 14_FB_Joseph_Jacob_1024
+Genesis 46:32-33: audio file not found: Hin Gen 46 32-33.mp3
+Genesis 46:32-33: Error saving resource( 14_FB_Joseph_Jacob_1024 ) to firestore: File not found
+Genesis Genesis 46:32-33: Error saving resource( Hin Gen 46 32-33.mp3 ) to firestore: File not found
+Genesis 46:34: audio file not found: Hin Gen 46 34.mp3
+Genesis Genesis 46:34: Error saving resource( Hin Gen 46 34.mp3 ) to firestore: File not found
+**Genesis 4:1-26**
+**Genesis 5:1-32**
+**Genesis 6a:1-8**
+**Genesis 6b:9-22**
+**Genesis 7:1-24**
+**Genesis 8:1-22**
+Genesis 8:3b-5 highlighted text: सातवें महीने में  is not included in the text
+Genesis 8:18-19 highlighted text: दल से बाहर निकल आए is not included in the text
+**Genesis 9a:1-17**
+Genesis 9:14-16 highlighted text: मैं स्मरण करूंगा is not included in the text
+**Genesis 9b:18-29**
+**Genesis 47:1-31**
+Genesis 47:1: audio file not found: Hin Gen 47 1.mp3
+Genesis Genesis 47:1: Error saving resource( Hin Gen 47 1.mp3 ) to firestore: File not found
+Genesis 47:2-3: audio file not found: Hin Gen 47 2-3.mp3
+Genesis Genesis 47:2-3: Error saving resource( Hin Gen 47 2-3.mp3 ) to firestore: File not found
+Genesis 47:2-3 highlighted text: बाद में, यूसुफ ने चुना is not included in the text
+Genesis 47:2-3 highlighted text: मिलवाने के लिए is not included in the text
+Genesis 47:4-5: audio file not found: Hin Gen 47 4-5.mp3
+Genesis Genesis 47:4-5: Error saving resource( Hin Gen 47 4-5.mp3 ) to firestore: File not found
+Genesis 47:6: audio file not found: Hin Gen 47 6.mp3
+Genesis Genesis 47:6: Error saving resource( Hin Gen 47 6.mp3 ) to firestore: File not found
+Genesis 47:7-8 highlighted text: “तुम कितने वर्ष जीवित रहे हो?” is not included in the text
+Genesis 47:9-10: audio file not found: Hin Gen 47 9-10.mp3
+Genesis Genesis 47:9-10: Error saving resource( Hin Gen 47 9-10.mp3 ) to firestore: File not found
+Genesis 47:9-10 highlighted text: <i>
+
+राजा ने उसे अपने समक्ष से जाने की अनुमति दे दी।</i> is not included in the text
+Genesis 47:14: audio file not found: Hin Gen 47 14.mp3
+Genesis Genesis 47:14: Error saving resource( Hin Gen 47 14.mp3 ) to firestore: File not found
+Genesis 47:16-17: audio file not found: Hin Gen 47 16-17.mp3
+Genesis Genesis 47:16-17: Error saving resource( Hin Gen 47 16-17.mp3 ) to firestore: File not found
+Genesis 47:18: audio file not found: Hin Gen 47 18.mp3
+Genesis Genesis 47:18: Error saving resource( Hin Gen 47 18.mp3 ) to firestore: File not found
+Genesis 47:19: audio file not found: Hin Gen 47 19.mp3
+Genesis Genesis 47:19: Error saving resource( Hin Gen 47 19.mp3 ) to firestore: File not found
+Genesis 47:19 highlighted text: तुम हमारे खेतों को बंजर होते देखोगे। is not included in the text
+Genesis 47:20-21: audio file not found: Hin Gen 47 20-21.mp3
+Genesis Genesis 47:20-21: Error saving resource( Hin Gen 47 20-21.mp3 ) to firestore: File not found
+Genesis 47:20-21 highlighted text: यूसुफ ने मिस्र के राजा के लिए सारे खेत खरीद लिए। is not included in the text
+Genesis 47:22: audio file not found: Hin Gen 47 22.mp3
+Genesis Genesis 47:22: Error saving resource( Hin Gen 47 22.mp3 ) to firestore: File not found
+Genesis 47:23: audio file not found: Hin Gen 47 23.mp3
+Genesis Genesis 47:23: Error saving resource( Hin Gen 47 23.mp3 ) to firestore: File not found
+Genesis 47:24-25 highlighted text: please allow us to become the king’s slaves/servants
+कृपया हमें राजा का दास/सेवक बनने की अनुमति दें।” is not included in the text
+Genesis 47:26: audio file not found: Hin Gen 47 26.mp3
+Genesis Genesis 47:26: Error saving resource( Hin Gen 47 26.mp3 ) to firestore: File not found
+Genesis 47:27-28: audio file not found: Hin Gen 47 27-28.mp3
+Genesis Genesis 47:27-28: Error saving resource( Hin Gen 47 27-28.mp3 ) to firestore: File not found
+Genesis 47:27-28 highlighted text:  
+ज़मीन खरीदी। is not included in the text
+Genesis 47:29: audio file not found: Hin Gen 47 29.mp3
+Genesis Genesis 47:29: Error saving resource( Hin Gen 47 29.mp3 ) to firestore: File not found
+Genesis 47:30: audio file not found: Hin Gen 47 30-31 .mp3
+Genesis Genesis 47:30: Error saving resource( Hin Gen 47 30-31 .mp3 ) to firestore: File not found
+Genesis 47:30 highlighted text:  अपना सिर नीचे झुकाकर, परमेश्वर की आराधना करने लगा। is not included in the text
+**Genesis :37-57**
+Genesis 41:37-38: audio file not found: Hin Gen 41 37-38.mp3
+Genesis Genesis 41:37-38: Error saving resource( Hin Gen 41 37-38.mp3 ) to firestore: File not found
+Genesis 41:39-40: audio file not found: Hin  Gen 41 39-40.mp3
+Genesis Genesis 41:39-40: Error saving resource( Hin  Gen 41 39-40.mp3 ) to firestore: File not found
+Genesis 41:39-40 highlighted text: म्हें अपने विशाल महल के हर चीज़ पर राज्यपाल नियुक्त करता हूँ is not included in the text
+Genesis 41:41-42: audio file not found:  Hin  Gen 41 41-42.mp3
+Genesis Genesis 41:41-42: Error saving resource(  Hin  Gen 41 41-42.mp3 ) to firestore: File not found
+Genesis 41:43: audio file not found:  Hin  Gen 41 43.mp3
+Genesis Genesis 41:43: Error saving resource(  Hin  Gen 41 43.mp3 ) to firestore: File not found
+Genesis 41:44: audio file not found:  Hin  Gen 41 44.mp3
+Genesis Genesis 41:44: Error saving resource(  Hin  Gen 41 44.mp3 ) to firestore: File not found
+Genesis 41:45: audio file not found: Hin  Gen 41 45.mp3
+Genesis Genesis 41:45: Error saving resource( Hin  Gen 41 45.mp3 ) to firestore: File not found
+Genesis 41:46: audio file not found:  Hin  Gen 41 46.mp3
+Genesis Genesis 41:46: Error saving resource(  Hin  Gen 41 46.mp3 ) to firestore: File not found
+Genesis 41:47-48: audio file not found:  Hin  Gen 41 47-48.mp3
+Genesis Genesis 41:47-48: Error saving resource(  Hin  Gen 41 47-48.mp3 ) to firestore: File not found
+Genesis 41:47-48 highlighted text: मिस्र की भूमि में भरपूर अनाज की पैदावार हुई is not included in the text
+Genesis 41:49: audio file not found:  Hin  Gen 41 49.mp3
+Genesis Genesis 41:49: Error saving resource(  Hin  Gen 41 49.mp3 ) to firestore: File not found
+Genesis 41:50-51: audio file not found:  Hin  Gen 41 50-51.mp3
+Genesis Genesis 41:50-51: Error saving resource(  Hin  Gen 41 50-51.mp3 ) to firestore: File not found
+Genesis 41:52: audio file not found:  Hin  Gen 41 52.mp3
+Genesis Genesis 41:52: Error saving resource(  Hin  Gen 41 52.mp3 ) to firestore: File not found
+Genesis 41:53-54: audio file not found:  Hin  Gen 41 53-54.mp3
+Genesis Genesis 41:53-54: Error saving resource(  Hin  Gen 41 53-54.mp3 ) to firestore: File not found
+Genesis 41:53-54 highlighted text: अनाज भंडारित कर is not included in the text
+Genesis 41:55: audio file not found: Hin  Gen 41 55.mp3
+Genesis Genesis 41:55: Error saving resource( Hin  Gen 41 55.mp3 ) to firestore: File not found
+Genesis 41:56: audio file not found: Hin  Gen 41 56.mp3
+Genesis Genesis 41:56: Error saving resource( Hin  Gen 41 56.mp3 ) to firestore: File not found
+Genesis 41:57: audio file not found:  Hin  Gen 41 57.mp3
+Genesis Genesis 41:57: Error saving resource(  Hin  Gen 41 57.mp3 ) to firestore: File not found
+**Genesis शीर्षक:,उत्पत्ति,33:1-20**
+Genesis 33:18 highlighted text: <i></i> is exact match of BEN Text Options
+**Genesis 48:1-22**
+Genesis 48:1-2: audio file not found: Hin Gen 48 1-2.mp3
+Genesis Genesis 48:1-2: Error saving resource( Hin Gen 48 1-2.mp3 ) to firestore: File not found
+Genesis 48:1-2 highlighted text: तो वह अपने पलंग पर बैठ गया, यद्यपि उसके लिए ऐसा करना कठिन था। is not included in the text
+Genesis 48:3-4: audio file not found:  Hin  Gen 48 3-4.mp3
+Genesis Genesis 48:3-4: Error saving resource(  Hin  Gen 48 3-4.mp3 ) to firestore: File not found
+Genesis 48:3-4 highlighted text: शक्ति दूंगा। is not included in the text
+Genesis 48:5: audio file not found:  Hin  Gen 48 5.mp3
+Genesis Genesis 48:5: Error saving resource(  Hin  Gen 48 5.mp3 ) to firestore: File not found
+Genesis 48:5 highlighted text: मैं गोद ले रहा हूँ, is not included in the text
+Genesis 48:6: audio file not found: Hin  Gen 48 6.mp3
+Genesis Genesis 48:6: Error saving resource( Hin  Gen 48 6.mp3 ) to firestore: File not found
+Genesis 48:7: audio file not found: Hin  Gen 48 7.mp3
+Genesis Genesis 48:7: Error saving resource( Hin  Gen 48 7.mp3 ) to firestore: File not found
+Genesis 48:8-9: audio file not found: Hin Gen 48 8-9.mp3
+Genesis Genesis 48:8-9: Error saving resource( Hin Gen 48 8-9.mp3 ) to firestore: File not found
+Genesis 48:10: audio file not found: Hin  Gen 48 10.mp3
+Genesis Genesis 48:10: Error saving resource( Hin  Gen 48 10.mp3 ) to firestore: File not found
+Genesis 48:11: audio file not found: Hin Gen 48 11.mp3
+Genesis Genesis 48:11: Error saving resource( Hin Gen 48 11.mp3 ) to firestore: File not found
+Genesis 48:12-13: audio file not found:  Hin  Gen 48 12-13.mp3
+Genesis Genesis 48:12-13: Error saving resource(  Hin  Gen 48 12-13.mp3 ) to firestore: File not found
+Genesis 48:14: audio file not found:  Hin  Gen 48 14.mp3
+Genesis Genesis 48:14: Error saving resource(  Hin  Gen 48 14.mp3 ) to firestore: File not found
+Genesis 48:14 highlighted text:  his right hand
+अपना दाहिना हाथ is not included in the text
+Genesis 48:15: audio file not found: Hin Gen 48 15.mp3
+Genesis Genesis 48:15: Error saving resource( Hin Gen 48 15.mp3 ) to firestore: File not found
+Genesis 48:16: audio file not found: Hin Gen 48 16.mp3
+Genesis Genesis 48:16: Error saving resource( Hin Gen 48 16.mp3 ) to firestore: File not found
+Genesis 48:17: audio file not found: Hin Gen 48 17.mp3
+Genesis Genesis 48:17: Error saving resource( Hin Gen 48 17.mp3 ) to firestore: File not found
+Genesis 48:17 highlighted text: वह व्याकुल हो गया। is not included in the text
+Genesis 48:18: audio file not found:  Hin  Gen 48 18.mp3
+Genesis Genesis 48:18: Error saving resource(  Hin  Gen 48 18.mp3 ) to firestore: File not found
+Genesis 48:19: audio file not found: Hin Gen 48 19.mp3
+Genesis Genesis 48:19: Error saving resource( Hin Gen 48 19.mp3 ) to firestore: File not found
+Genesis 48:20: audio file not found: Hin Gen 48 20.mp3
+Genesis Genesis 48:20: Error saving resource( Hin Gen 48 20.mp3 ) to firestore: File not found
+Genesis 48:20 highlighted text: सहायता करे, जैसे उसने एप्रैम और मनश्शे की सहायता की।’ is not included in the text
+Genesis 48:21: audio file not found:  Hin  Gen 48 21.mp3
+Genesis Genesis 48:21: Error saving resource(  Hin  Gen 48 21.mp3 ) to firestore: File not found
+Genesis 48:22: audio file not found:  Hin  Gen 48 22.mp3
+Genesis Genesis 48:22: Error saving resource(  Hin  Gen 48 22.mp3 ) to firestore: File not found
+**Genesis 49:1-33**
+Genesis 49:1 highlighted text: तुममें से प्रत्येक के साथ क्या होगा।” is not included in the text
+Genesis 49:4 highlighted text: <i>minor wife
+नाबालिग पत्नी</i> is not included in the text
+Genesis 49:5-6 highlighted text: , तुम भाई हो। is not included in the text
+Genesis 49:11-12: audio file not found: Hin Gen 49 11-12.mp3
+Genesis Genesis 49:11-12: Error saving resource( Hin Gen 49 11-12.mp3 ) to firestore: File not found
+Genesis 49:21: audio file not found: Hin Gen 49 21.mp3
+Genesis Genesis 49:21: Error saving resource( Hin Gen 49 21.mp3 ) to firestore: File not found
+Genesis 49:27: audio file not found: Hin Gen 49 27.mp3
+Genesis Genesis 49:27: Error saving resource( Hin Gen 49 27.mp3 ) to firestore: File not found

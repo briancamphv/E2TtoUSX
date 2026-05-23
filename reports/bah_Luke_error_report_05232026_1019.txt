@@ -1,0 +1,78 @@
+**Luke 10:1-42**
+**Luke 15:1-32**
+Luke 15:1-2 commentary: Banyak pemungut cukai Error saving resource( Situasi serupa tercatat dalam Lukas 5:27-32; 7:37-50. Para pemimpin agama Yahudi sangat membenci para pemungut cukai. Mereka menganggap diri mereka adalah orang yang sangat baik dibandingkan dengan orang-orang yang tampak sangat berdosa seperti pelacur, orang miskin, dan orang non-Yahudi yang mereka anggap sangat berdosa. ) to firestore: File not found
+Luke 15:7 commentary: daripada 99 orang yang tidak perlu bertobat. Error saving resource( Para pemimpin agama Yahudi menganggap diri mereka "benar" dan karena itu mereka tidak perlu bertobat seperti banyak orang berdosa lainnya di dunia. ) to firestore: File not found
+Luke 15:7 commentary: daripada 99 orang yang tidak perlu bertobat. Error saving resource( Beberapa ahli berpendapat bahwa Yesus sedang menyindir atau mengejek ketika menyebut 99 orang "yang tidak perlu bertobat", dan oleh karena itu yang Ia maksud adalah orang-orang "yang berpikir bahwa mereka tidak perlu bertobat". ) to firestore: File not found
+Luke 15:18-19 commentary: Aku akan berkata kepadanya, "Bapa, aku telah berdosa terhadap Allah dan terhadapmu. Error saving resource( Orang-orang Yahudi sering mengucapkan “sorga” daripada mengucapkan Allah atau nama Allah. ) to firestore: File not found
+Luke 15:22 commentary:  jubah terbaikku Error saving resource( Jubah yang terbaik adalah milik sang ayah. ) to firestore: File not found
+Luke 15:22 commentary:  Kenakan c<i>incin meteraiku</i> pada jarinya, Error saving resource( Mengenakan cincin meterai menunjukkan bahwa seseorang memiliki wewenang/status. ) to firestore: File not found
+Luke 15:22 commentary: kenakan sandal pada kakinya Error saving resource( Budak dan pembantu rendahan tidak mengenakan sepatu/sandal. ) to firestore: File not found
+Luke 15:23-24 commentary: bawalah anak lembu yang gemuk Error saving resource( Jika masyarakat Anda tidak tahu tentang beternak sapi muda (anak sapi) untuk pesta, Anda dapat menerjemahkannya secara lebih umum, misalnya "berburu hewan gemuk". (Namun, jangan bicara tentang mendapatkan anak babi, karena orang Yahudi tidak akan pernah makan babi.) ) to firestore: File not found
+Luke 15:23-24 commentary: bawalah anak lembu yang gemuk Error saving resource( Terjemahkan ini secara konsisten di sepanjang sisa cerita. ) to firestore: File not found
+**Luke 12:,1-5912:1-59**
+**Luke 11:1-54**
+**Luke 14:1-35**
+Luke 14:2-3 commentary:  Error saving resource( edema arms photo.jpg ) to firestore: File not found
+**Luke 13:1-35**
+**Luke 17:1-37**
+Luke 17:28: audio file not found:  BAH Luk 17 28.mp3
+Luke Luke 17:28: Error saving resource(  BAH Luk 17 28.mp3 ) to firestore: File not found
+Luke 17:29-30: audio file not found:  BAH Luk 17 29-30.mp3
+Luke Luke 17:29-30: Error saving resource(  BAH Luk 17 29-30.mp3 ) to firestore: File not found
+Luke 17:31: audio file not found:  BAH Luk 17 31.mp3
+Luke Luke 17:31: Error saving resource(  BAH Luk 17 31.mp3 ) to firestore: File not found
+Luke 17:32-33: audio file not found:  BAH Luk 17 32-33.mp3
+Luke Luke 17:32-33: Error saving resource(  BAH Luk 17 32-33.mp3 ) to firestore: File not found
+Luke 17:34: audio file not found:  BAH Luk 17 34.mp3
+Luke Luke 17:34: Error saving resource(  BAH Luk 17 34.mp3 ) to firestore: File not found
+Luke 17:35-36: audio file not found:  BAH Luk 17 35-36.mp3
+Luke Luke 17:35-36: Error saving resource(  BAH Luk 17 35-36.mp3 ) to firestore: File not found
+Luke 17:37: audio file not found:  BAH Luk 17 37.mp3
+Luke Luke 17:37: Error saving resource(  BAH Luk 17 37.mp3 ) to firestore: File not found
+**Luke 16:1-31**
+**Luke 18:1-43**
+**Luke 19:1-48**
+Luke 19:15b: audio file not found:  BAH Luk 19 15b.mp3
+Luke Luke 19:15b: Error saving resource(  BAH Luk 19 15b.mp3 ) to firestore: File not found
+**Luke 1:1-25**
+Luke 1:13-14: audio file not found: BAH Luk 1 13-14 Howard.mp3
+Luke Luke 1:13-14: Error saving resource( BAH Luk 1 13-14 Howard.mp3 ) to firestore: File not found
+Luke 1:19 highlighted text: <i></i> is exact match of BEN Text Options
+**Luke 1:57-80**
+Luke bookInfo summary is missing or empty
+**Luke 1:26-56**
+Luke bookInfo summary is missing or empty
+Luke 1:26-27: audio file not found: BAH Luk 1 26-27.mp3
+Luke Luke 1:26-27: Error saving resource( BAH Luk 1 26-27.mp3 ) to firestore: File not found
+Luke 1:28-29: audio file not found:  BAH Luk 1 28-29.mp3
+Luke Luke 1:28-29: Error saving resource(  BAH Luk 1 28-29.mp3 ) to firestore: File not found
+Luke 1:34-35: picture file not found: Lk 1  34-35.jpg
+Luke 1:34-35: Error saving resource( Lk 1  34-35.jpg ) to firestore: File not found
+Luke 1:39-40: picture file not found: Lk 1  40.jpg
+Luke 1:39-40: Error saving resource( Lk 1  40.jpg ) to firestore: File not found
+Luke 1:46-48: audio file not found:  BAH Luk 1 46-48 Mary.mp3
+Luke Luke 1:46-48: Error saving resource(  BAH Luk 1 46-48 Mary.mp3 ) to firestore: File not found
+Luke 1:56: picture file not found: Lk 1  56.jpg
+Luke 1:56: audio file not found:  BAH Luk 1 56.mp3
+Luke 1:56: Error saving resource( Lk 1  56.jpg ) to firestore: File not found
+Luke Luke 1:56: Error saving resource(  BAH Luk 1 56.mp3 ) to firestore: File not found
+**Luke 20:1-47**
+Luke 20:17-18 commentary: batu yang paling penting dan meletakkannya di sudut utama <i>di bait suci</i> Error saving resource( cornerstonestockadobedotcom.jpg ) to firestore: File not found
+Luke 20:20: audio file not found:  BAH Luk 20 20.mp3
+Luke Luke 20:20: Error saving resource(  BAH Luk 20 20.mp3 ) to firestore: File not found
+**Luke 21:1-47**
+**Luke 22:1-71**
+**Luke 23:1-56**
+**Luke 24:1-53**
+Latar belakang informasi:: Error saving resource( crucifiction dict audio.mp3 ) to firestore: File not found
+**Luke 2:1-24**
+**Luke 2:25-52**
+**Luke 3:1-38**
+**Luke 7:1-50**
+**Luke 8:1-56**
+Luke 8:47: audio file not found:  BAH Luk 8 47-.mp3
+Luke Luke 8:47: Error saving resource(  BAH Luk 8 47-.mp3 ) to firestore: File not found
+**Luke 9:1-62**
+**Luke 4,:1-44**
+**Luke 5:1-39**
+**Luke 6:1-49**
