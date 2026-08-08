@@ -1,0 +1,36 @@
+**Zechariah 10:1-12**
+Zechariah 10:3 commentary:  like a war/military horse Error saving resource( 10 3 war horse.jpg ) to firestore: File not found
+**Zechariah 11:1-17**
+Zechariah 11:17 highlighted text: O worthless/bad shepherd whom I appointed is not included in the text
+**Zechariah 12:1-14**
+**Zechariah 13:1-9**
+Zechariah 13:5-6: picture file not found: 13 5 liar farmer.jpg
+Zechariah 13:5-6: Error saving resource( 13 5 liar farmer.jpg ) to firestore: File not found
+Zechariah 13:5-6 commentary: What caused these wounds/scars (which you have) on your chest/skin? 
+<i>Did you cut yourself as false prophets do?</i> Error saving resource( 13 5 cutting skin false prophet.jpg ) to firestore: File not found
+Zechariah 13:7: picture file not found: 13 8 soldier attack shepherd.jpg
+Zechariah 13:7: Error saving resource( 13 8 soldier attack shepherd.jpg ) to firestore: File not found
+**Zechariah 1:1-21**
+**Zechariah 2:1-13**
+**Zechariah 4:1-14**
+**Zechariah 3:1-10**
+**Zechariah 5:1-11**
+Zechariah Zechariah :: is less than the previous pericope's chapter of: 5
+**Zechariah 6:1-15**
+Zechariah 6:4-5: picture file not found: 4 3 I don't know.jpg
+Zechariah 6:4-5: Error saving resource( 4 3 I don't know.jpg ) to firestore: File not found
+**Zechariah 7:1-14**
+**Zechariah 8:1-23**
+Zechariah 8:4-5: picture file not found: 8 3 children in streets.jpg
+Zechariah 8:4-5: Error saving resource( 8 3 children in streets.jpg ) to firestore: File not found
+Zechariah 8:10-12a: picture file not found: 8 11 vineyard fruit.jpg
+Zechariah 8:10-12a: Error saving resource( 8 11 vineyard fruit.jpg ) to firestore: File not found
+Zechariah 8:16-17: audio file not found: undefined
+**Zechariah 9:1-17**
+Zechariah 9:1-2: picture file not found: 9 1 map damascus tyre sidon.jpg
+Zechariah 9:1-2: Error saving resource( 9 1 map damascus tyre sidon.jpg ) to firestore: File not found
+Zechariah 9:13: picture file not found: 9 14 bow warfare.jpg
+Zechariah 9:13: Error saving resource( 9 14 bow warfare.jpg ) to firestore: File not found
+Zechariah 9:15: picture file not found: 9 15 blood poured on altar.jpg
+Zechariah 9:15: Error saving resource( 9 15 blood poured on altar.jpg ) to firestore: File not found
+Zechariah 9:16-17 commentary:  fresh bread and new wine  Error saving resource( 9 15 bread wine.jpg ) to firestore: File not found

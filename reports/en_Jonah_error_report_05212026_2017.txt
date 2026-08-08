@@ -1,5 +1,0 @@
-**Jonah 1**
-**Jonah 2**
-Jonah bookInfo summary is missing or empty
-**Jonah 3**
-**Jonah 4**

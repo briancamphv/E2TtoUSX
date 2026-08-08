@@ -1,0 +1,468 @@
+**Numbers 12:1-16**
+Numbers 12:1-2: audio file not found: undefined
+Numbers 12:3-6a: audio file not found: undefined
+Numbers 12:6b-8a: audio file not found: undefined
+Numbers 12:8b-10: audio file not found: undefined
+Numbers 12:11-13: audio file not found: undefined
+Numbers 12:14-16: audio file not found: undefined
+**Numbers 12:1-16**
+Numbers 12:1-2: audio file not found: undefined
+Numbers 12:3-6a: audio file not found: undefined
+Numbers 12:6b-8a: audio file not found: undefined
+Numbers 12:8b-10: audio file not found: undefined
+Numbers 12:11-13: audio file not found: undefined
+Numbers 12:14-16: audio file not found: undefined
+**Numbers 10:1-36**
+Numbers 10:1-3: audio file not found: Num 10 1 3.mp3
+Numbers Numbers 10:1-3: Error saving resource( Num 10 1 3.mp3 ) to firestore: File not found
+Numbers 10:4-7: picture file not found: Num 10 4 7 1 trumpet.jpg
+Numbers 10:4-7: audio file not found: Num 10 4 7.mp3
+Numbers 10:4-7: Error saving resource( Num 10 4 7 1 trumpet.jpg ) to firestore: File not found
+Numbers Numbers 10:4-7: Error saving resource( Num 10 4 7.mp3 ) to firestore: File not found
+Numbers 10:8-9: picture file not found: Num 10 8 9 trumpets.jpg
+Numbers 10:8-9: Error saving resource( Num 10 8 9 trumpets.jpg ) to firestore: File not found
+Numbers 10:8-9 highlighted text: will remember you(pl) and will save you is not included in the text
+Numbers 10:10: picture file not found: Num 10 10 trumpet sacrifice.jpg
+Numbers 10:10: Error saving resource( Num 10 10 trumpet sacrifice.jpg ) to firestore: File not found
+Numbers 10:11-13: picture file not found: Num 10 11 13 cloud leaving.mpj
+Numbers 10:11-13: Error saving resource( Num 10 11 13 cloud leaving.mpj ) to firestore: File not found
+Numbers 10:23-24: picture file not found: Num 10 23 24 manasshe.jpg
+Numbers 10:23-24: Error saving resource( Num 10 23 24 manasshe.jpg ) to firestore: File not found
+Numbers 10:25-28: picture file not found: Num 10 25 28 Asher.jpg
+Numbers 10:25-28: Error saving resource( Num 10 25 28 Asher.jpg ) to firestore: File not found
+Numbers 10:25-28 highlighted text: <i>They were joined by the Asher tribe.</i> is not included in the text
+Numbers 10:31-32: picture file not found: Num 10 31 32 Hobab.jpg
+Numbers 10:31-32: Error saving resource( Num 10 31 32 Hobab.jpg ) to firestore: File not found
+Numbers 10:33-34: picture file not found: Num 10 33 34 ark.jpg
+Numbers 10:33-34: Error saving resource( Num 10 33 34 ark.jpg ) to firestore: File not found
+Numbers 10:35-36: picture file not found: Num 10 35 36 Moses.jpg
+Numbers 10:35-36: Error saving resource( Num 10 35 36 Moses.jpg ) to firestore: File not found
+**Numbers 12:1-16**
+Numbers 12:6b-8a: picture file not found: Num 6b 8s moses n God.jpg
+Numbers 12:6b-8a: Error saving resource( Num 6b 8s moses n God.jpg ) to firestore: File not found
+Numbers 12:8b-10: audio file not found: Num 12 8a 10.mp3
+Numbers Numbers 12:8b-10: Error saving resource( Num 12 8a 10.mp3 ) to firestore: File not found
+Numbers 12:14-16: audio file not found: undefined
+**Numbers 11:1-35**
+Numbers 11:1 commentary: complaining aloud Error saving resource( 11 1 complaining to Moses.jpg ) to firestore: File not found
+Numbers 11:10-11: picture file not found: 11 10 Moses talking with God 1.jpg
+Numbers 11:10-11: Error saving resource( 11 10 Moses talking with God 1.jpg ) to firestore: File not found
+Numbers 11:12-13: picture file not found: 11 12 Moses talking with God 2,jpg
+Numbers 11:12-13: Error saving resource( 11 12 Moses talking with God 2,jpg ) to firestore: File not found
+Numbers :16: picture file not found: 11 16 Moese and 70 elders.jpg
+Numbers :16: Error saving resource( 11 16 Moese and 70 elders.jpg ) to firestore: File not found
+Numbers Numbers :16: is less than the previous pericope's chapter of: 11
+Numbers 11:31 commentary:  The quail <i>were so tired that they </i>were flying about two cubits above the ground. Error saving resource( Quail.jpg ) to firestore: File not found
+Numbers 11:32-33: picture file not found: 11 32 Eating Quail.jpg
+Numbers 11:32-33: Error saving resource( 11 32 Eating Quail.jpg ) to firestore: File not found
+**Numbers 12:1-16**
+Numbers 12:1-2: audio file not found: undefined
+Numbers 12:3-6a: audio file not found: undefined
+Numbers 12:6b-8a: audio file not found: undefined
+Numbers 12:8b-10: audio file not found: undefined
+Numbers 12:11-13: audio file not found: undefined
+Numbers 12:14-16: audio file not found: undefined
+**Numbers 13:1-33**
+Numbers 13:21-22 highlighted text: they saw Anak’s <i>tall/giant </i>descendants is not included in the text
+Numbers 13:25-26: picture file not found: Num 13 25 26 report.jpg
+Numbers 13:25-26: Error saving resource( Num 13 25 26 report.jpg ) to firestore: File not found
+**Numbers 13:1-36**
+Numbers 36:1-2: audio file not found: undefined
+Numbers 36:3-4a: audio file not found: undefined
+Numbers 36:4b-6: audio file not found: undefined
+Numbers 36:7-8: audio file not found: undefined
+Numbers 36:9: audio file not found: undefined
+Numbers 36:10-12: audio file not found: undefined
+Numbers :: audio file not found: undefined
+Numbers Numbers :: is less than the previous pericope's chapter of: 36
+**Numbers 14:1-45**
+Numbers 14:7b-9: picture file not found: Num 14 7 9 dont rebel.jpg
+Numbers 14:7b-9: Error saving resource( Num 14 7 9 dont rebel.jpg ) to firestore: File not found
+Numbers 14:19: picture file not found: Num 14 19 moses pray.pg
+Numbers 14:19: Error saving resource( Num 14 19 moses pray.pg ) to firestore: File not found
+Numbers 14:20-21: picture file not found: Num 14 2 0 21 god speaks to Moses.jpg
+Numbers 14:20-21: Error saving resource( Num 14 2 0 21 god speaks to Moses.jpg ) to firestore: File not found
+Numbers 14:20-21 highlighted text: as I live is not included in the text
+Numbers 14:26-28: picture file not found: Num 14 26 28 murmur.jpg
+Numbers 14:26-28: Error saving resource( Num 14 26 28 murmur.jpg ) to firestore: File not found
+**Numbers 15.1-41**
+Numbers 15:6-8 highlighted text: a  pleasant/good smell/odor for (me) Yahweh is not included in the text
+Numbers 15:11-13: picture file not found: Num 15 11 13.animals.jpg
+Numbers 15:11-13: Error saving resource( Num 15 11 13.animals.jpg ) to firestore: File not found
+Numbers 15:14: picture file not found: Num 14 14 foreigners.jpg
+Numbers 15:14: Error saving resource( Num 14 14 foreigners.jpg ) to firestore: File not found
+Numbers 15:15-16: picture file not found: Num 14 115 16 foreigners.jpg
+Numbers 15:15-16: audio file not found: Num 15 16,mp3
+Numbers 15:15-16: Error saving resource( Num 14 115 16 foreigners.jpg ) to firestore: File not found
+Numbers Numbers 15:15-16: Error saving resource( Num 15 16,mp3 ) to firestore: File not found
+Numbers 15:17-20a: audio file not found: Num 15 17 20,mp3
+Numbers Numbers 15:17-20a: Error saving resource( Num 15 17 20,mp3 ) to firestore: File not found
+Numbers 15:22-23: picture file not found: Num 15 22 23.jpg
+Numbers 15:22-23: Error saving resource( Num 15 22 23.jpg ) to firestore: File not found
+Numbers 15:24: picture file not found: Num 15 24 bull goat grain drink.jpg
+Numbers 15:24: Error saving resource( Num 15 24 bull goat grain drink.jpg ) to firestore: File not found
+Numbers 15:25-26: picture file not found: Num 15 25 26 sacrifice.jpg
+Numbers 15:25-26: Error saving resource( Num 15 25 26 sacrifice.jpg ) to firestore: File not found
+Numbers 15:27-29: picture file not found: Num 15 27 29 sacrifice.jpg
+Numbers 15:27-29: Error saving resource( Num 15 27 29 sacrifice.jpg ) to firestore: File not found
+Numbers 15:30-31: picture file not found: Num 15 30 31 outside.jpg
+Numbers 15:30-31: Error saving resource( Num 15 30 31 outside.jpg ) to firestore: File not found
+Numbers 15:32-34: picture file not found: Num 15 32 34 gather.jpg
+Numbers 15:32-34: Error saving resource( Num 15 32 34 gather.jpg ) to firestore: File not found
+Numbers 15:35-36: picture file not found: Num 15 35 36 stoning.jpg
+Numbers 15:35-36: audio file not found: undefined
+Numbers 15:35-36: Error saving resource( Num 15 35 36 stoning.jpg ) to firestore: File not found
+Numbers 15:37-39: picture file not found: Num 15 37 39 tassels.jpg
+Numbers 15:37-39: audio file not found: undefined
+Numbers 15:37-39: Error saving resource( Num 15 37 39 tassels.jpg ) to firestore: File not found
+Numbers 15:40-41: picture file not found: Num 15 40 41 Moses.jpg
+Numbers 15:40-41: Error saving resource( Num 15 40 41 Moses.jpg ) to firestore: File not found
+**Numbers 17:1-13**
+Numbers 17:6-7: picture file not found: Num 17 6 7 rods.jpg
+Numbers 17:6-7: audio file not found: undefined
+Numbers 17:6-7: Error saving resource( Num 17 6 7 rods.jpg ) to firestore: File not found
+Numbers 17:8-9: picture file not found: Num 17 8 9.rods.jpg
+Numbers 17:8-9: Error saving resource( Num 17 8 9.rods.jpg ) to firestore: File not found
+Numbers 17:10-11: picture file not found: Num 17 10 11.jpg
+Numbers 17:10-11: Error saving resource( Num 17 10 11.jpg ) to firestore: File not found
+**Numbers 16:1-50**
+Numbers 16:3: picture file not found: Num 16 3 grumble.mp3
+Numbers 16:3: audio file not found: Num 16 3. mp3
+Numbers 16:3: Error saving resource( Num 16 3 grumble.mp3 ) to firestore: File not found
+Numbers Numbers 16:3: Error saving resource( Num 16 3. mp3 ) to firestore: File not found
+Numbers 16:8-9: picture file not found: Num16 8 9 Moses Kohath.jpg
+Numbers 16:8-9: Error saving resource( Num16 8 9 Moses Kohath.jpg ) to firestore: File not found
+Numbers 16:14: picture file not found: Num 16 14 Dathan.jpg
+Numbers 16:14: Error saving resource( Num 16 14 Dathan.jpg ) to firestore: File not found
+Numbers 16:15: picture file not found: Num 16 15 pray.jpg
+Numbers 16:15: Error saving resource( Num 16 15 pray.jpg ) to firestore: File not found
+Numbers 16:16-17: audio file not found: Num 16 17.mp3
+Numbers Numbers 16:16-17: Error saving resource( Num 16 17.mp3 ) to firestore: File not found
+Numbers 16:23-25: picture file not found: Num 16 23 25 separate.jpg
+Numbers 16:23-25: Error saving resource( Num 16 23 25 separate.jpg ) to firestore: File not found
+Numbers 16:39-40: picture file not found: Num 16 39 40 censers smashed.jpg
+Numbers 16:39-40: Error saving resource( Num 16 39 40 censers smashed.jpg ) to firestore: File not found
+Numbers 16:43-45: picture file not found: Num 16 43 45 fell on face.jpg
+Numbers 16:43-45: Error saving resource( Num 16 43 45 fell on face.jpg ) to firestore: File not found
+**Numbers 1:1-54**
+Numbers 1:1: picture file not found: map wilderness stages.jpg
+Numbers 1:1: Error saving resource( map wilderness stages.jpg ) to firestore: File not found
+Numbers 1:5-9: picture file not found: Num 1 5 Moody Moses.jpg
+Numbers 1:5-9: Error saving resource( Num 1 5 Moody Moses.jpg ) to firestore: File not found
+Numbers 1:10-15: picture file not found: Num 1 10 Moody Moses.jpg
+Numbers 1:10-15: Error saving resource( Num 1 10 Moody Moses.jpg ) to firestore: File not found
+Numbers 1:18b-19: picture file not found: Num 118 Moses count.jpg
+Numbers 1:18b-19: Error saving resource( Num 118 Moses count.jpg ) to firestore: File not found
+Numbers 1:18b-19 highlighted text: in their clans and in their ancestral families is not included in the text
+Numbers 1:47-49: picture file not found: Num 1 47 Levi Camp.jpg
+Numbers 1:47-49: Error saving resource( Num 1 47 Levi Camp.jpg ) to firestore: File not found
+Numbers 1:50: picture file not found: Num 1 50 Livites Tabernacle.jpg
+Numbers 1:50: Error saving resource( Num 1 50 Livites Tabernacle.jpg ) to firestore: File not found
+Numbers 1:51-52: picture file not found: Num 1 51 Moses tabernacle.jpg
+Numbers 1:51-52: Error saving resource( Num 1 51 Moses tabernacle.jpg ) to firestore: File not found
+Numbers 1:53-54: picture file not found: Num 1 53 Levi camp.jpg
+Numbers 1:53-54: Error saving resource( Num 1 53 Levi camp.jpg ) to firestore: File not found
+**Numbers 21:1-35**
+Numbers 21:8-9: picture file not found: Num 21 8 9 snake.jpg
+Numbers 21:8-9: Error saving resource( Num 21 8 9 snake.jpg ) to firestore: File not found
+Numbers 21:10-13a: picture file not found: Num 21 10 13 travel.jpg
+Numbers 21:10-13a: audio file not found: Num 21 10 13.mpe
+Numbers 21:10-13a: Error saving resource( Num 21 10 13 travel.jpg ) to firestore: File not found
+Numbers Numbers 21:10-13a: Error saving resource( Num 21 10 13.mpe ) to firestore: File not found
+Numbers 21:33-34a: audio file not found: Num 33 34.mp3
+Numbers Numbers 21:33-34a: Error saving resource( Num 33 34.mp3 ) to firestore: File not found
+**Numbers 22:1-41**
+Numbers 22:1: picture file not found: Num 22 1.jpg
+Numbers 22:1: Error saving resource( Num 22 1.jpg ) to firestore: File not found
+Numbers 22:2-4: picture file not found: Num 22 2 4 balak ox,jpg
+Numbers 22:2-4: Error saving resource( Num 22 2 4 balak ox,jpg ) to firestore: File not found
+Numbers 22:7-8: picture file not found: Num 22 7 8 balam.jpg
+Numbers 22:7-8: Error saving resource( Num 22 7 8 balam.jpg ) to firestore: File not found
+Numbers 22:12-14 highlighted text: The god is not included in the text
+Numbers 22:15-17 highlighted text: surely highly honor you is not included in the text
+Numbers 22:18-19 highlighted text: by doing more or less is not included in the text
+Numbers 22:22-23: audio file not found: Num 2222 23.mp3
+Numbers Numbers 22:22-23: Error saving resource( Num 2222 23.mp3 ) to firestore: File not found
+Numbers 22:31-33: picture file not found: Num 22 31 33 nagel donkey.jpg
+Numbers 22:31-33: Error saving resource( Num 22 31 33 nagel donkey.jpg ) to firestore: File not found
+Numbers 22:31-33 commentary:  Error saving resource( TBP video Angel of the Lord ) to firestore: File not found
+Numbers 22:41 commentary:  Error saving resource( Per Leo.ai via Brave browser.: ) to firestore: File not found
+Numbers 22:41 commentary:  Error saving resource( The Deir 'Alla inscription contains a prophecy where Balaam son of Beor, described as "a divine seer," receives a nighttime vision from the gods. Here's the key portion of the prophecy: ) to firestore: File not found
+Numbers 22:41 commentary:  Error saving resource( Opening:The misfortunes of the book of Balaam son of Beor. A divine seer was he.  ) to firestore: File not found
+Numbers 22:41 commentary:  Error saving resource( The Vision:The gods came to him at night And he beheld in a vision in accordance with El's utterance. ) to firestore: File not found
+Numbers 22:41 commentary:  Error saving resource( They said to Balaam son of Beor: "So will be done, with naught surviving, No one has seen [the likes of] what you have heard. ) to firestore: File not found
+Numbers 22:41 commentary:  Error saving resource( " Balaam's Response:Balaam arose on the morrow... He summoned the heads of the assembly unto him. And for two days he fasted and wept bitterly. Then his intimates entered into his presence, And they said to Balaam son of Beor:  ) to firestore: File not found
+Numbers 22:41 commentary:  Error saving resource( "Why do you fast and why do you weep?" And he said to them: "Be seated and I will tell you what the Shadday-gods have planned, And go, see the acts of the gods. ) to firestore: File not found
+Numbers 22:41 commentary:  Error saving resource( " The prophecy describes how a council of gods opposing El commanded deities to "sew up the heavens" so darkness would prevail, causing catastrophe on earth. The inscription suggests Balaam found a way to counteract this divine plan and save the world.  ) to firestore: File not found
+**Numbers 23:1-29**
+Numbers 23:1-2: picture file not found: Num 23 1 2 alters7.jpg
+Numbers 23:1-2: Error saving resource( Num 23 1 2 alters7.jpg ) to firestore: File not found
+Numbers 23:3: picture file not found: Num 23 3 Balak.jpg
+Numbers 23:3: audio file not found: Num 23 2.mp3
+Numbers 23:3: Error saving resource( Num 23 3 Balak.jpg ) to firestore: File not found
+Numbers Numbers 23:3: Error saving resource( Num 23 2.mp3 ) to firestore: File not found
+Numbers 23:10: picture file not found: Num 23 10 alters.jpg
+Numbers 23:10: Error saving resource( Num 23 10 alters.jpg ) to firestore: File not found
+Numbers 23:11-12: picture file not found: Num 23 11 12balak.jpg
+Numbers 23:11-12: Error saving resource( Num 23 11 12balak.jpg ) to firestore: File not found
+**Numbers 25:1-18**
+Numbers 25:1-3: picture file not found: Num 25 1 3 ba al.jpg
+Numbers 25:1-3: Error saving resource( Num 25 1 3 ba al.jpg ) to firestore: File not found
+Numbers 25:6: picture file not found: Num 25 6.pg
+Numbers 25:6: audio file not found: Num 25 6
+Numbers 25:6: Error saving resource( Num 25 6.pg ) to firestore: File not found
+Numbers Numbers 25:6: Error saving resource( Num 25 6 ) to firestore: File not found
+Numbers 25:12-13 highlighted text: he was zealous/devoted to me is not included in the text
+Numbers 25:16-18 highlighted text: Midian leader’s daughter. <i>Phineas </i>killed her on the (last) day when the (deadly) disease was killing people who had worshipped (the god) Ba’al near Peor <i>Mountain</i>.” is not included in the text
+**Numbers 24:1-25**
+Numbers 24:3b-4: picture file not found: Num 24 3 4 fallon face.jpg
+Numbers 24:3b-4: Error saving resource( Num 24 3 4 fallon face.jpg ) to firestore: File not found
+Numbers 24:15-16 highlighted text: Who knows is not included in the text
+**Numbers 27:1-23**
+Numbers 27:2b-4: picture file not found: Num 27 2 4 daughters.jpg
+Numbers 27:2b-4: Error saving resource( Num 27 2 4 daughters.jpg ) to firestore: File not found
+Numbers 27:5-7: picture file not found: Num 27 5 7,jpg
+Numbers 27:5-7: Error saving resource( Num 27 5 7,jpg ) to firestore: File not found
+Numbers 27:8-10: picture file not found: Num 27 8 10 inheritance.jpg
+Numbers 27:8-10: Error saving resource( Num 27 8 10 inheritance.jpg ) to firestore: File not found
+Numbers 27:11: picture file not found: Num 27 11 inheritance.jpg
+Numbers 27:11: audio file not found: Num 27 11
+Numbers 27:11: Error saving resource( Num 27 11 inheritance.jpg ) to firestore: File not found
+Numbers Numbers 27:11: Error saving resource( Num 27 11 ) to firestore: File not found
+**Numbers 20:1-29**
+Numbers 20:1-2: picture file not found: Num 20 1 3 Miriam died.jpg
+Numbers 20:1-2: Error saving resource( Num 20 1 3 Miriam died.jpg ) to firestore: File not found
+Numbers 20:3-5: picture file not found: Num 20 3 5 now water.jpg
+Numbers 20:3-5: Error saving resource( Num 20 3 5 now water.jpg ) to firestore: File not found
+Numbers 20:6-7: picture file not found: Num 20 6 7.jpg
+Numbers 20:6-7: Error saving resource( Num 20 6 7.jpg ) to firestore: File not found
+Numbers 20:16-17: audio file not found: Num 2016 17.mp3
+Numbers Numbers 20:16-17: Error saving resource( Num 2016 17.mp3 ) to firestore: File not found
+Numbers 20:20-21: audio file not found: Num 2020 21.mp3
+Numbers Numbers 20:20-21: Error saving resource( Num 2020 21.mp3 ) to firestore: File not found
+Numbers 20:25-27: picture file not found: Num 20 25 27 eleazar.jpg
+Numbers 20:25-27: audio file not found: Num 2025 27.mp3
+Numbers 20:25-27: Error saving resource( Num 20 25 27 eleazar.jpg ) to firestore: File not found
+Numbers Numbers 20:25-27: Error saving resource( Num 2025 27.mp3 ) to firestore: File not found
+Numbers 20:28-29: picture file not found: Num 20 28 29 eleazar.jpg
+Numbers 20:28-29: Error saving resource( Num 20 28 29 eleazar.jpg ) to firestore: File not found
+**Numbers 26:1-65**
+Numbers 26:15-18: audio file not found: Num 26 15 18.jpg
+Numbers Numbers 26:15-18: Error saving resource( Num 26 15 18.jpg ) to firestore: File not found
+Numbers 26:26-27: picture file not found: Num 26 26 27 Zubulun.jpg
+Numbers 26:26-27: Error saving resource( Num 26 26 27 Zubulun.jpg ) to firestore: File not found
+Numbers 26:33-34: picture file not found: Num 26 33 34 tribe.jpg
+Numbers 26:33-34: Error saving resource( Num 26 33 34 tribe.jpg ) to firestore: File not found
+Numbers 26:35-37: picture file not found: Num 26 35 37 E;hraim.jpg
+Numbers 26:35-37: Error saving resource( Num 26 35 37 E;hraim.jpg ) to firestore: File not found
+Numbers 26:48-51: picture file not found: Num 26 48 51 Napthali.jpg
+Numbers 26:48-51: Error saving resource( Num 26 48 51 Napthali.jpg ) to firestore: File not found
+**Numbers 28:1-31**
+Numbers 28:1-3 highlighted text: my food offerings, <i>which a priest will burn</i> with fire, as/which will have a pleasant smell/odor for me is not included in the text
+Numbers 28:1-3 highlighted text: a  pleasant/good smell/odor for me is not included in the text
+Numbers 28:4-6: picture file not found: Num 28 1 3 lamb grain.jpg
+Numbers 28:4-6: Error saving resource( Num 28 1 3 lamb grain.jpg ) to firestore: File not found
+Numbers 28:7-8: picture file not found: Num 28 7 8 drink.jpg
+Numbers 28:11-13a: picture file not found: Num 28 11 13 monthly.jpg
+Numbers 28:13b-15: picture file not found: Num 28 13 18.jpg
+Numbers 28:13b-15: Error saving resource( Num 28 13 18.jpg ) to firestore: File not found
+Numbers 28:16-19: picture file not found: Num 28 16 19.jpg
+Numbers 28:24-25 highlighted text: hold/do a sacred assembly/gathering is not included in the text
+Numbers 28:26-27 highlighted text: hold a sacred assembly/gathering is not included in the text
+Numbers 28:28-30: picture file not found: Num 28 28 30grain.jpg
+Numbers 28:28-30: audio file not found: Num 28 28 30.mp3
+Numbers 28:28-30: Error saving resource( Num 28 28 30grain.jpg ) to firestore: File not found
+Numbers 28:31: picture file not found: Num 28 31 animals.jpg
+**Numbers 2:1-34**
+Numbers 2:1-2: picture file not found: Num 2 1.Israel Camp.jpg
+Numbers 2:1-2: Error saving resource( Num 2 1.Israel Camp.jpg ) to firestore: File not found
+Numbers 2:3-4: picture file not found: Num 2 3 Banner of Judah.jpg
+Numbers 2:3-4: Error saving resource( Num 2 3 Banner of Judah.jpg ) to firestore: File not found
+Numbers 2:5-6: picture file not found: Num 2 5 Banner of Issachar
+Numbers 2:5-6: Error saving resource( Num 2 5 Banner of Issachar ) to firestore: File not found
+Numbers 2:7-9: picture file not found: Num 2 7 Banner of Zubulun.jpg
+Numbers 2:7-9: Error saving resource( Num 2 7 Banner of Zubulun.jpg ) to firestore: File not found
+Numbers 2:10-11: picture file not found: Num 2 10 Banner of Ruban.jpg
+Numbers 2:10-11: Error saving resource( Num 2 10 Banner of Ruban.jpg ) to firestore: File not found
+Numbers 2:12-13: picture file not found: Num 2 12 Banner of Simeon.jpg
+Numbers 2:12-13: Error saving resource( Num 2 12 Banner of Simeon.jpg ) to firestore: File not found
+Numbers 2:14-16: picture file not found: Num 2 14 Banner of Gad.jpg
+Numbers 2:14-16: Error saving resource( Num 2 14 Banner of Gad.jpg ) to firestore: File not found
+Numbers 2:17: picture file not found: Num 2 17Banner of Levi.jpg
+Numbers 2:17: Error saving resource( Num 2 17Banner of Levi.jpg ) to firestore: File not found
+Numbers 2:17 highlighted text: tabernacle is not included in the text
+Numbers 2:18-19: picture file not found: Num 2 18 Banner of Ephraim.jpg
+Numbers 2:18-19: Error saving resource( Num 2 18 Banner of Ephraim.jpg ) to firestore: File not found
+Numbers 2:20-21: picture file not found: Num 2 20 Banner of Manasseh.jpg
+Numbers 2:20-21: Error saving resource( Num 2 20 Banner of Manasseh.jpg ) to firestore: File not found
+Numbers 2:22-23: picture file not found: Num 2 22 Banner of Benjamin.jpg
+Numbers 2:22-23: Error saving resource( Num 2 22 Banner of Benjamin.jpg ) to firestore: File not found
+Numbers 2:24: picture file not found: Num 2 24 West Tribes
+Numbers 2:24: audio file not found: Numbers 2 24
+Numbers 2:24: Error saving resource( Num 2 24 West Tribes ) to firestore: File not found
+Numbers Numbers 2:24: Error saving resource( Numbers 2 24 ) to firestore: File not found
+Numbers 2:25-26: picture file not found: Num 2 25 Banner of Dan.jpg
+Numbers 2:25-26: Error saving resource( Num 2 25 Banner of Dan.jpg ) to firestore: File not found
+Numbers 2:27-28: picture file not found: Num 2 27 Banner of Asher.jpg
+Numbers 2:27-28: Error saving resource( Num 2 27 Banner of Asher.jpg ) to firestore: File not found
+Numbers 2:29-30: picture file not found: Num 2 29 Banner of Naphtali.jpg
+Numbers 2:29-30: audio file not found: Numbers 2 29 30 .mp3
+Numbers 2:29-30: Error saving resource( Num 2 29 Banner of Naphtali.jpg ) to firestore: File not found
+Numbers Numbers 2:29-30: Error saving resource( Numbers 2 29 30 .mp3 ) to firestore: File not found
+Numbers 2:31: picture file not found: Num 2 31 order of march.jpg
+Numbers 2:31: Error saving resource( Num 2 31 order of march.jpg ) to firestore: File not found
+Numbers 2:32-33: audio file not found: Numbers 2 32.mp3
+Numbers Numbers 2:32-33: Error saving resource( Numbers 2 32.mp3 ) to firestore: File not found
+Numbers 2:34: picture file not found: Num 2 34 order of the march2.jpg
+Numbers 2:34: Error saving resource( Num 2 34 order of the march2.jpg ) to firestore: File not found
+**Numbers 3:1-51**
+Numbers 3:1-3: picture file not found: Num 3 1 3 aaron’s sons.jpg
+Numbers 3:1-3: Error saving resource( Num 3 1 3 aaron’s sons.jpg ) to firestore: File not found
+Numbers 3:4: picture file not found: Num 3 4 aarons sons killed.jpg
+Numbers 3:4: Error saving resource( Num 3 4 aarons sons killed.jpg ) to firestore: File not found
+Numbers 3:9-10: audio file not found: Num 3 9 10
+Numbers Numbers 3:9-10: Error saving resource( Num 3 9 10 ) to firestore: File not found
+Numbers 3:21-24: picture file not found: Num 3 21 24 count levites.jpg
+Numbers 3:21-24: Error saving resource( Num 3 21 24 count levites.jpg ) to firestore: File not found
+Numbers 3:25-26: picture file not found: Num 3 15 26 courtyard curtains.jpg
+Numbers 3:25-26: Error saving resource( Num 3 15 26 courtyard curtains.jpg ) to firestore: File not found
+Numbers 3:27-30: picture file not found: Num 3 27 30 tabernac vessels.jpg
+Numbers 3:27-30: Error saving resource( Num 3 27 30 tabernac vessels.jpg ) to firestore: File not found
+Numbers 3:33-37: picture file not found: Num 3 33 37 tabernacle poles,jpg
+Numbers 3:33-37: Error saving resource( Num 3 33 37 tabernacle poles,jpg ) to firestore: File not found
+Numbers 3:38-39: picture file not found: Num 38 39 Holy place.jpg
+Numbers 3:38-39: audio file not found: Num 38 39 .mp3
+Numbers 3:38-39: Error saving resource( Num 38 39 Holy place.jpg ) to firestore: File not found
+Numbers Numbers 3:38-39: Error saving resource( Num 38 39 .mp3 ) to firestore: File not found
+Numbers 3:40-41: picture file not found: Num 3 40 41 count children.jpg
+Numbers 3:40-41: Error saving resource( Num 3 40 41 count children.jpg ) to firestore: File not found
+Numbers 3:42-43: picture file not found: Num 3 42 43 writing names.jpg
+Numbers 3:42-43: audio file not found: Num 42 43.mp3
+Numbers 3:42-43: Error saving resource( Num 3 42 43 writing names.jpg ) to firestore: File not found
+Numbers Numbers 3:42-43: Error saving resource( Num 42 43.mp3 ) to firestore: File not found
+Numbers 3:44-45: audio file not found: Num 44 45.mp3
+Numbers Numbers 3:44-45: Error saving resource( Num 44 45.mp3 ) to firestore: File not found
+Numbers 3:46-47: audio file not found: Num 46 47.mp3
+Numbers Numbers 3:46-47: Error saving resource( Num 46 47.mp3 ) to firestore: File not found
+Numbers 3:48-49: picture file not found: Num 3 48 49 shekels.jpg
+Numbers 3:48-49: audio file not found: Num 48 49.mp3
+Numbers 3:48-49: Error saving resource( Num 3 48 49 shekels.jpg ) to firestore: File not found
+Numbers Numbers 3:48-49: Error saving resource( Num 48 49.mp3 ) to firestore: File not found
+Numbers 3:50-51: audio file not found: Num 50 51.mp3
+Numbers Numbers 3:50-51: Error saving resource( Num 50 51.mp3 ) to firestore: File not found
+**Numbers 5:1-31**
+Numbers 5:8: audio file not found: Num 5 8 .mp3
+Numbers Numbers 5:8: Error saving resource( Num 5 8 .mp3 ) to firestore: File not found
+Numbers :15: picture file not found: Num 5 15 adultery.jpg
+Numbers :15: Error saving resource( Num 5 15 adultery.jpg ) to firestore: File not found
+Numbers Numbers :15: is less than the previous pericope's chapter of: 5
+Numbers 5:19-20: picture file not found: Num 5 19 dring water.jpg
+Numbers 5:19-20: Error saving resource( Num 5 19 dring water.jpg ) to firestore: File not found
+Numbers 5:29-31: audio file not found: Num 5 29 31
+Numbers Numbers 5:29-31: Error saving resource( Num 5 29 31 ) to firestore: File not found
+**Numbers 4:1-49**
+Numbers 4:1-4: picture file not found: Num 4 1 4writting names.jpg
+Numbers 4:1-4: Error saving resource( Num 4 1 4writting names.jpg ) to firestore: File not found
+Numbers 4:5-6: picture file not found: Num 4 5 6 Levites Taernaclel.jpg
+Numbers 4:5-6: Error saving resource( Num 4 5 6 Levites Taernaclel.jpg ) to firestore: File not found
+Numbers 4:7-8: picture file not found: Num 4 7 8 tabernacle table.jpg
+Numbers 4:7-8: Error saving resource( Num 4 7 8 tabernacle table.jpg ) to firestore: File not found
+Numbers 4:9-10: picture file not found: Num 4 9 10 tabernacle lamp.jpg
+Numbers 4:9-10: Error saving resource( Num 4 9 10 tabernacle lamp.jpg ) to firestore: File not found
+Numbers 4:11-12: picture file not found: Num 4 11 12 tabernacle alter.jpg 
+Numbers 4:11-12: Error saving resource( Num 4 11 12 tabernacle alter.jpg  ) to firestore: File not found
+Numbers 4:11-12 highlighted text: put these on a carrying frame/litter/bed is not included in the text
+Numbers 4:17-19a: picture file not found: Num 4 17 19a Moses n God,jpg
+Numbers 4:17-19a: Error saving resource( Num 4 17 19a Moses n God,jpg ) to firestore: File not found
+Numbers 4:27-28: picture file not found: Num 4 27 28 God speaks.jpg 
+Numbers 4:27-28: Error saving resource( Num 4 27 28 God speaks.jpg  ) to firestore: File not found
+Numbers 4:38-41: audio file not found: Num 4 38-41.mp3
+Numbers Numbers 4:38-41: Error saving resource( Num 4 38-41.mp3 ) to firestore: File not found
+Numbers 4:46-49: picture file not found: Num 4 46 49 Israelites.jog
+Numbers 4:46-49: Error saving resource( Num 4 46 49 Israelites.jog ) to firestore: File not found
+**Numbers 6:1-27**
+Numbers 6:6-8: picture file not found: Num 6 8no corpse.jpg
+Numbers 6:6-8: Error saving resource( Num 6 8no corpse.jpg ) to firestore: File not found
+Numbers 6:12: audio file not found: Num 6 12
+Numbers Numbers 6:12: Error saving resource( Num 6 12 ) to firestore: File not found
+Numbers 6:16-17: picture file not found: Num 6 17 offer sacrifice.jpg
+Numbers 6:16-17: Error saving resource( Num 6 17 offer sacrifice.jpg ) to firestore: File not found
+Numbers 6:16-17 highlighted text: the sacrifice <i>which priests will </i>burn <i>on an altar</i>. is not included in the text
+Numbers 6:18: picture file not found: Num 6 18 offering.jpg
+Numbers 6:18: Error saving resource( Num 6 18 offering.jpg ) to firestore: File not found
+Numbers 6:19: picture file not found: Num 6 19 ram shoulder.jpg
+Numbers 6:19: Error saving resource( Num 6 19 ram shoulder.jpg ) to firestore: File not found
+Numbers 6:20: picture file not found: Nu 6 20 wave offering.jpg
+Numbers 6:20: Error saving resource( Nu 6 20 wave offering.jpg ) to firestore: File not found
+Numbers 6:22-27: audio file not found: undefined
+**Numbers 7:1-89**
+Numbers 7:1-2: picture file not found: Num 7 1  ded tabernacle.jpg
+Numbers 7:1-2: audio file not found: Num 7 12.mp3
+Numbers 7:1-2: Error saving resource( Num 7 1  ded tabernacle.jpg ) to firestore: File not found
+Numbers Numbers 7:1-2: Error saving resource( Num 7 12.mp3 ) to firestore: File not found
+Numbers 7:14-17 highlighted text: For an offering which<i> priests </i>burn <i>on the altar</i>. is not included in the text
+Numbers 7:26-29: audio file not found: Num 7 26 27.mp3
+Numbers Numbers 7:26-29: Error saving resource( Num 7 26 27.mp3 ) to firestore: File not found
+Numbers 7:44-47: picture file not found: Num 7 44 47 gifts to the priest.jpg
+Numbers 7:44-47: Error saving resource( Num 7 44 47 gifts to the priest.jpg ) to firestore: File not found
+Numbers 7:50-53: audio file not found: undefined
+Numbers 7:56-59: picture file not found: Num 7 56 59 animal jpg
+Numbers 7:56-59: Error saving resource( Num 7 56 59 animal jpg ) to firestore: File not found
+Numbers 7:66-67: picture file not found: Num 7 66 67 gain.jpg
+Numbers 7:66-67: Error saving resource( Num 7 66 67 gain.jpg ) to firestore: File not found
+Numbers 7:72-73: picture file not found: Um 7 72 73 grain.jog
+Numbers 7:72-73: Error saving resource( Um 7 72 73 grain.jog ) to firestore: File not found
+Numbers 7:78-79: picture file not found: Num 7 78 79 grain6.jpg
+Numbers 7:78-79: Error saving resource( Num 7 78 79 grain6.jpg ) to firestore: File not found
+Numbers 7:80-83: picture file not found: Num 7 80 83.jpg
+Numbers 7:80-83: Error saving resource( Num 7 80 83.jpg ) to firestore: File not found
+Numbers 7:84-85 highlighted text: Holy place is not included in the text
+**Numbers 18:1-32**
+Numbers 18:1-2: picture file not found: Num 18 1 3 aarons sons.jpg
+Numbers 18:1-2: Error saving resource( Num 18 1 3 aarons sons.jpg ) to firestore: File not found
+Numbers 18:10-11 highlighted text: your sons and your daughters is not included in the text
+Numbers 18:15-16 highlighted text: 20 gerahs is not included in the text
+Numbers 18:22-23a: picture file not found: Num 18 22 23 people tavern.jpg
+Numbers 18:22-23a: Error saving resource( Num 18 22 23 people tavern.jpg ) to firestore: File not found
+Numbers 18:23b-24: picture file not found: Num 18 23 24 sacrifice.jpg
+Numbers 18:23b-24: Error saving resource( Num 18 23 24 sacrifice.jpg ) to firestore: File not found
+Numbers 18:30-31: picture file not found: Num 18 30 31 priest eats.jpg
+Numbers 18:30-31: Error saving resource( Num 18 30 31 priest eats.jpg ) to firestore: File not found
+Numbers 18:32: picture file not found: Num 18 32 offering.jpg
+Numbers 18:32: Error saving resource( Num 18 32 offering.jpg ) to firestore: File not found
+**Numbers 8:1-26**
+Numbers 8:1-3: picture file not found: Num 8 1 lamp stand.jpg
+Numbers 8:1-3: Error saving resource( Num 8 1 lamp stand.jpg ) to firestore: File not found
+Numbers 8:4: picture file not found: Num 8 4.jpg
+Numbers 8:4: audio file not found: Num 8 4
+Numbers 8:4: Error saving resource( Num 8 4.jpg ) to firestore: File not found
+Numbers Numbers 8:4: Error saving resource( Num 8 4 ) to firestore: File not found
+Numbers 8:8-9 highlighted text: fine<i>ly-grounded</i> is not included in the text
+Numbers 8:18-19: picture file not found: Num 8 18 19 Levites serve.jpg
+Numbers 8:18-19: Error saving resource( Num 8 18 19 Levites serve.jpg ) to firestore: File not found
+Numbers 8:20-21: picture file not found: Num 8 20 21 Levites cleansed.jpg
+Numbers 8:20-21: Error saving resource( Num 8 20 21 Levites cleansed.jpg ) to firestore: File not found
+Numbers 8:22: picture file not found: Num 8 22 Levites serve.jpg
+Numbers 8:22: audio file not found: Num 8 22
+Numbers 8:22: Error saving resource( Num 8 22 Levites serve.jpg ) to firestore: File not found
+Numbers Numbers 8:22: Error saving resource( Num 8 22 ) to firestore: File not found
+**Numbers 9:1-23**
+Numbers 9:1-3: picture file not found: Num 9 1 3.jpg
+Numbers 9:1-3: Error saving resource( Num 9 1 3.jpg ) to firestore: File not found
+Numbers 9:7b-10a: audio file not found: Hum 9 7b 10a.mp3
+Numbers Numbers 9:7b-10a: Error saving resource( Hum 9 7b 10a.mp3 ) to firestore: File not found
+Numbers 9:13-14: audio file not found: Num  9 13 14.mp3
+Numbers Numbers 9:13-14: Error saving resource( Num  9 13 14.mp3 ) to firestore: File not found
+Numbers 9:19-20: picture file not found: Num 9 19 20 fire.jpg
+Numbers 9:19-20: Error saving resource( Num 9 19 20 fire.jpg ) to firestore: File not found
+Numbers 9:21-22a: picture file not found: Num 9 21 22 move.jpg
+Numbers 9:21-22a: Error saving resource( Num 9 21 22 move.jpg ) to firestore: File not found
+Numbers 9:22b-23: audio file not found: Num9 22b 23.mp3
+Numbers Numbers 9:22b-23: Error saving resource( Num9 22b 23.mp3 ) to firestore: File not found
+**Numbers 19:1-22**
+Numbers 19:13: picture file not found: Num 19 13 outsidecamp.jpg
+Numbers 19:13: Error saving resource( Num 19 13 outsidecamp.jpg ) to firestore: File not found
+Numbers 19:16-17: audio file not found: Num 19 17 18.mp3
+Numbers Numbers 19:16-17: Error saving resource( Num 19 17 18.mp3 ) to firestore: File not found
+Numbers 19:19b-20: picture file not found: Num 19 19 20clean.jpg
+Numbers 19:19b-20: Error saving resource( Num 19 19 20clean.jpg ) to firestore: File not found

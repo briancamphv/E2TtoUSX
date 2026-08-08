@@ -1,0 +1,96 @@
+**John 10:1-42**
+John 10:35-36 highlighted text: to whom <i>God’s</i> message came is not included in the text
+John 10:35-36 highlighted text: honored and sent as a messenger is not included in the text
+John 10:37-38 highlighted text: word is not included in the text
+**John 11:1-54**
+John 11:14-16 highlighted text: fallen asleep is not included in the text
+John 11:34-37 highlighted text: you put his <i>body</i> is not included in the text
+**John 2:1-25**
+passageOverview: Error saving resource( Eng John 1-12 Overview TBP SQ.mp4 ) to firestore: File not found
+**John 3:1-36**
+John 3:5-6 highlighted text: born again is not included in the text
+**John 4:1-54**
+John 4:19-20: picture file not found: 15_FB_GNPI_018_Samaritan_Woman_1024.jpg
+John 4:19-20: Error saving resource( 15_FB_GNPI_018_Samaritan_Woman_1024.jpg ) to firestore: File not found
+John 4:29-30: picture file not found: 08_FB_GNPI_019_Living_Water_1024.jpg
+John 4:29-30: Error saving resource( 08_FB_GNPI_019_Living_Water_1024.jpg ) to firestore: File not found
+John 4:34-35: picture file not found: 11_FB_GNPI_019_Living_Water_1024.jpg
+John 4:34-35: Error saving resource( 11_FB_GNPI_019_Living_Water_1024.jpg ) to firestore: File not found
+John 4:34-35 highlighted text: It is (like) food for me, to do what <i>God</i>, who sent me <i>here</i>, wants me to do, and to accomplish his work. is not included in the text
+John 4:51-52: picture file not found: 08_FB_GNPI_020_Officials_Son_1024.jpg
+John 4:51-52: Error saving resource( 08_FB_GNPI_020_Officials_Son_1024.jpg ) to firestore: File not found
+**John 5:1-24**
+John 5:7: picture file not found: 03_FB_GNPI_029_Lame_Man_1024.jpg
+John 5:7: Error saving resource( 03_FB_GNPI_029_Lame_Man_1024.jpg ) to firestore: File not found
+John 5:14-15: picture file not found: 13_FB_GNPI_029_Lame_Man_1024.jpg
+John 5:14-15: Error saving resource( 13_FB_GNPI_029_Lame_Man_1024.jpg ) to firestore: File not found
+John 5:20-21: picture file not found: Jesus Headshot 2026-05-05 at 2.29.00 PM
+John 5:20-21: Error saving resource( Jesus Headshot 2026-05-05 at 2.29.00 PM ) to firestore: File not found
+John 5:24: picture file not found: Jesus Headshot Finger raised 2026-05-05 at 2.31.26 PM
+John 5:24: Error saving resource( Jesus Headshot Finger raised 2026-05-05 at 2.31.26 PM ) to firestore: File not found
+John 5:24 highlighted text: they have already passed from death into life.  is not included in the text
+John 5:26-27: picture file not found: Jesus Headshot 2026-05-05 at 2.29.00 PM
+John 5:26-27: Error saving resource( Jesus Headshot 2026-05-05 at 2.29.00 PM ) to firestore: File not found
+John 5:26-27 highlighted text: to pronounce judgment <i>on human beings</i> is not included in the text
+John 5:30: picture file not found: Jesus Headshot Finger raised 2026-05-05 at 2.31.26 PM
+John 5:30: Error saving resource( Jesus Headshot Finger raised 2026-05-05 at 2.31.26 PM ) to firestore: File not found
+**John 5:25-47**
+John 5:31-32: picture file not found: Jesus Headshot 2026-05-05 at 2.29.00 PM
+John 5:31-32: Error saving resource( Jesus Headshot 2026-05-05 at 2.29.00 PM ) to firestore: File not found
+John 5:35-36 highlighted text: the things/actions/deeds that I do show even more clearly is not included in the text
+John 5:39-40: picture file not found: Jesus Headshot Finger raised 2026-05-05 at 2.31.26 PM
+John 5:39-40: Error saving resource( Jesus Headshot Finger raised 2026-05-05 at 2.31.26 PM ) to firestore: File not found
+John 5:44-45: picture file not found: Jesus Headshot Finger raised 2026-05-05 at 2.31.26 PM
+John 5:44-45: Error saving resource( Jesus Headshot Finger raised 2026-05-05 at 2.31.26 PM ) to firestore: File not found
+John 5:46-47: picture file not found: Jesus Headshot 2026-05-05 at 2.29.00 PM
+John 5:46-47: Error saving resource( Jesus Headshot 2026-05-05 at 2.29.00 PM ) to firestore: File not found
+John 5:46-47 highlighted text: And since is not included in the text
+**John 6b:41-71**
+**John 6a:1-40**
+John 6:4-6 highlighted text: to test Philip is not included in the text
+John 6:16-18: picture file not found: 03_FB_GNPI_043_Jesus_Storm_1024.jpg
+John 6:16-18: Error saving resource( 03_FB_GNPI_043_Jesus_Storm_1024.jpg ) to firestore: File not found
+John 6:19-21 highlighted text: five and six kilometers is not included in the text
+John 6:27: audio file not found: undefined
+John 6:28-29 highlighted text: The only thing/work that God wants you to do is to is not included in the text
+John 6:30-31 highlighted text: What work/deed are you going to accomplish/do? is not included in the text
+John 6:38-39: picture file not found: Jesus looking to heaven
+John 6:38-39: Error saving resource( Jesus looking to heaven ) to firestore: File not found
+John 6:40: picture file not found: Jesus looking to heaven
+John 6:40: audio file not found: undefined
+John 6:40: Error saving resource( Jesus looking to heaven ) to firestore: File not found
+**John 7:1-31**
+John 7:19-21: picture file not found: Man with Scroll
+John 7:19-21: Error saving resource( Man with Scroll ) to firestore: File not found
+**John 1:1-18**
+**John 8:13-59**
+John 8:12: audio file not found: Jn 8 12.
+John John 8:12: Error saving resource( Jn 8 12. ) to firestore: File not found
+John 8:29-30 highlighted text: he never leaves me <i>to act/be</i> alone is not included in the text
+**John 7b:32-53**
+**John 9:1-41**
+John 9:31-32 highlighted text: Since the world began, we(incl) have never heard anyone who was able is not included in the text
+**John 1:19-51**
+John bookInfo summary is missing or empty
+John 1:19-20: audio file not found: undefined
+John 1:21: audio file not found: undefined
+John 1:22-23: audio file not found: undefined
+John 1:24-25: audio file not found: undefined
+John 1:26-27: audio file not found: undefined
+John 1:28: audio file not found: undefined
+John 1:29: audio file not found: undefined
+John 1:30-31: audio file not found: undefined
+John 1:30-31 highlighted text: born! 31 <i>Although </i>I did not know/recognize this man as the Messiah until now,  is not included in the text
+John 1:32: audio file not found: undefined
+John 1:33-34: audio file not found: undefined
+John 1:33-34 highlighted text: my Holy Spirit.’ 34 “And because I saw this <i>happen</i>, is not included in the text
+John 1:35-36: audio file not found: undefined
+John 1:37-38: audio file not found: undefined
+John 1:39-40: audio file not found: undefined
+John 1:41-42: audio file not found: undefined
+John 1:43-44: audio file not found: undefined
+John 1:45-46: audio file not found: undefined
+John 1:47-48: audio file not found: undefined
+John 1:49-50: audio file not found: undefined
+John 1:51: audio file not found: undefined
+**John 12:1-50**

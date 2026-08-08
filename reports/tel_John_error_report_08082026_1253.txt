@@ -1,0 +1,89 @@
+**John 1:19-51**
+John bookInfo summary is missing or empty
+John 1:21 highlighted text: <i>మేము ఎదురుచూస్తున్న మోషే లాంటి ఆ ప్రవక్తవు నీవేనా</i> is not included in the text
+John 1:26-27: audio file not found: Tel_Jn 1 26-27.mmp3
+John John 1:26-27: Error saving resource( Tel_Jn 1 26-27.mmp3 ) to firestore: File not found
+John 1:33-34 highlighted text: పరిశుద్ధాత్మతో ప్రజలకు బాప్తిస్మమిచ్చువాడు ఆయనే అని నాతో చెప్పెను. నేను దీనిని నా కన్నులతో చూచితిని గనుక is not included in the text
+John 1:39-40: picture file not found: 03_FB_GNPI_015_First_Disciples_1024.jpg
+John 1:39-40: Error saving resource( 03_FB_GNPI_015_First_Disciples_1024.jpg ) to firestore: File not found
+John 1:39-40 highlighted text: సాయంత్రము దాదాపు నాలుగు గంటలు is not included in the text
+passageOverview: Error saving resource( TBP John-13-21 Overview.mp4 ) to firestore: File not found
+**John సువార్త,1:1-18**
+John 1:1 highlighted text: వాక్యము సంపూర్ణముగా దేవుడే is not included in the text
+John 1:9-11 highlighted text: కాబట్టి, ఆయన కాబట్టి, ఆయన ఇశ్రాయేలు అను తన స్వంత జనాంగము వద్దకు వచ్చినప్పుడు,  is not included in the text
+John 1:18 highlighted text: ఎవరూ ఎన్నడూ చూడలేదు is not included in the text
+passageOverview: Error saving resource( &feature=youtu.be ) to firestore: File not found
+**John సువార్త,3:1-36**
+John 3:31-32 highlighted text: <i></i> is exact match of BEN Text Options
+**John సువార్త,2:1-25**
+John 2:6-7 highlighted text: <i>ఆ ఇంటిలో (ఉండెను)</i> is not included in the text
+John 2:9b-10 highlighted text: వడ్డించడానికి శ్రేష్టమైన ద్రాక్షారసమును ఇప్పటి వరకు ఉంచావు is not included in the text
+John 2:11 highlighted text: మొదటి అద్భుతము (సూచక క్రియ) is not included in the text
+passageOverview: Error saving resource( Eng John 1-12 Overview TBP SQ.mp4 ) to firestore: File not found
+**John సువార్త,5:1-30**
+John 5:7: picture file not found: 03_FB_GNPI_029_Lame_Man_1024.jpg
+John 5:7: Error saving resource( 03_FB_GNPI_029_Lame_Man_1024.jpg ) to firestore: File not found
+John 5:9b-10: audio file not found: Tel_Jn 9b-10.mp3
+John John 5:9b-10: Error saving resource( Tel_Jn 9b-10.mp3 ) to firestore: File not found
+John 5:14-15: picture file not found: 13_FB_GNPI_029_Lame_Man_1024.jpg
+John 5:14-15: Error saving resource( 13_FB_GNPI_029_Lame_Man_1024.jpg ) to firestore: File not found
+John 5:20-21: picture file not found: Jesus Headshot 2026-05-05 at 2.29.00
+John 5:20-21: Error saving resource( Jesus Headshot 2026-05-05 at 2.29.00 ) to firestore: File not found
+John 5:20-21 highlighted text: కుమారుడు తాను కోరుకున్నవారిని మరలా బ్రతికిస్తాడు is not included in the text
+John 5:24: picture file not found: Jesus Headshot Finger raised 2026-05-05 at 2.31.26
+John 5:24: Error saving resource( Jesus Headshot Finger raised 2026-05-05 at 2.31.26 ) to firestore: File not found
+John 5:26-27: picture file not found: Jesus Headshot 2026-05-05 at 2.29.00
+John 5:26-27: Error saving resource( Jesus Headshot 2026-05-05 at 2.29.00 ) to firestore: File not found
+John 5:30: picture file not found: Jesus Headshot Finger raised 2026-05-05 at 2.31.26
+John 5:30: Error saving resource( Jesus Headshot Finger raised 2026-05-05 at 2.31.26 ) to firestore: File not found
+John 5:30 highlighted text: ఏ విధముగా నేను తీర్పు తీర్చుదును is not included in the text
+**John సువార్త,5:31-47**
+John 5:31-32: picture file not found: Jesus Headshot 2026-05-05 at 2.29.00
+John 5:31-32: Error saving resource( Jesus Headshot 2026-05-05 at 2.29.00 ) to firestore: File not found
+John 5:39-40: picture file not found: Jesus Headshot Finger raised 2026-05-05 at 2.31.26
+John 5:39-40: Error saving resource( Jesus Headshot Finger raised 2026-05-05 at 2.31.26 ) to firestore: File not found
+John 5:44-45: picture file not found: Jesus Headshot Finger raised 2026-05-05 at 2.31.26
+John 5:44-45: Error saving resource( Jesus Headshot Finger raised 2026-05-05 at 2.31.26 ) to firestore: File not found
+John 5:46-47: picture file not found: Jesus Headshot 2026-05-05 at 2.29.00
+John 5:46-47: Error saving resource( Jesus Headshot 2026-05-05 at 2.29.00 ) to firestore: File not found
+**John సువార్త,6:1-40**
+John 6:12-13 highlighted text: ఏమీ వృధా కాకుండా is not included in the text
+John 6:16-18: picture file not found: 03_FB_GNPI_043_Jesus_Storm_1024.jpg
+John 6:16-18: Error saving resource( 03_FB_GNPI_043_Jesus_Storm_1024.jpg ) to firestore: File not found
+John 6:19-21 highlighted text: నేనే యేసును is exact match of BEN Text Options
+John 6:27 highlighted text: ఆమోదించువాడు is exact match of BEN Text Options
+John 6:38-39: picture file not found: Jesus looking to heaven
+John 6:38-39: Error saving resource( Jesus looking to heaven ) to firestore: File not found
+John 6:40: picture file not found: Jesus looking to heaven
+John 6:40: Error saving resource( Jesus looking to heaven ) to firestore: File not found
+**John సువార్త,6:41-71**
+**John సువార్త,7:1-31**
+John 7:10-13 highlighted text: కాదు, యేసు ప్రజలను మోసగించుచున్నాడు అని is not included in the text
+John 7:19-21: picture file not found: Man with Scroll
+John 7:19-21: Error saving resource( Man with Scroll ) to firestore: File not found
+**John సువార్త,7b:32-53**
+John 7:38b-39 highlighted text: దేవుడు యేసును ఇంకా మహిమపరచలేదు గనుక is not included in the text
+**John సువార్త,8:1-59**
+John John :: is less than the previous pericope's chapter of: 8
+John John :: is less than the previous pericope's chapter of: 8
+John 8:39: audio file not found: Tel_Jn 8 39.m3
+John John 8:39: Error saving resource( Tel_Jn 8 39.m3 ) to firestore: File not found
+John 8:39 highlighted text: లేదు, మీరు అబ్రాహాము సంతానము కారు is not included in the text
+John John :: is less than the previous pericope's chapter of: 8
+John 8:48-50 highlighted text: దెయ్యము is exact match of BEN Text Options
+**John సువార్త,9:1-41**
+John 9:11-12 commentary: ఆ మనుష్యుడు Error saving resource( The people who are questioning the beggar hate Jesus so much that they don’t even want to say his name. ) to firestore: File not found
+John John :: is less than the previous pericope's chapter of: 9
+**John సువార్త,4:1-54**
+John 4:9-10a: picture file not found: Screenshot 2026-04-28 at 11.48.09
+John 4:9-10a: Error saving resource( Screenshot 2026-04-28 at 11.48.09 ) to firestore: File not found
+John 4:15-16 highlighted text: నాకు దయచేసి నాకు ఆ నీళ్లు ఇవ్వుము is not included in the text
+John 4:19-20: picture file not found: 15_FB_GNPI_018_Samaritan_Woman_1024.jpg
+John 4:19-20: Error saving resource( 15_FB_GNPI_018_Samaritan_Woman_1024.jpg ) to firestore: File not found
+John 4:29-30: picture file not found: 08_FB_GNPI_019_Living_Water_1024.jpg
+John 4:29-30: Error saving resource( 08_FB_GNPI_019_Living_Water_1024.jpg ) to firestore: File not found
+John 4:31--33 highlighted text: ఎవరైనా ఆయనకు ఏదైనా తెచ్చియుంటారా ఖచ్చితముగా ఎవరూ తెచ్చియుండరు కదా is not included in the text
+John 4:34-35: picture file not found: 11_FB_GNPI_019_Living_Water_1024.jpg
+John 4:34-35: Error saving resource( 11_FB_GNPI_019_Living_Water_1024.jpg ) to firestore: File not found
+John 4:51-52: picture file not found: 08_FB_GNPI_020_Officials_Son_1024.jpg
+John 4:51-52: Error saving resource( 08_FB_GNPI_020_Officials_Son_1024.jpg ) to firestore: File not found

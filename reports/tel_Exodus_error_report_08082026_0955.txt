@@ -1,0 +1,205 @@
+**Exodus 10:1-29**
+Exodus 10:14-15 highlighted text: ప్రార్థించండి is not included in the text
+Exodus 10:14-15 highlighted text: నా నుండి ఈ ప్రాణాంతకమైన తెగులును తొలగించమని is not included in the text
+**Exodus 11:1-10**
+Exodus 11:3 highlighted text: ఇప్పుడు యెహోవా is exact match of BEN Text Options
+Exodus 11:3 highlighted text: అత్యంత గొప్ప is not included in the text
+**Exodus 12:1-28**
+Exodus 12:11b-12 highlighted text: , యెహోవా, ఐగుప్తు దేవతలందరినీ ఖండిస్తాను is not included in the text
+Exodus 12:15 highlighted text: మీరందరూ ఒక పవిత్ర సమావేశం కోసం సమావేశమవ్వాలి is not included in the text
+Exodus 12:15 highlighted text:  నిషేధించాలి. is not included in the text
+Exodus 12:18-20 highlighted text: పులిసిన పిండి is exact match of BEN Text Options
+**Exodus 12:29-51**
+Exodus 12:33-34: audio file not found: Tel_Exo 12 33-34.mp4
+Exodus Exodus 12:33-34: Error saving resource( Tel_Exo 12 33-34.mp4 ) to firestore: File not found
+Exodus 12:37-38: audio file not found: Tel_Exo 12 37-38.mp
+Exodus Exodus 12:37-38: Error saving resource( Tel_Exo 12 37-38.mp ) to firestore: File not found
+**Exodus 13:1-22**
+Exodus 13:5 highlighted text: ఆ దేశములో నీవు విస్తారమైన పాలు తేనెలు గలవాడవై యుందువు; is not included in the text
+Exodus 13:5 commentary: ఆ దేశములో నీవు విస్తారమైన పాలు తేనెలు గలవాడవై యుందువు; Error saving resource( మిల్క్ ఎన్ హనీ ల్యాండ్ youtubedotcom.jpg ) to firestore: File not found
+Exodus 13:5 commentary: ఆ దేశములో నీవు విస్తారమైన పాలు తేనెలు గలవాడవై యుందువు; Error saving resource( పండ్ల చెట్టు agrifarmingdotin.jpg ) to firestore: File not found
+Exodus 13:19-20: audio file not found: Tel_Exo 13 19-20.mp
+Exodus Exodus 13:19-20: Error saving resource( Tel_Exo 13 19-20.mp ) to firestore: File not found
+Exodus 13:19-20 highlighted text: సుక్కోతు నుండి ప్రయాణమై ఏదాములో దిగిరి is not included in the text
+**Exodus 15:1-27**
+Exodus 15:4-6 highlighted text: మునిగిపోయిరి is exact match of BEN Text Options
+Exodus 15:7-8 highlighted text: వారిని పట్టుకుంటాను is not included in the text
+Exodus 15:7-8 highlighted text: సీసంలా  is not included in the text
+Exodus 15:17-18 highlighted text: పరిశుద్ధ స్థలములో is exact match of BEN Text Options
+Exodus 15:24-25a: audio file not found: Tel_Exo 15 24-25a.mp
+Exodus Exodus 15:24-25a: Error saving resource( Tel_Exo 15 24-25a.mp ) to firestore: File not found
+**Exodus 14:1-31**
+Exodus 14:1-3 highlighted text: మనస్సును కఠినపరచెదను is not included in the text
+Exodus 14:6-7 highlighted text: జయధ్వజములతో is not included in the text
+Exodus 14:13-14 highlighted text: ఊరకే ఉండవలెను is not included in the text
+**Exodus 17:1-16**
+Exodus 17:3 highlighted text: మొరపెట్టుచు is not included in the text
+Exodus 17:3 highlighted text: కర్రను is not included in the text
+Exodus 17:6: audio file not found: Tel_Exo 167 6.mp3
+Exodus Exodus 17:6: Error saving resource( Tel_Exo 167 6.mp3 ) to firestore: File not found
+Exodus 17:10 -11 highlighted text: మోషే తన చెయ్యి పైకెత్తినప్పుడల్లా (కర్రను పైకెత్తినప్పుడు) is not included in the text
+Exodus 17:15-16 highlighted text: యెహోవాకు యుద్ధము జరుగును is not included in the text
+**Exodus 16:1-36**
+Exodus 16:19-21 highlighted text: సన్నని గుళికలు (పొరలు) is not included in the text
+Exodus 16:31-32 highlighted text: శాసనముల మందసము is not included in the text
+Exodus 16:31-32 highlighted text: దాచబడునట్లు is not included in the text
+**Exodus 18:1-27**
+Exodus 18:15-17 highlighted text: దేవుడు నీకు తోడైయుండును is not included in the text
+Exodus 18:15-17 highlighted text: <i></i> is exact match of BEN Text Options
+Exodus 18:21 highlighted text: వేయి మందికి అధిపతులుగాను, వంద మందికి, ఏబది మందికి, పది మందికి is not included in the text
+Exodus 18:22 highlighted text: వ్యాజ్యములను is not included in the text
+Exodus 18:24-26a highlighted text: వేయి మందికి అధిపతులుగాను, వంద మందికి, ఏబది మందికి, పది మందికి is not included in the text
+**Exodus 1:1-22**
+Exodus 1:1: audio file not found: Tel_Exo 1 1.mp3
+Exodus Exodus 1:1: Error saving resource( Tel_Exo 1 1.mp3 ) to firestore: File not found
+Exodus 1:2-4: audio file not found: Tel_Exo 1 2-4.mp3
+Exodus Exodus 1:2-4: Error saving resource( Tel_Exo 1 2-4.mp3 ) to firestore: File not found
+Exodus 1:5-6: audio file not found: Tel_Exo 1 5-6.mp3
+Exodus Exodus 1:5-6: Error saving resource( Tel_Exo 1 5-6.mp3 ) to firestore: File not found
+Exodus 1:7: audio file not found: Tel_Exo 1 7.mp3
+Exodus Exodus 1:7: Error saving resource( Tel_Exo 1 7.mp3 ) to firestore: File not found
+Exodus 1:8-9: audio file not found: Tel_Exo 1 8-9.mp3
+Exodus Exodus 1:8-9: Error saving resource( Tel_Exo 1 8-9.mp3 ) to firestore: File not found
+Exodus 1:10: audio file not found: Tel_Exo 1 10.mp3
+Exodus Exodus 1:10: Error saving resource( Tel_Exo 1 10.mp3 ) to firestore: File not found
+Exodus 1:11: audio file not found: Tel_Exo 1 11.mp3
+Exodus Exodus 1:11: Error saving resource( Tel_Exo 1 11.mp3 ) to firestore: File not found
+Exodus 1:12: audio file not found: Tel_Exo 1 12.mp3
+Exodus Exodus 1:12: Error saving resource( Tel_Exo 1 12.mp3 ) to firestore: File not found
+Exodus 1:13-14: audio file not found: Tel_Exo 1 13-14.mp3
+Exodus Exodus 1:13-14: Error saving resource( Tel_Exo 1 13-14.mp3 ) to firestore: File not found
+Exodus 1:15-16: audio file not found: Tel_Exo 1 15-16.mp3
+Exodus Exodus 1:15-16: Error saving resource( Tel_Exo 1 15-16.mp3 ) to firestore: File not found
+Exodus 1:17-18: audio file not found: Tel_Exo 1 17-18.mp3
+Exodus Exodus 1:17-18: Error saving resource( Tel_Exo 1 17-18.mp3 ) to firestore: File not found
+Exodus 1:17-18 highlighted text: <i></i> is exact match of BEN Text Options
+Exodus 1:19: audio file not found: Tel_Exo 1 19.mp3
+Exodus Exodus 1:19: Error saving resource( Tel_Exo 1 19.mp3 ) to firestore: File not found
+Exodus 1:20-21: audio file not found: Tel_Exo 1 20-21.mp3
+Exodus Exodus 1:20-21: Error saving resource( Tel_Exo 1 20-21.mp3 ) to firestore: File not found
+Exodus 1:22: audio file not found: Tel_Exo 1 22.mp3
+Exodus Exodus 1:22: Error saving resource( Tel_Exo 1 22.mp3 ) to firestore: File not found
+**Exodus 19:1-25**
+Exodus 19:5-6 highlighted text: పరిశుద్ధ జనముగాను is exact match of BEN Text Options
+Exodus 19:14-15 highlighted text: <i></i> is exact match of BEN Text Options
+Exodus 19:14-15 highlighted text: ఏ పురుషుడును స్త్రీని చేరకూడదు is not included in the text
+Exodus 19:18-19 highlighted text: <i></i> is exact match of BEN Text Options
+**Exodus 20:1-26**
+Exodus 20:1-2 highlighted text: ఆజ్ఞలన్నియు (మాటలు) is not included in the text
+Exodus 20:1-2 highlighted text: నీకుండకూడదు is not included in the text
+Exodus 20:1-2 highlighted text: నేను తప్ప is not included in the text
+Exodus 20:4-5a highlighted text: నీవు (ఏకవచనము) is not included in the text
+Exodus 20:7 highlighted text: ఉచ్చరింపకూడదు (ధరించకూడదు) is not included in the text
+Exodus 20:8-10a highlighted text: ఏ పనియు చేయకూడదు is not included in the text
+Exodus 20:22-23 highlighted text: నన్ను పోల్చవలెనని (ఆరాధించుటకు) is not included in the text
+Exodus 20:22-23 highlighted text: <i>మంటి బలిపీఠమును</i> is not included in the text
+Exodus 20:22-23 highlighted text: జ్ఞాపకార్థముగా ఉంచే is not included in the text
+Exodus 20:25-26 highlighted text: అపవిత్రపరచెదవు (పగానుల బలిపీఠము వలె చేయుదువు) is not included in the text
+**Exodus 21:1-37**
+Exodus 21:17 highlighted text: శపిస్తే is exact match of BEN Text Options
+Exodus 21:32 highlighted text: ఆ దాసుని యజమానునికి is exact match of BEN Text Options
+**Exodus 22:1-31**
+Exodus 22:16-17 highlighted text: <i></i> is exact match of BEN Text Options
+Exodus 22:29a highlighted text: నాకు అర్పణలు తీసుకొని రావడానికి ఏమాత్రము ఆలస్యము చేయకూడదు, త్వరగా తీసుకొని రావాలెను is not included in the text
+**Exodus 23:1-33**
+Exodus 23:8: audio file not found: Tel_Exo 23 8.mp
+Exodus Exodus 23:8: Error saving resource( Tel_Exo 23 8.mp ) to firestore: File not found
+Exodus 23:10-11: audio file not found: Tel_Exo 23 10-11mp3
+Exodus Exodus 23:10-11: Error saving resource( Tel_Exo 23 10-11mp3 ) to firestore: File not found
+Exodus 23:16b-17 highlighted text: పులిసిన రొట్టెతో కలిపి is not included in the text
+**Exodus 24:1-18**
+Exodus 24:4 highlighted text: రాతి స్తంభములు is not included in the text
+Exodus 24:13-14 highlighted text: <i></i> is exact match of BEN Text Options
+passageOverview: Error saving resource(   ) to firestore: File not found
+**Exodus 26:1-37**
+passageOverview: Error saving resource(   ) to firestore: File not found
+**Exodus 25:1-40**
+Exodus 25:13-16 highlighted text: మందసమును మోయడానికి ఆ కర్రలను మందసము ఇరుపక్కల ఉన్న ఉంగరములలో జొనిపించవలెను is not included in the text
+Exodus 25:23-25 highlighted text: శాసనములను is not included in the text
+**Exodus 27:1-21**
+Exodus 27:11 highlighted text: దిమ్మెలను
+ is not included in the text
+**Exodus 28:1-43**
+Exodus 28:4-5 highlighted text: తలపాగాను is not included in the text
+passageOverview: Error saving resource( &t=5s ) to firestore: File not found
+**Exodus 31:1-18**
+**Exodus 32:1-35**
+Exodus 32:1a: audio file not found: Tel_Exo 32 1a.mp3
+Exodus Exodus 32:1a: Error saving resource( Tel_Exo 32 1a.mp3 ) to firestore: File not found
+Exodus 32:1a highlighted text: మోషే యెహోవాను కలుసుకోవడానికి (యెహోషువతో కలిసి) సినాయ్ పర్వతము మీదికి వెళ్లి, is not included in the text
+Exodus 32:12 highlighted text: మళ్లుకొని,
+ is not included in the text
+Exodus 32:14 highlighted text: పశ్చాత్తాపపడి,
+ is not included in the text
+Exodus 32:24 highlighted text: నేను దానిని అగ్నిలో వేసి కరిగించితిని
+ is not included in the text
+Exodus 32:34b-35: audio file not found: Tel_Exo 3 34b-35.mp3
+Exodus Exodus 32:34b-35: Error saving resource( Tel_Exo 3 34b-35.mp3 ) to firestore: File not found
+**Exodus 33:1-23**
+Exodus 33:11 highlighted text: ముఖాముఖిగా (స్వేచ్ఛగా) is not included in the text
+Exodus 33:12 highlighted text: ‘ఈ ప్రజలను తోడుకొని పొమ్ము’ అని నీవు నాతో చెప్పితివి గాని is not included in the text
+Exodus 33:12 highlighted text: ‘మోషే, నీ మీద నాకు కటాక్షము కలిగినది (నీ పట్ల నేను సంతోషముగా ఉన్నాను)’ అనియు చెప్పితివి కదా is not included in the text
+**Exodus 34:1-35**
+**Exodus 35:1-35**
+**Exodus 36:1-38**
+Exodus 36:17-19 highlighted text: సముద్రవత్సల తోళ్లు is not included in the text
+Exodus 36:34 highlighted text: అడ్డకర్రలను పట్టి ఉంచడానికి చట్రములకు బంగారు ఉంగరములను is not included in the text
+**Exodus 38:1-31**
+Exodus 38:19-20 highlighted text: దిమ్మెలను
+ is not included in the text
+Exodus 38:24-25 highlighted text: వంద తలాంతుల వెయ్యిన్ని ఏడు వందల డెబ్భై ఐదు షెకెళ్లు is not included in the text
+Exodus 38:28-29 highlighted text: రెండు వేల నాలుగు వందల ఇత్తడి లోహపు షెకెళ్లు is not included in the text
+**Exodus 37:1-29**
+**Exodus 39:1-43**
+Exodus 39:6-7 highlighted text: గోమేధిక ముత్యములను (ఒనీక్స్ రాళ్లను) is not included in the text
+Exodus 39:10-13 highlighted text: వారు ఆ రొమ్ము పతకములో రత్నములను నాలుగు వరుసలుగా పొదిగిరి. is not included in the text
+Exodus 39:40-41 highlighted text: <i>పనివారు మోషే యొద్దకు తీసుకొని వచ్చిన గుడారపు ఉపకరణములన్నియు ఇవే.</i> is not included in the text
+**Exodus 3:1-22**
+Exodus 3:8 highlighted text: ఆ భూమి విశాలంగా ఉంటుంది, అందులో పాలు ఇచ్చే జంతువులు అనేకం ఉంటాయి, మరియు తీపి పండ్లు కాసే చెట్లు కూడా అనేకం ఉంటాయి. is not included in the text
+Exodus 3:8 highlighted text: కానానీయులు, హిత్తీయులు... యెబూసీయులు నివసించు స్థలము is not included in the text
+Exodus 3:14 highlighted text: <i></i> is exact match of BEN Text Options
+Exodus 3:19-20 highlighted text: రాజు గొప్ప అద్భుతాలు చూస్తే is not included in the text
+**Exodus 40:1-38**
+Exodus 40:22-23 highlighted text: అతడు/వారు
+ is not included in the text
+Exodus 40:28-29 highlighted text: అతడు/వారు ఆ బలిపీఠము మీద దహనబలిని నైవేద్యమును అర్పించిరి is not included in the text
+**Exodus 6:1-30**
+Exodus 6:2-3 highlighted text: సర్వశక్తిగల దేవుడు is exact match of BEN Text Options
+Exodus 6:2-3 highlighted text: నేను వారికి నన్ను నేనే తెలియజేసుకున్నాను. is not included in the text
+Exodus 6:4-5 highlighted text: నేను నా నిబంధనను జ్ఞాపకం చేసుకున్నాను. is not included in the text
+Exodus 6:9-10 highlighted text: “నువ్వు వెళ్లి ఐగుప్తు రాజైన ఫరోతో, అతను ఇశ్రాయేలీయులను తన దేశం నుండి వెళ్ళనివ్వాలని చెప్పు!” is not included in the text
+**Exodus 5:1-23**
+Exodus 5:1-2 highlighted text: ఇశ్రాయేలు is exact match of BEN Text Options
+Exodus 5:19 highlighted text: అంతే సంఖ్యలో ఇటుకలను is not included in the text
+**Exodus 4:1-31**
+Exodus 4:18 highlighted text: <i></i> is exact match of BEN Text Options
+Exodus 4:25 highlighted text: సున్నతి పొందిన నా పెళ్లికొడుకు/భర్తవి is not included in the text
+**Exodus 7:1-25**
+Exodus 7:1-2 highlighted text: <i>నీకు ప్రవక్తలా ఉంటాడు.</i> is not included in the text
+Exodus 7:11-12 highlighted text: అహరోను కర్ర వారి కర్రలను మింగివేసింది. is not included in the text
+Exodus 7:17b-18 highlighted text: <i></i> is exact match of BEN Text Options
+Exodus 7:22-23 highlighted text: <i></i> is exact match of BEN Text Options
+**Exodus 8:1-32**
+Exodus 8:5 highlighted text: ‘నీ చేతిని చాపు’ is not included in the text
+Exodus 8:6-7: audio file not found: Tel_Exo 8 6-7.m3
+Exodus Exodus 8:6-7: Error saving resource( Tel_Exo 8 6-7.m3 ) to firestore: File not found
+Exodus 8:9-10a highlighted text: రేపు! is not included in the text
+Exodus 8:12-14 highlighted text: అందరి ఇళ్ల నుండి, ప్రాంగణాల నుండి మరియు పొలాల నుండి కప్పలు వెళ్ళిపోయి, చనిపోయాయి. is not included in the text
+Exodus 8:18-19 highlighted text: “కేవలం నిజమైన దేవుడు మాత్రమే ఇలా చేయగలడు” is not included in the text
+Exodus 8:18-19 highlighted text: <i></i> is exact match of BEN Text Options
+Exodus 8:30-31: audio file not found: Tel_Exo 9 30-31.mp3
+Exodus Exodus 8:30-31: Error saving resource( Tel_Exo 9 30-31.mp3 ) to firestore: File not found
+Exodus 8:32 highlighted text: ఫరో మొండిగా మారాడు is not included in the text
+**Exodus 9:1-35**
+Exodus 9:10-11 highlighted text: వారు మోషే ఎదుట నిలబడలేకపోయారు. is not included in the text
+Exodus 9:12 highlighted text: యాహ్వే ఫరోను మొండిగా ఉండేలా చేశాడు is not included in the text
+Exodus 9:19b-21 highlighted text: తమ సేవకులను, పశువులను పొలాల్లోనే వదిలివేశారు. is exact match of BEN Text Options
+Exodus 9:19b-21 highlighted text: తమ సేవకులను, పశువులను పొలాల్లోనే వదిలివేశారు. is not included in the text
+Exodus 9:27-28 highlighted text: భయంకరమైన ఉరుములు మరియు వడగళ్లు is not included in the text
+**Exodus 2:1-25**
+Exodus 2:14b-15a highlighted text: నిజానికి, is not included in the text
+**Exodus 29:1-46**
+**Exodus 30:1-38**
+Exodus 30:13-14 highlighted text: విమోచన క్రయధనముగా is not included in the text
+Exodus 30:17-18 highlighted text: ఇత్తడితో’
+ is not included in the text

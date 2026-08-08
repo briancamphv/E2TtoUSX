@@ -1,0 +1,140 @@
+**Exodus 11:1-10**
+**Exodus 10:1-29**
+**Exodus 12a,:1-28**
+**Exodus 12b:29-51**
+**Exodus 14:1-31**
+**Exodus 13:1-22**
+**Exodus 16:1-36**
+Exodus 16:17-18 highlighted text: <i></i> is exact match of BEN Text Options
+**Exodus 15:1-27**
+**Exodus 18:1-27**
+Exodus 18:1: picture file not found: Jéthro bibleinsides.com.jpg
+Exodus 18:1: Error saving resource( Jéthro bibleinsides.com.jpg ) to firestore: File not found
+Exodus 18:6-7: picture file not found: Mo Jéthro wife 2 sons pinterest.com.jpg
+Exodus 18:6-7: Error saving resource( Mo Jéthro wife 2 sons pinterest.com.jpg ) to firestore: File not found
+Exodus 18:8-9: picture file not found: Mo n Jéthro biblepics.com.jpg
+Exodus 18:8-9: Error saving resource( Mo n Jéthro biblepics.com.jpg ) to firestore: File not found
+Exodus 18:10-11: picture file not found: Mo n Jéthro biblepics.com.jpg
+Exodus 18:10-11: Error saving resource( Mo n Jéthro biblepics.com.jpg ) to firestore: File not found
+Exodus 18:12: picture file not found: Jéthro helps Mo delegate messiahprophecyandhistory.co.uk.jpg
+Exodus 18:12: Error saving resource( Jéthro helps Mo delegate messiahprophecyandhistory.co.uk.jpg ) to firestore: File not found
+Exodus 18:15-17: picture file not found: Jéthro n Mo greet talk.jpg
+Exodus 18:15-17: Error saving resource( Jéthro n Mo greet talk.jpg ) to firestore: File not found
+Exodus 18:18-19a highlighted text: <i></i> is exact match of BEN Text Options
+Exodus 18:21: picture file not found: Jéthro helps Mo delegate messiahprophecyandhistory.co.uk.jpg
+Exodus 18:21: Error saving resource( Jéthro helps Mo delegate messiahprophecyandhistory.co.uk.jpg ) to firestore: File not found
+Exodus 18:23: audio file not found: FR_Ex_18_23.mp3
+Exodus Exodus 18:23: Error saving resource( FR_Ex_18_23.mp3 ) to firestore: File not found
+Exodus 18:23 highlighted text: Dieu te révèlera ses commandements (sg). is not included in the text
+Exodus 18:26b-27: picture file not found: Jéthro n Mo greet talk.jpg
+Exodus 18:26b-27: Error saving resource( Jéthro n Mo greet talk.jpg ) to firestore: File not found
+Exodus 18:26b-27 highlighted text: dit adieu à is not included in the text
+**Exodus 17:1-16**
+**Exodus 19:1-25**
+Exodus 19:18-19 highlighted text: <i></i> is exact match of BEN Text Options
+**Exodus 1:1-22**
+Exodus 1:17-18 highlighted text: <i></i> is exact match of BEN Text Options
+**Exodus 20:1-26**
+Exodus 20:20 highlighted text: Faites des comportements méchants is not included in the text
+**Exodus 21:1-36**
+**Exodus 22:1-31**
+Exodus 22:1: audio file not found: FR_Ex_22_1.mp3
+Exodus Exodus 22:1: Error saving resource( FR_Ex_22_1.mp3 ) to firestore: File not found
+Exodus 22:16-17 highlighted text: <i></i> is exact match of BEN Text Options
+**Exodus 23:1-33**
+**Exodus 24:1-18**
+passageOverview: Error saving resource(   ) to firestore: File not found
+**Exodus 26:1-37**
+Exodus 26:18-21: audio file not found: FR_Ex_26_18-21.mp3
+Exodus Exodus 26:18-21: Error saving resource( FR_Ex_26_18-21.mp3 ) to firestore: File not found
+passageOverview: Error saving resource(   ) to firestore: File not found
+**Exodus 27:1-22**
+**Exodus 25:1-40**
+**Exodus 28:1-43**
+Exodus 28:11-12 highlighted text: <i>Aaron porte </i>les fils d'Israël <i>à Yahvé</i> is not included in the text
+Exodus 28:15-16 highlighted text: Du lin fin (tissé) is not included in the text
+Exodus 28:23-25 highlighted text: coudre is not included in the text
+Exodus 28:39 highlighted text: lin fin  is not included in the text
+Exodus 28:40-41 highlighted text: beau pour leur donner de l’honneur is not included in the text
+passageOverview: Error saving resource( &t=5s  ) to firestore: File not found
+**Exodus 2:1-25**
+**Exodus 30:1-38**
+Exodus 30:1-3 highlighted text: une coude is not included in the text
+Exodus 30:1-3 highlighted text: coins/cornes surélevées is not included in the text
+Exodus 30:6 highlighted text: Boîte des témoignages is not included in the text
+Exodus 30:13-14 highlighted text: âgés de 20 ans is not included in the text
+Exodus 30:22-24a highlighted text: Tente sacrée is not included in the text
+Exodus 30:32b-33 highlighted text: exclure/séparer cette personne de (parmi de) son peuple is not included in the text
+Exodus 30:34-36a highlighted text: un encens sacré pur is not included in the text
+Exodus 30:36B-38: audio file not found: FR_Ex_30_36b-38.mp3
+Exodus Exodus 30:36B-38: Error saving resource( FR_Ex_30_36b-38.mp3 ) to firestore: File not found
+Exodus 30:36B-38 highlighted text: exclure/séparer cette personne de (parmi les autres) de son peuple is not included in the text
+**Exodus 29:1-46**
+Exodus 29:1B-2 highlighted text: versez de l'huile d'olive dessus is not included in the text
+Exodus 29:12-13 highlighted text: Versez le sang restant à la base de l'autel is not included in the text
+Exodus 29:22 highlighted text: Prends toutes ces pièces is not included in the text
+**Exodus 31:1-18**
+Exodus 31:12-13 highlighted text: tu n’appartiens qu’à moi, Yahvé is not included in the text
+**Exodus 35:1-35**
+Exodus 35:20-21 highlighted text: ce que son esprit lui a fait apporter is not included in the text
+Exodus 35:27-28 highlighted text: précieux is not included in the text
+**Exodus 36:1-38**
+Exodus 36:34: audio file not found: FR_Ex_36_34.mp3
+Exodus Exodus 36:34: Error saving resource( FR_Ex_36_34.mp3 ) to firestore: File not found
+Exodus 36:35-36 highlighted text: bases is not included in the text
+Exodus 36:37-38 highlighted text: cousu is not included in the text
+**Exodus 37:1-29**
+Exodus 37:10-12 highlighted text: une main est grande is not included in the text
+Exodus 37:10-12 highlighted text: Rim is not included in the text
+Exodus 37:13-15 highlighted text: Quatre jambes is not included in the text
+Exodus 37:13-15 highlighted text: Rim is not included in the text
+Exodus 37:13-15 highlighted text:  <i>Bois </i>d’acacias  is not included in the text
+Exodus 37:16 highlighted text: Conteneurs is not included in the text
+Exodus 37:25-26a highlighted text: <i>bois </i>d’acacias  is not included in the text
+Exodus 37:25-26a highlighted text: une coude is not included in the text
+Exodus 37:26b-28 highlighted text: attaché is not included in the text
+**Exodus 38:1-31**
+Exodus 38:1-2 highlighted text:  <i>bois </i>d’acacias  is not included in the text
+Exodus 38:26-27 commentary: socles Error saving resource( tent wall frame socles.jpg ) to firestore: File not found
+Exodus 38:28-29 highlighted text: 75 <i>talents </i>en métal bronze is not included in the text
+**Exodus 33:1-23**
+**Exodus 3:1-22**
+Exodus 3:14 highlighted text: <i></i> is exact match of BEN Text Options
+**Exodus 39:1-43**
+Exodus 39:6-7 highlighted text: gravé is not included in the text
+Exodus 39:6-7 highlighted text: <i>comme </i>rappel <i>continu </i> is not included in the text
+Exodus 39:16-18 highlighted text: tablier (de poitrine) du sacré is not included in the text
+Exodus 39:21 highlighted text: les anneaux de la cuirasse sont ornés des anneaux du tablier, utilisant un cordon bleu is not included in the text
+Exodus 39:30-31 highlighted text: Assiette/Signe sacré is not included in the text
+**Exodus 40:1-38**
+Exodus 40:12-13 highlighted text: consacrer is not included in the text
+Exodus 40:33 highlighted text: érigé is not included in the text
+Exodus 40:33 highlighted text: pour couvrir/être is not included in the text
+**Exodus 4:1-31**
+Exodus 4:18 highlighted text: <i></i> is exact match of BEN Text Options
+**Exodus 5:1-23**
+**Exodus 6:1-30**
+**Exodus 32:1-35**
+Exodus 32:12 highlighted text: Céder de is not included in the text
+Exodus 32:13 highlighted text: multiplier  is not included in the text
+Exodus 32:14 highlighted text: cédé de is not included in the text
+Exodus 32:14 highlighted text: <i>comme il l'avait dit à Moïse qu'il ferait</i> is not included in the text
+Exodus 32:15-16 highlighted text: Gravure is not included in the text
+Exodus 32:17-18 highlighted text: à quoi ressemble le chant is not included in the text
+Exodus 32:20 highlighted text: Terrain is not included in the text
+Exodus 32:31B-32 highlighted text: a commis un péché grave is not included in the text
+Exodus 32:33-34a highlighted text: effacer de mon livre is not included in the text
+Exodus 32:33-34a highlighted text: Va avant is not included in the text
+Exodus 32:34B-35 highlighted text: un jour, je les punirai certainement is not included in the text
+**Exodus 7:1-25**
+Exodus 7:17b-18 highlighted text: <i></i> is exact match of BEN Text Options
+**Exodus 8:1-32**
+Exodus 8:18-19 highlighted text: <i></i> is exact match of BEN Text Options
+**Exodus 9.1-35**
+**Exodus 34:1-35**
+Exodus 34:8-9 highlighted text: Adonai is not included in the text
+Exodus 34:17 highlighted text: Façonné is not included in the text
+Exodus 34:20b highlighted text: <i>Vient avant moi</i> is not included in the text
+Exodus 34:20b highlighted text: <i>apporte un sacrifice à offrir</i> is not included in the text
+Exodus 34:26A highlighted text: Maison is not included in the text
+Exodus 34:34-35 highlighted text: brillant is not included in the text
